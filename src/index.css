@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Gulzar&family=Noto+Nastaliq+Urdu:wght@400;500;600;700&family=Amiri:ital,wght@0,400;0,700;1,400&family=Noto+Sans+Arabic:wght@400;600;700;800&family=Outfit:wght@300;400;500;600;700;800&family=Scheherazade+New:wght@400;600;700;800&display=swap');
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Noto Nastaliq Urdu', 'Gulzar', 'Jameel Noori Nastaleeq', 'Jameel Noori Nastaleeq Kasheeda', 'Nafees Nastaleeq', 'Alvi Nastaleeq', 'Urdu Typesetting', 'Outfit', sans-serif;
+    background-color: #0e131d;
+    color: #f3f4f6;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-touch-callout: none;
+  }
+  
+  img, svg, video, audio {
+    -webkit-user-drag: none;
+    -khtml-user-drag: none;
+    -moz-user-drag: none;
+    -o-user-drag: none;
+    user-drag: none;
+    pointer-events: auto;
+  }
+}
+
+/* Security Protection - Hide on Print / Screen Capture attempts */
+@media print {
+  html, body {
+    display: none !important;
+    visibility: hidden !important;
+  }
+}
+
+/* Arabic Quranic script strictly preserved for Quranic verses, letters, and Arabic texts */
+.font-arabic,
+.font-quran,
+.arabic-text,
+.tqp-dua-arabic {
+  font-family: 'Scheherazade New', 'Amiri', 'Traditional Arabic', serif !important;
+  line-height: 1.8;
+  direction: rtl;
+  text-rendering: optimizeLegibility;
+}
+
+/* High-Quality Authentic Nastaliq Urdu Font for all Urdu script across lessons and app */
+.font-urdu,
+.font-nastaliq,
+.nastaliq,
+.font-jameel,
+.urdu-text,
+.urdu-script {
+  font-family: 'Noto Nastaliq Urdu', 'Gulzar', 'Jameel Noori Nastaleeq', 'Jameel Noori Nastaleeq Kasheeda', 'Nafees Nastaleeq', 'Alvi Nastaleeq', 'Urdu Typesetting', serif !important;
+  line-height: 2.1;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Ensure Urdu direction elements automatically inherit beautiful Nastaliq */
+[dir="rtl"]:not(.font-arabic):not(.font-quran):not(.tqp-dua-arabic):not(.arabic-text) {
+  font-family: 'Noto Nastaliq Urdu', 'Gulzar', 'Jameel Noori Nastaleeq', 'Jameel Noori Nastaleeq Kasheeda', 'Nafees Nastaleeq', 'Alvi Nastaleeq', 'Outfit', sans-serif;
+}
+
+/* All headings, buttons, labels and instructions inside RTL default to Nastaliq */
+[dir="rtl"] h1,
+[dir="rtl"] h2,
+[dir="rtl"] h3,
+[dir="rtl"] h4,
+[dir="rtl"] h5,
+[dir="rtl"] h6,
+[dir="rtl"] p:not(.font-arabic):not(.font-quran):not(.arabic-text),
+[dir="rtl"] button:not(.font-arabic):not(.font-quran),
+[dir="rtl"] label,
+[dir="rtl"] .tqp-instruction,
+[dir="rtl"] .qaida-rule,
+[dir="rtl"] .tajweed-rule {
+  font-family: 'Noto Nastaliq Urdu', 'Gulzar', 'Jameel Noori Nastaleeq', 'Jameel Noori Nastaleeq Kasheeda', 'Nafees Nastaleeq', serif;
+}
+
+/* Custom smooth dark scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0f172a;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #334155;
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #475569;
+}
+
+@keyframes glideBanner {
+  0% { transform: translateX(20px); opacity: 0.9; }
+  50% { transform: translateX(0px); opacity: 1; }
+  100% { transform: translateX(-20px); opacity: 0.9; }
+}
+
+.animate-glide {
+  animation: glideBanner 4s ease-in-out infinite alternate;
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+/* Hide scrollbar for IE, Edge and Firefox */
+.no-scrollbar {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+
+
+
+

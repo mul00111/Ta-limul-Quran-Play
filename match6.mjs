@@ -1,0 +1,31 @@
+async function search(q) {
+  const res = await fetch(`https://api.quran.com/api/v4/search?q=${encodeURIComponent(q)}&size=1`);
+  const data = await res.json();
+  console.log(q, data.search.results[0]?.verse_key);
+}
+await search("من قبل");
+await search("من كتب");
+await search("انت");
+await search("تنسون");
+await search("ينصرون");
+await search("منضود");
+await search("ينطقون");
+await search("انظر");
+await search("انفسكم");
+await search("ينقضون");
+await search("منكم");
+await search("قولا ثقيلا");
+await search("فصبر جميل");
+await search("كأسا دهاقا");
+await search("سراعا ذلك");
+await search("صعيدا زلقا");
+await search("قولا سديدا");
+await search("عذاب شديد");
+await search("عملا صالحا");
+await search("عذابا ضعفا");
+await search("سبحا طويلا");
+await search("سحاب ظلمات");
+await search("قوما فاسقين");
+await search("ثمنا قليلا");
+await search("رسول كريم");
+await search("كراما كاتبين");

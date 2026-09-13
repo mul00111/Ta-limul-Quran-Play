@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="ur" dir="rtl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" />
+    <title>Ta'limul Quran Play</title>
+    <meta name="description" content="An interactive Islamic Quran learning platform with complete Online Madrasa Management (Teachers, Students, Classes, Live Classroom, Attendance, Fees, Exams, and Online Donations &amp; Sponsorships)." />
+    <meta property="og:title" content="Ta'limul Quran Play" />
+    <meta property="og:description" content="An interactive Islamic Quran learning platform with complete Online Madrasa Management (Teachers, Students, Classes, Live Classroom, Attendance, Fees, Exams, and Online Donations &amp; Sponsorships)." />
+    <meta name="theme-color" content="#0e131d" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="application-name" content="Ta'limul Quran Play" />
+    <link rel="icon" type="image/png" href="/favicon.png" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="manifest" href="/manifest.json" />
+    <script>
+      (function() {
+        var isDev = window.location.hostname === 'localhost' ||
+                    window.location.hostname.includes('ais-dev') ||
+                    window.location.port === '3000';
+        if (isDev && 'serviceWorker' in navigator) {
+          navigator.serviceWorker.getRegistrations().then(function(regs) {
+            for (var i = 0; i < regs.length; i++) {
+              regs[i].unregister();
+            }
+          });
+          if ('caches' in window) {
+            caches.keys().then(function(keys) {
+              for (var j = 0; j < keys.length; j++) {
+                caches.delete(keys[j]);
+              }
+            });
+          }
+        } else if (!isDev && 'serviceWorker' in navigator && window.location.protocol === 'https:') {
+          window.addEventListener('load', function() {
+            navigator.serviceWorker.register('/sw.js', { scope: '/' })
+              .catch(function(err) {
+                console.warn('SW registration skipped:', err);
+              });
+          });
+        }
+      })();
+    </script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Gulzar&family=Noto+Nastaliq+Urdu:wght@400;500;600;700&family=Amiri:ital,wght@0,400;0,700;1,400&family=Noto+Sans+Arabic:wght@100..900&family=Outfit:wght@300;400;500;600;700;800&family=Scheherazade+New:wght@400;600;700;800&display=swap" rel="stylesheet">
+    <script type="module" crossorigin src="/assets/index-BIO12UkK.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index--ph63u4j.css">
+  </head>
+  <body class="bg-[#0e131d] text-white selection:bg-rose-600 selection:text-white antialiased overflow-x-hidden">
+    <div id="root"></div>
+  </body>
+</html>
+

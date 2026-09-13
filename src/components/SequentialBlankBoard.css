@@ -1,0 +1,865 @@
+/* =========================================================
+   TA'LIMUL QURAN PLAY
+   SEQUENTIAL BLANK BOARD
+   PREMIUM MOBILE-FIRST GAME UI
+========================================================= */
+
+.tqp-game {
+  --tqp-bg: #0b1020;
+  --tqp-card: #111a2d;
+  --tqp-card-2: #070d1e;
+  --tqp-border: #243452;
+  --tqp-gold: #f4c430;
+  --tqp-gold-dark: #9b6910;
+  --tqp-green: #00d19a;
+  --tqp-green-dark: #08795e;
+  --tqp-purple: #bd79ff;
+  --tqp-red: #ff4567;
+  --tqp-text: #f5f7ff;
+  --tqp-muted: #8e9ab3;
+
+  width: 100%;
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 18px 14px 42px;
+  box-sizing: border-box;
+  color: var(--tqp-text);
+  font-family:
+    "Noto Nastaliq Urdu",
+    "Gulzar",
+    "Jameel Noori Nastaleeq",
+    "Noto Sans Arabic",
+    "Segoe UI",
+    sans-serif;
+}
+
+/* =========================================================
+   HEADER
+========================================================= */
+
+.tqp-game-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 14px;
+  padding: 20px;
+  border: 1px solid var(--tqp-border);
+  border-radius: 24px;
+  background:
+    radial-gradient(
+      circle at 85% 10%,
+      rgba(244, 196, 48, 0.12),
+      transparent 34%
+    ),
+    linear-gradient(
+      145deg,
+      #121c31,
+      #0b1121
+    );
+  box-shadow:
+    0 15px 45px rgba(0, 0, 0, 0.25);
+}
+
+.tqp-game-eyebrow {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  margin-bottom: 7px;
+  color: var(--tqp-gold);
+  font-size: 13px;
+  font-weight: 800;
+}
+
+.tqp-game-title {
+  margin: 0;
+  font-size: clamp(22px, 6vw, 34px);
+  line-height: 1.45;
+  font-weight: 900;
+}
+
+.tqp-game-description {
+  margin: 7px 0 0;
+  color: #aeb9ce;
+  font-size: 13px;
+  line-height: 1.8;
+}
+
+.tqp-game-description strong {
+  color: var(--tqp-gold);
+}
+
+.tqp-game-progress {
+  flex: 0 0 auto;
+  min-width: 72px;
+  padding: 10px 12px;
+  border: 1px solid rgba(244, 196, 48, 0.35);
+  border-radius: 15px;
+  background: rgba(244, 196, 48, 0.07);
+  text-align: center;
+}
+
+.tqp-game-progress span {
+  display: block;
+  color: var(--tqp-muted);
+  font-size: 10px;
+  font-weight: 700;
+}
+
+.tqp-game-progress strong {
+  display: block;
+  margin-top: 3px;
+  color: var(--tqp-gold);
+  font-size: 19px;
+}
+
+/* =========================================================
+   TARGET
+========================================================= */
+
+.tqp-target-card {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  margin-top: 14px;
+  padding: 16px;
+  border: 1px solid rgba(0, 209, 154, 0.38);
+  border-radius: 22px;
+  overflow: hidden;
+  background:
+    radial-gradient(
+      circle at 15% 50%,
+      rgba(0, 209, 154, 0.15),
+      transparent 40%
+    ),
+    linear-gradient(
+      135deg,
+      #0d2630,
+      #101a2d
+    );
+}
+
+.tqp-target-icon {
+  display: grid;
+  place-items: center;
+  width: 52px;
+  height: 52px;
+  flex: 0 0 52px;
+  border-radius: 16px;
+  background: rgba(0, 209, 154, 0.12);
+  font-size: 26px;
+}
+
+.tqp-target-content {
+  flex: 1;
+  min-width: 0;
+}
+
+.tqp-target-label {
+  display: block;
+  color: #8fa2b9;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.tqp-target-letter {
+  display: inline-block;
+  margin-top: -3px;
+  color: var(--tqp-gold);
+  font-family: "Noto Sans Arabic", sans-serif;
+  font-size: 46px;
+  line-height: 1.15;
+  font-weight: 900;
+}
+
+.tqp-target-name {
+  display: inline-block;
+  margin-right: 9px;
+  color: #cbd4e4;
+  font-size: 13px;
+  font-family: "Noto Nastaliq Urdu", "Gulzar", "Jameel Noori Nastaleeq", serif;
+  line-height: 1.8;
+}
+
+.tqp-listen-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+  min-width: 65px;
+  min-height: 48px;
+  padding: 7px 10px;
+  border: 1px solid rgba(0, 209, 154, 0.35);
+  border-radius: 14px;
+  background: rgba(0, 209, 154, 0.1);
+  color: var(--tqp-green);
+  cursor: pointer;
+  font-weight: 800;
+}
+
+/* =========================================================
+   PROGRESS
+========================================================= */
+
+.tqp-progress-wrapper {
+  margin-top: 15px;
+  padding: 0 4px;
+}
+
+.tqp-progress-meta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 7px;
+  color: var(--tqp-muted);
+  font-size: 11px;
+  font-weight: 700;
+}
+
+.tqp-progress-meta strong {
+  color: var(--tqp-gold);
+}
+
+.tqp-progress-track {
+  height: 8px;
+  overflow: hidden;
+  border-radius: 999px;
+  background: #1d2940;
+}
+
+.tqp-progress-fill {
+  height: 100%;
+  border-radius: inherit;
+  background:
+    linear-gradient(
+      90deg,
+      #00a77c,
+      #00d19a,
+      #f4c430
+    );
+  transition: width 0.45s ease;
+}
+
+/* =========================================================
+   ACTIONS
+========================================================= */
+
+.tqp-actions {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 8px;
+  margin-top: 15px;
+}
+
+.tqp-action {
+  min-height: 44px;
+  padding: 8px 5px;
+  border: 1px solid #2c3b58;
+  border-radius: 13px;
+  background: #121d31;
+  color: #d8dfed;
+  cursor: pointer;
+  font-size: 11px;
+  font-weight: 800;
+  transition:
+    transform 0.15s ease,
+    border-color 0.15s ease,
+    background 0.15s ease;
+}
+
+.tqp-action:hover {
+  border-color: #506482;
+  transform: translateY(-1px);
+}
+
+.tqp-action:active {
+  transform: scale(0.97);
+}
+
+.tqp-action:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
+.tqp-action-primary {
+  border-color: rgba(189, 121, 255, 0.45);
+  background: rgba(189, 121, 255, 0.11);
+  color: var(--tqp-purple);
+}
+
+.tqp-action-danger {
+  border-color: rgba(255, 69, 103, 0.35);
+  color: #ff7790;
+}
+
+/* =========================================================
+   FEEDBACK
+========================================================= */
+
+.tqp-feedback {
+  display: flex;
+  align-items: center;
+  gap: 11px;
+  margin-top: 12px;
+  padding: 11px 14px;
+  border-radius: 15px;
+  animation: tqpFeedbackIn 0.25s ease;
+}
+
+.tqp-feedback-icon {
+  display: grid;
+  place-items: center;
+  width: 34px;
+  height: 34px;
+  flex: 0 0 34px;
+  border-radius: 50%;
+  font-size: 18px;
+  font-weight: 900;
+}
+
+.tqp-feedback strong,
+.tqp-feedback span {
+  display: block;
+}
+
+.tqp-feedback strong {
+  font-size: 13px;
+}
+
+.tqp-feedback span {
+  margin-top: 2px;
+  color: #aab6ca;
+  font-size: 11px;
+}
+
+.tqp-feedback-correct {
+  border: 1px solid rgba(0, 209, 154, 0.3);
+  background: rgba(0, 209, 154, 0.09);
+}
+
+.tqp-feedback-correct .tqp-feedback-icon {
+  background: rgba(0, 209, 154, 0.16);
+  color: var(--tqp-green);
+}
+
+.tqp-feedback-wrong {
+  border: 1px solid rgba(255, 69, 103, 0.3);
+  background: rgba(255, 69, 103, 0.08);
+}
+
+.tqp-feedback-wrong .tqp-feedback-icon {
+  background: rgba(255, 69, 103, 0.16);
+  color: var(--tqp-red);
+}
+
+.tqp-feedback-hint {
+  border: 1px solid rgba(244, 196, 48, 0.3);
+  background: rgba(244, 196, 48, 0.07);
+}
+
+.tqp-feedback-hint .tqp-feedback-icon {
+  background: rgba(244, 196, 48, 0.14);
+}
+
+.tqp-feedback-info {
+  border: 1px solid rgba(189, 121, 255, 0.3);
+  background: rgba(189, 121, 255, 0.07);
+}
+
+/* =========================================================
+   BOARD
+========================================================= */
+
+.tqp-board-section {
+  margin-top: 16px;
+  padding: 16px;
+  border: 1px solid rgba(244, 196, 48, 0.38);
+  border-radius: 25px;
+  background:
+    linear-gradient(
+      180deg,
+      rgba(16, 26, 45, 0.98),
+      rgba(8, 14, 29, 0.98)
+    );
+}
+
+.tqp-board-heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  margin-bottom: 14px;
+}
+
+.tqp-board-kicker {
+  display: block;
+  margin-bottom: 2px;
+  color: var(--tqp-gold);
+  font-size: 11px;
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.tqp-board-heading h2 {
+  margin: 0;
+  color: #e8edf7;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.tqp-board-counter {
+  min-width: 55px;
+  padding: 7px 9px;
+  border-radius: 12px;
+  background: #070d1d;
+  text-align: center;
+}
+
+.tqp-board-counter strong {
+  color: var(--tqp-gold);
+  font-size: 18px;
+}
+
+.tqp-board-counter span {
+  color: #69768e;
+  font-size: 11px;
+}
+
+/* =========================================================
+   4 COLUMN MOBILE BOARD
+========================================================= */
+
+.tqp-letter-board {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 9px;
+}
+
+.tqp-letter-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-width: 0;
+  aspect-ratio: 0.82;
+  padding: 8px 5px;
+  overflow: hidden;
+  border: 2px solid #8a5d12;
+  border-radius: 19px;
+  background:
+    linear-gradient(
+      150deg,
+      #0a1021,
+      #080d1c
+    );
+  color: white;
+  cursor: pointer;
+  transition:
+    transform 0.18s ease,
+    border-color 0.18s ease,
+    box-shadow 0.18s ease,
+    background 0.18s ease;
+}
+
+.tqp-letter-card:hover {
+  transform: translateY(-2px);
+}
+
+.tqp-letter-card:active {
+  transform: scale(0.95);
+}
+
+.tqp-letter-number {
+  position: absolute;
+  top: 7px;
+  right: 8px;
+  color: #c99618;
+  font-family: Arial, sans-serif;
+  font-size: 9px;
+  font-weight: 900;
+}
+
+.tqp-letter {
+  color: #f7c932;
+  font-family:
+    "Noto Sans Arabic",
+    "Segoe UI",
+    sans-serif;
+  font-size: clamp(30px, 9vw, 46px);
+  line-height: 1;
+  font-weight: 900;
+}
+
+.tqp-letter-name {
+  max-width: 100%;
+  margin-top: 7px;
+  padding: 3px 6px;
+  overflow: hidden;
+  border-radius: 999px;
+  background: #111a2d;
+  color: #aeb8c9;
+  font-size: 10px;
+  font-weight: 700;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-family: "Noto Nastaliq Urdu", "Gulzar", "Jameel Noori Nastaleeq", serif;
+  line-height: 1.8;
+}
+
+.tqp-letter-card.is-current {
+  border-color: #f5ca34;
+  background:
+    radial-gradient(
+      circle at center,
+      rgba(244, 196, 48, 0.13),
+      transparent 70%
+    ),
+    #110f18;
+  box-shadow:
+    0 0 0 2px rgba(244, 196, 48, 0.1),
+    0 0 24px rgba(244, 196, 48, 0.18);
+  animation: tqpTargetPulse 1.6s infinite;
+}
+
+.tqp-letter-card.is-current .tqp-letter {
+  text-shadow:
+    0 0 18px rgba(244, 196, 48, 0.45);
+}
+
+.tqp-letter-card.is-completed {
+  border-color: rgba(0, 209, 154, 0.55);
+  background:
+    linear-gradient(
+      145deg,
+      rgba(0, 209, 154, 0.13),
+      #091520
+    );
+}
+
+.tqp-letter-card.is-completed .tqp-letter {
+  color: #43e2b5;
+}
+
+.tqp-letter-card.is-completed .tqp-letter-name {
+  color: #6be8c5;
+  background: rgba(0, 209, 154, 0.08);
+}
+
+.tqp-letter-card.is-locked {
+  border-color: #27344d;
+  background: #080e1d;
+  opacity: 0.65;
+}
+
+.tqp-letter-card.is-locked .tqp-letter {
+  color: #68758b;
+}
+
+.tqp-letter-card.is-locked .tqp-letter-name {
+  color: #59657a;
+}
+
+.tqp-complete-mark,
+.tqp-target-mark {
+  position: absolute;
+  left: 7px;
+  top: 6px;
+  display: grid;
+  place-items: center;
+  width: 21px;
+  height: 21px;
+  border-radius: 50%;
+  font-family: Arial, sans-serif;
+  font-size: 10px;
+}
+
+.tqp-complete-mark {
+  background: rgba(0, 209, 154, 0.15);
+  color: #48e0b6;
+}
+
+.tqp-target-mark {
+  background: rgba(244, 196, 48, 0.12);
+  font-size: 11px;
+}
+
+/* =========================================================
+   STATS
+========================================================= */
+
+.tqp-stats {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 9px;
+  margin-top: 15px;
+}
+
+.tqp-stat {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  min-height: 68px;
+  padding: 11px;
+  border: 1px solid #202d45;
+  border-radius: 17px;
+  background: #0d1527;
+}
+
+.tqp-stat-icon {
+  display: grid;
+  place-items: center;
+  width: 38px;
+  height: 38px;
+  flex: 0 0 38px;
+  border-radius: 12px;
+  background: #080e1d;
+  font-size: 19px;
+}
+
+.tqp-stat small,
+.tqp-stat strong {
+  display: block;
+}
+
+.tqp-stat small {
+  color: #8995ab;
+  font-size: 10px;
+}
+
+.tqp-stat strong {
+  margin-top: 3px;
+  color: #edf2fb;
+  font-size: 15px;
+}
+
+/* =========================================================
+   COMPLETION
+========================================================= */
+
+.tqp-completion {
+  position: relative;
+  margin-top: 17px;
+  padding: 25px 18px;
+  overflow: hidden;
+  border: 1px solid rgba(244, 196, 48, 0.55);
+  border-radius: 25px;
+  background:
+    radial-gradient(
+      circle at 50% 0%,
+      rgba(244, 196, 48, 0.18),
+      transparent 55%
+    ),
+    linear-gradient(
+      145deg,
+      #172036,
+      #0c1526
+    );
+  text-align: center;
+  animation: tqpCompletionIn 0.5s ease;
+}
+
+.tqp-completion-stars {
+  color: var(--tqp-gold);
+  font-size: 18px;
+  letter-spacing: 5px;
+}
+
+.tqp-completion-icon {
+  margin: 9px 0;
+  font-size: 46px;
+}
+
+.tqp-completion h2 {
+  margin: 0;
+  color: var(--tqp-gold);
+  font-size: 22px;
+}
+
+.tqp-completion p {
+  margin: 7px auto 15px;
+  max-width: 430px;
+  color: #aab5c8;
+  font-size: 13px;
+  line-height: 1.8;
+}
+
+.tqp-completion-rewards {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 7px;
+}
+
+.tqp-completion-rewards span {
+  padding: 7px 10px;
+  border: 1px solid #2c3a53;
+  border-radius: 999px;
+  background: #080f1e;
+  color: #d8e0ef;
+  font-size: 10px;
+  font-weight: 800;
+}
+
+.tqp-play-again {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 9px;
+  min-height: 47px;
+  margin-top: 17px;
+  padding: 0 23px;
+  border: 0;
+  border-radius: 14px;
+  background:
+    linear-gradient(
+      135deg,
+      #00c997,
+      #00a982
+    );
+  color: #031712;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 900;
+  box-shadow:
+    0 8px 25px rgba(0, 209, 154, 0.18);
+}
+
+/* =========================================================
+   ANIMATIONS
+========================================================= */
+
+@keyframes tqpTargetPulse {
+  0%,
+  100% {
+    box-shadow:
+      0 0 0 2px rgba(244, 196, 48, 0.1),
+      0 0 18px rgba(244, 196, 48, 0.12);
+  }
+
+  50% {
+    box-shadow:
+      0 0 0 4px rgba(244, 196, 48, 0.07),
+      0 0 30px rgba(244, 196, 48, 0.24);
+  }
+}
+
+@keyframes tqpFeedbackIn {
+  from {
+    opacity: 0;
+    transform: translateY(-7px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes tqpCompletionIn {
+  from {
+    opacity: 0;
+    transform: scale(0.96);
+  }
+
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+/* =========================================================
+   TABLET / DESKTOP
+========================================================= */
+
+@media (min-width: 600px) {
+  .tqp-game {
+    padding: 24px 20px 55px;
+  }
+
+  .tqp-letter-board {
+    grid-template-columns: repeat(5, 1fr);
+    gap: 11px;
+  }
+
+  .tqp-letter-card {
+    aspect-ratio: 0.9;
+  }
+
+  .tqp-stats {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+/* =========================================================
+   SMALL PHONES
+========================================================= */
+
+@media (max-width: 360px) {
+  .tqp-game {
+    padding-left: 9px;
+    padding-right: 9px;
+  }
+
+  .tqp-game-header {
+    padding: 15px;
+  }
+
+  .tqp-game-title {
+    font-size: 20px;
+  }
+
+  .tqp-game-description {
+    font-size: 11px;
+  }
+
+  .tqp-target-card {
+    padding: 12px;
+  }
+
+  .tqp-target-icon {
+    width: 43px;
+    height: 43px;
+    flex-basis: 43px;
+  }
+
+  .tqp-target-letter {
+    font-size: 38px;
+  }
+
+  .tqp-actions {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .tqp-letter-board {
+    gap: 7px;
+  }
+
+  .tqp-letter-card {
+    border-radius: 15px;
+  }
+
+  .tqp-letter-name {
+    font-size: 8px;
+  }
+}
+
+/* =========================================================
+   ACCESSIBILITY
+========================================================= */
+
+.tqp-game button:focus-visible {
+  outline: 3px solid rgba(0, 209, 154, 0.55);
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .tqp-game *,
+  .tqp-game *::before,
+  .tqp-game *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

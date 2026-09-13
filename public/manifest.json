@@ -1,0 +1,108 @@
+{
+  "id": "com.talimulquran.play",
+  "short_name": "تعلیم القرآن",
+  "name": "Ta'limul Quran Play - تعلیم القرآن پلے",
+  "description": "تعلیم القرآن پلے: آن لائن مدرسہ، مدنی و نورانی قاعدہ، تجوید کے قواعد، مخارج، صوتی تلفظ، اسلامی گیمز اور کوئز کے ساتھ مکمل قرآن لرننگ پلیٹ فارم۔",
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/screenshot-mobile.png",
+      "sizes": "540x720",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Ta'limul Quran Play Mobile Screen"
+    },
+    {
+      "src": "/screenshot-desktop.png",
+      "sizes": "720x540",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Ta'limul Quran Play Tablet & Desktop Screen"
+    }
+  ],
+  "start_url": "/",
+  "scope": "/",
+  "background_color": "#0e131d",
+  "theme_color": "#0e131d",
+  "display": "standalone",
+  "display_override": ["standalone", "window-controls-overlay", "minimal-ui"],
+  "orientation": "portrait-primary",
+  "dir": "rtl",
+  "lang": "ur",
+  "categories": ["education", "books", "kids", "lifestyle"],
+  "iarc_rating_id": "e84b072d-71b3-4d3e-86ae-31a8ce4e53b7",
+  "related_applications": [
+    {
+      "platform": "play",
+      "id": "com.talimulquran.play",
+      "url": "https://play.google.com/store/apps/details?id=com.talimulquran.play"
+    }
+  ],
+  "prefer_related_applications": false,
+  "shortcuts": [
+    {
+      "name": "مدنی قاعدہ",
+      "short_name": "قاعدہ",
+      "description": "مکمل مدنی و نورانی قاعدہ تجوید کے ساتھ پڑھیں",
+      "url": "/?open=qaida",
+      "icons": [
+        {
+          "src": "/pwa-192x192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "اسلامی گیمز",
+      "short_name": "گیمز",
+      "description": "قرآنی حروف اور تجوید کے دلچسپ گیمز کھیلیں",
+      "url": "/?open=games",
+      "icons": [
+        {
+          "src": "/pwa-192x192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "اے آئی استاد",
+      "short_name": "AI استاد",
+      "description": "تجوید اور تلفظ کی صوتی رہنمائی حاصل کریں",
+      "url": "/?open=ai_ustadh",
+      "icons": [
+        {
+          "src": "/pwa-192x192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    }
+  ]
+}

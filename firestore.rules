@@ -1,0 +1,39 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Rules for Madrasa Online Platform
+    match /madrasa_students/{studentId} {
+      allow read, write: if true;
+    }
+    match /madrasa_teachers/{teacherId} {
+      allow read, write: if true;
+    }
+    match /madrasa_classes/{classId} {
+      allow read, write: if true;
+    }
+    match /madrasa_attendance/{attendanceId} {
+      allow read, write: if true;
+    }
+    match /madrasa_sabaq_records/{recordId} {
+      allow read, write: if true;
+    }
+    match /madrasa_fee_records/{recordId} {
+      allow read, write: if true;
+    }
+    match /madrasa_exams/{examId} {
+      allow read, write: if true;
+    }
+    match /madrasa_donations/{donationId} {
+      allow read, write: if true;
+    }
+    match /madrasa_live_sessions/{sessionId} {
+      allow read, write: if true;
+    }
+    match /madrasa_settings/{settingId} {
+      allow read, write: if true;
+    }
+    match /{document=**} {
+      allow read, write: if true;
+    }
+  }
+}

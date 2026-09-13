@@ -1,0 +1,268 @@
+import { LanguageCode } from '../types';
+
+export interface MurakkabatLessonTexts {
+  backBtn: string;
+  lessonBadge: string;
+  exerciseBadge: string;
+  title: string;
+  audioVisualGame: string;
+  magneticPuzzle: string;
+  spellMode: string;
+  wordMode: string;
+  tab1: string;
+  tab2: string;
+  tabSentences: string;
+  tabAll: (total: number) => string;
+  searchPlaceholder: string;
+  filterAll: (count: number) => string;
+  filter2Letter: string;
+  filter3Letter: string;
+  filterSentence: string;
+  ruleTipBadge: string;
+  ruleTipText: string;
+  qariSystemTitle: string;
+  listenAllWords: (count: number) => string;
+  stopRecitation: string;
+  soundMuted: string;
+  soundOn: string;
+  noWordsFound: string;
+  noWordsFoundDesc: string;
+}
+
+export const MURAKKABAT_LESSON_LOCALIZATION: Record<LanguageCode, MurakkabatLessonTexts> = {
+  ur: {
+    backBtn: 'واپسی',
+    lessonBadge: 'سبق نمبر (۲)',
+    exerciseBadge: 'مشقِ مرکبات (۱۷۰+ الفاظ)',
+    title: 'حروفِ مُرَکَّبَات (ملے ہوئے حروف کی مکمل تختی و مشق)',
+    audioVisualGame: 'صوتی و بصری گیم 🎯',
+    magneticPuzzle: 'مقناطیسی پزل 🧩',
+    spellMode: 'ہجے (Spelling)',
+    wordMode: 'ملا کر (Word)',
+    tab1: '📖 مشق ۱ (دو حرفی مرکبات - ۹۶ الفاظ)',
+    tab2: '📑 مشق ۲ (۲، ۳ اور ۴ حرفی کلمات)',
+    tabSentences: '📜 قرآنی مرکبات و آیات',
+    tabAll: (total: number) => `🌟 تمام مرکبات (${total})`,
+    searchPlaceholder: 'کوئی بھی مرکب لفظ تلاش کریں (مثلاً: قل، بسم، لا، نصر)...',
+    filterAll: (count: number) => `سب (${count})`,
+    filter2Letter: '۲ حرفی',
+    filter3Letter: '۳ حرفی',
+    filterSentence: 'قرآنی جملے',
+    ruleTipBadge: '💡 قاعدہ مشق',
+    ruleTipText: 'کسی بھی لفظ پر کلک کر کے اس کی قاری والی تلاوت سنیں۔ اوپر موجود بٹن سے ہجے یا مکمل کلمہ کا انتخاب کریں۔',
+    qariSystemTitle: 'القارئ تلاوت صوتی نظام (مکمل مرکبات کی مشق)',
+    listenAllWords: (count: number) => `تمام (${count}) الفاظ سنیں`,
+    stopRecitation: 'تلاوت روکیں...',
+    soundMuted: 'میوٹ',
+    soundOn: 'آواز آن',
+    noWordsFound: 'کوئی مرکب لفظ نہیں ملا',
+    noWordsFoundDesc: 'براہ کرم سرچ کیورڈ تبدیل کریں یا فلٹر ہٹا کر دوبارہ کوشش کریں۔',
+  },
+
+  en: {
+    backBtn: 'Back',
+    lessonBadge: 'Lesson 2',
+    exerciseBadge: 'Compound Exercise (170+ Words)',
+    title: 'Compound Letters (Huroof-e-Murakkabat Full Board & Practice)',
+    audioVisualGame: 'Audio-Visual Game 🎯',
+    magneticPuzzle: 'Magnetic Puzzle 🧩',
+    spellMode: 'Spelling (Letter by Letter)',
+    wordMode: 'Full Word (Fluency)',
+    tab1: '📖 Exercise 1 (2-Letter Compounds - 96 Words)',
+    tab2: '📑 Exercise 2 (2, 3 & 4-Letter Compounds)',
+    tabSentences: '📜 Quranic Phrases & Ayahs',
+    tabAll: (total: number) => `🌟 All Compounds (${total})`,
+    searchPlaceholder: 'Search any compound word (e.g. Qul, Bism, La, Nasr)...',
+    filterAll: (count: number) => `All (${count})`,
+    filter2Letter: '2-Letter',
+    filter3Letter: '3-Letter',
+    filterSentence: 'Quranic Sentences',
+    ruleTipBadge: '💡 Lesson Guide',
+    ruleTipText: 'Click any word to hear classic recitation. Toggle between spelling individual letters or reading fluently as whole words.',
+    qariSystemTitle: 'Al-Qari Recitation Engine (Full Compound Letters Practice)',
+    listenAllWords: (count: number) => `Listen All (${count}) Words`,
+    stopRecitation: 'Stop Recitation...',
+    soundMuted: 'Muted',
+    soundOn: 'Sound On',
+    noWordsFound: 'No compound words found',
+    noWordsFoundDesc: 'Please adjust your search keyword or clear the filter to try again.',
+  },
+
+  ar: {
+    backBtn: 'رجوع',
+    lessonBadge: 'الدرس الثاني (٢)',
+    exerciseBadge: 'تدريب المركبات (+١٧٠ كلمة)',
+    title: 'حُرُوفُ الْمُرَكَّبَاتِ (لوحة وتدريبات الحروف المركبة كاملة)',
+    audioVisualGame: 'لعبة صوتية ومرئية 🎯',
+    magneticPuzzle: 'لغز مغناطيسي 🧩',
+    spellMode: 'تهجئة الحروف (الهجاء)',
+    wordMode: 'قراءة الكلمة (درجاً)',
+    tab1: '📖 التدريب ١ (مركبات حرفين - ٩٦ كلمة)',
+    tab2: '📑 التدريب ٢ (كلمات من ٢ و٣ و٤ حروف)',
+    tabSentences: '📜 جمل وآيات قرآنية',
+    tabAll: (total: number) => `🌟 جميع المركبات (${total})`,
+    searchPlaceholder: 'ابحث عن أي كلمة مركبة (مثل: قُلْ، بِسْمِ، لَا، نَصْرٌ)...',
+    filterAll: (count: number) => `الكل (${count})`,
+    filter2Letter: 'حرفان',
+    filter3Letter: '٣ حروف',
+    filterSentence: 'جمل قرآنية',
+    ruleTipBadge: '💡 توجيه الدرس',
+    ruleTipText: 'انقر على أي كلمة للاستماع إلى تلاوة القارئ المتقنة. اختر بين التهجئة المنفصلة أو القراءة الموصولة من الأعلى.',
+    qariSystemTitle: 'نظام تلاوة القارئ الصوتي (تدريب الحروف المركبة)',
+    listenAllWords: (count: number) => `استماع الكل (${count} كلمة)`,
+    stopRecitation: 'إيقاف التلاوة...',
+    soundMuted: 'كتم الصوت',
+    soundOn: 'تشغيل الصوت',
+    noWordsFound: 'لم يتم العثور على كلمات مركبة',
+    noWordsFoundDesc: 'يرجى تغيير كلمة البحث أو إزالة التصفية والمحاولة مجدداً.',
+  },
+
+  hi: {
+    backBtn: 'वापस जाएं',
+    lessonBadge: 'सबक नंबर (२)',
+    exerciseBadge: 'मुरक्कबात अभ्यास (१७०+ शब्द)',
+    title: 'हुरूफ-ए-मुरक्कबात (मिले हुए अक्षरों का पूरा बोर्ड और अभ्यास)',
+    audioVisualGame: 'ऑडियो-विजुअल गेम 🎯',
+    magneticPuzzle: 'मैग्नेटिक पहेली 🧩',
+    spellMode: 'हिज्जे (अक्षर अनुसार)',
+    wordMode: 'मिलाकर (पूरा शब्द)',
+    tab1: '📖 अभ्यास १ (२ अक्षरीय मुरक्कबात - ९६ शब्द)',
+    tab2: '📑 अभ्यास २ (२, ३ और ४ अक्षरीय शब्द)',
+    tabSentences: '📜 कुरआनी जुमले व आयतें',
+    tabAll: (total: number) => `🌟 सभी मुरक्कबात (${total})`,
+    searchPlaceholder: 'कोई भी मुरक्कब शब्द खोजें (उदा. कुल, बिस्म, ला, नस्र)...',
+    filterAll: (count: number) => `सभी (${count})`,
+    filter2Letter: '२ अक्षर',
+    filter3Letter: '३ अक्षर',
+    filterSentence: 'कुरआनी जुमले',
+    ruleTipBadge: '💡 सबक का नियम',
+    ruleTipText: 'किसी भी शब्द पर क्लिक करके कारी की आवाज़ में सही तलफ़्फ़ुज़ सुनें। ऊपर दिए गए बटन से हिज्जे या रवा का चयन करें।',
+    qariSystemTitle: 'अल-क़ारी ऑडियो सिस्टम (पूरे मुरक्कबात का अभ्यास)',
+    listenAllWords: (count: number) => `सभी (${count}) शब्द सुनें`,
+    stopRecitation: 'रोकें...',
+    soundMuted: 'म्यूट',
+    soundOn: 'आवाज़ चालू',
+    noWordsFound: 'कोई मुरक्कब शब्द नहीं मिला',
+    noWordsFoundDesc: 'कृपया खोज शब्द बदलें या फ़िल्टर हटाकर पुनः प्रयास करें।',
+  },
+
+  bn: {
+    backBtn: 'ফিরে যান',
+    lessonBadge: 'পাঠ নম্বর (২)',
+    exerciseBadge: 'মুরাক্কাবাত অনুশীলন (১৭০+ শব্দ)',
+    title: 'হুরুফে মুরাক্কাবাত (যুক্তাক্ষরসমূহের পূর্ণ বোর্ড ও অনুশীলন)',
+    audioVisualGame: 'অডিও-ভিজুয়াল গেম 🎯',
+    magneticPuzzle: 'ম্যাগনেটিক পাজল 🧩',
+    spellMode: 'বানান / হিজ্জা (আলাদা হরফ)',
+    wordMode: 'একত্রে (পূর্ণ শব্দ)',
+    tab1: '📖 অনুশীলন ১ (২ অক্ষরের যুক্তাক্ষর - ৯৬ শব্দ)',
+    tab2: '📑 অনুশীলন ২ (২, ৩ ও ৪ অক্ষরের শব্দ)',
+    tabSentences: '📜 কুরআনিক বাক্য ও আয়াতসমূহ',
+    tabAll: (total: number) => `🌟 সকল যুক্তাক্ষর (${total})`,
+    searchPlaceholder: 'যেকোনো যুক্ত শব্দ খুঁজুন (যেমন: কুল, বিসম, লা, নাসর)...',
+    filterAll: (count: number) => `সব (${count})`,
+    filter2Letter: '২ অক্ষর',
+    filter3Letter: '৩ অক্ষর',
+    filterSentence: 'কুরআনিক বাক্য',
+    ruleTipBadge: '💡 পাঠের নির্দেশনা',
+    ruleTipText: 'যেকোনো শব্দে ক্লিক করে কার্বীর বিশুদ্ধ তিলাওয়াত শুনুন। উপরের বোতাম থেকে বানান বা সম্পূর্ণ শব্দের উচ্চারণ নির্বাচন করুন।',
+    qariSystemTitle: 'আল-ক্বারী অডিও সিস্টেম (সম্পূর্ণ মুরাক্কাবাত অনুশীলন)',
+    listenAllWords: (count: number) => `সবগুলো (${count}) শব্দ শুনুন`,
+    stopRecitation: 'থামান...',
+    soundMuted: 'মিউট',
+    soundOn: 'সাউন্ড অন',
+    noWordsFound: 'কোনো যুক্ত শব্দ পাওয়া যায়নি',
+    noWordsFoundDesc: 'অনুগ্রহ করে সার্চ কিওয়ার্ড পরিবর্তন করুন অথবা ফিল্টার সরিয়ে পুনরায় চেষ্টা করুন।',
+  },
+
+  id: {
+    backBtn: 'Kembali',
+    lessonBadge: 'Pelajaran 2',
+    exerciseBadge: 'Latihan Huruf Sambung (170+ Kata)',
+    title: 'Huruful Murakkabat (Papan Lengkap Huruf Sambung & Latihan)',
+    audioVisualGame: 'Game Audio-Visual 🎯',
+    magneticPuzzle: 'Teka-teki Magnetik 🧩',
+    spellMode: 'Mengeja Huruf demi Huruf',
+    wordMode: 'Lancar (Kata Penuh)',
+    tab1: '📖 Latihan 1 (Sambungan 2 Huruf - 96 Kata)',
+    tab2: '📑 Latihan 2 (Kata 2, 3 & 4 Huruf)',
+    tabSentences: '📜 Frasa & Ayat Al-Qur\'an',
+    tabAll: (total: number) => `🌟 Semua Sambungan (${total})`,
+    searchPlaceholder: 'Cari kata bersambung (contoh: Qul, Bism, La, Nashr)...',
+    filterAll: (count: number) => `Semua (${count})`,
+    filter2Letter: '2 Huruf',
+    filter3Letter: '3 Huruf',
+    filterSentence: 'Kalimat Al-Qur\'an',
+    ruleTipBadge: '💡 Panduan Pelajaran',
+    ruleTipText: 'Klik kata mana saja untuk mendengarkan bacaan qari. Pilih antara mengeja huruf demi huruf atau membaca langsung satu kata.',
+    qariSystemTitle: 'Mesin Audio Al-Qari (Latihan Huruf Sambung Lengkap)',
+    listenAllWords: (count: number) => `Dengarkan Semua (${count}) Kata`,
+    stopRecitation: 'Hentikan...',
+    soundMuted: 'Bisu',
+    soundOn: 'Suara Nyala',
+    noWordsFound: 'Tidak ada kata bersambung yang ditemukan',
+    noWordsFoundDesc: 'Silakan ubah kata kunci pencarian atau hapus filter untuk mencoba lagi.',
+  },
+
+  tr: {
+    backBtn: 'Geri',
+    lessonBadge: 'Ders 2',
+    exerciseBadge: 'Mürekkebat Alıştırması (170+ Kelime)',
+    title: 'Huruful Mürekkebat (Bitişik Harfler Panosu ve Alıştırması)',
+    audioVisualGame: 'Sesli & Görsel Oyun 🎯',
+    magneticPuzzle: 'Manyetik Bulmaca 🧩',
+    spellMode: 'Heceleme (Harf Harf)',
+    wordMode: 'Akıcı (Tam Kelime)',
+    tab1: '📖 Alıştırma 1 (2 Harfli Bitişikler - 96 Kelime)',
+    tab2: '📑 Alıştırma 2 (2, 3 ve 4 Harfli Kelimeler)',
+    tabSentences: '📜 Kur\'anî Cümleler ve Ayetler',
+    tabAll: (total: number) => `🌟 Tüm Bitişik Harfler (${total})`,
+    searchPlaceholder: 'Herhangi bir birleşik kelime arayın (örn: Kul, Bism, La, Nasr)...',
+    filterAll: (count: number) => `Tümü (${count})`,
+    filter2Letter: '2 Harfli',
+    filter3Letter: '3 Harfli',
+    filterSentence: 'Kur\'anî Cümleler',
+    ruleTipBadge: '💡 Ders Rehberi',
+    ruleTipText: 'Herhangi bir kelimeye tıklayarak kâri kıraatini dinleyin. Yukarıdan heceleyerek veya kelime olarak okumayı seçin.',
+    qariSystemTitle: 'Kâri Sesli Kıraat Sistemi (Mürekkebat Alıştırması)',
+    listenAllWords: (count: number) => `Tüm (${count}) Kelimeleri Dinle`,
+    stopRecitation: 'Durdur...',
+    soundMuted: 'Sessiz',
+    soundOn: 'Ses Açık',
+    noWordsFound: 'Birleşik kelime bulunamadı',
+    noWordsFoundDesc: 'Lütfen arama terimini değiştirin veya filtreyi kaldırıp tekrar deneyin.',
+  },
+
+  fr: {
+    backBtn: 'Retour',
+    lessonBadge: 'Leçon 2',
+    exerciseBadge: 'Exercice Composé (170+ Mots)',
+    title: 'Huroof-e-Murakkabat (Tableau complet des lettres composées)',
+    audioVisualGame: 'Jeu Audio-Visuel 🎯',
+    magneticPuzzle: 'Puzzle Magnétique 🧩',
+    spellMode: 'Épellation (Lettre par Lettre)',
+    wordMode: 'Mot Entier (Fluide)',
+    tab1: '📖 Exercice 1 (Composés à 2 lettres - 96 Mots)',
+    tab2: '📑 Exercice 2 (Mots à 2, 3 et 4 lettres)',
+    tabSentences: '📜 Phrases et Versets Coraniques',
+    tabAll: (total: number) => `🌟 Tous les composés (${total})`,
+    searchPlaceholder: 'Rechercher un mot composé (ex: Qoul, Bism, La, Nasr)...',
+    filterAll: (count: number) => `Tous (${count})`,
+    filter2Letter: '2 Lettres',
+    filter3Letter: '3 Lettres',
+    filterSentence: 'Phrases Coraniques',
+    ruleTipBadge: '💡 Guide de la leçon',
+    ruleTipText: 'Cliquez sur n\'importe quel mot pour écouter la récitation du Qari. Choisissez entre l\'épellation lettre par lettre ou la lecture fluide.',
+    qariSystemTitle: 'Moteur Audio Al-Qari (Entraînement complet aux lettres composées)',
+    listenAllWords: (count: number) => `Écouter tous les (${count}) mots`,
+    stopRecitation: 'Arrêter...',
+    soundMuted: 'Muet',
+    soundOn: 'Son activé',
+    noWordsFound: 'Aucun mot composé trouvé',
+    noWordsFoundDesc: 'Veuillez modifier vos termes de recherche ou effacer le filtre.',
+  },
+};
+
+export const getMurakkabatLessonLocalization = (lang?: LanguageCode): MurakkabatLessonTexts => {
+  return MURAKKABAT_LESSON_LOCALIZATION[lang || 'ur'] || MURAKKABAT_LESSON_LOCALIZATION.ur;
+};

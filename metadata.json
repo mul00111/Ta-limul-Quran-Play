@@ -1,0 +1,6 @@
+{
+  "name": "Ta'limul Quran Play",
+  "description": "An interactive Islamic Quran learning platform with complete Online Madrasa Management (Teachers, Students, Classes, Live Classroom, Attendance, Fees, Exams, and Online Donations & Sponsorships).",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

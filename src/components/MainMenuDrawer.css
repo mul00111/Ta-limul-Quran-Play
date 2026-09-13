@@ -1,0 +1,1242 @@
+/* =========================================================
+   TA'LIMUL QURAN PLAY
+   MAIN MENU DRAWER — PREMIUM MOBILE UI
+   Version: 2.0
+   ========================================================= */
+
+/* ---------------------------------------------------------
+   ROOT VARIABLES
+   --------------------------------------------------------- */
+
+:root {
+  --tqp-bg: #0b1220;
+  --tqp-surface: #121923;
+  --tqp-surface-2: #171d27;
+  --tqp-surface-3: #1c2330;
+
+  --tqp-border: rgba(255, 255, 255, 0.085);
+  --tqp-border-strong: rgba(255, 255, 255, 0.13);
+
+  --tqp-text: #f8fafc;
+  --tqp-text-soft: #cbd5e1;
+  --tqp-text-muted: #94a3b8;
+
+  --tqp-pink: #ec0a70;
+  --tqp-pink-soft: #ff4f9a;
+
+  --tqp-cyan: #22d3ee;
+  --tqp-blue: #60a5fa;
+  --tqp-green: #34d399;
+  --tqp-yellow: #fbbf24;
+  --tqp-purple: #c084fc;
+  --tqp-orange: #fb923c;
+  --tqp-red: #fb7185;
+
+  --tqp-radius-lg: 22px;
+  --tqp-radius-md: 17px;
+  --tqp-radius-sm: 13px;
+
+  --tqp-shadow:
+    0 18px 45px rgba(0, 0, 0, 0.35);
+
+  --tqp-transition:
+    180ms cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+
+
+/* =========================================================
+   OVERLAY
+   ========================================================= */
+
+.tqp-menu-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+
+  display: flex;
+  justify-content: flex-start;
+
+  background:
+    radial-gradient(
+      circle at 15% 20%,
+      rgba(236, 10, 112, 0.08),
+      transparent 30%
+    ),
+    rgba(2, 6, 15, 0.76);
+
+  backdrop-filter: blur(7px);
+  -webkit-backdrop-filter: blur(7px);
+
+  animation: tqpMenuFadeIn 180ms ease-out;
+
+  overflow: hidden;
+}
+
+
+/* =========================================================
+   DRAWER
+   ========================================================= */
+
+.tqp-menu-drawer {
+  position: relative;
+
+  width: min(100%, 400px);
+  height: 100dvh;
+
+  display: flex;
+  flex-direction: column;
+
+  background:
+    linear-gradient(
+      180deg,
+      #101827 0%,
+      #0d1522 48%,
+      #0a111d 100%
+    );
+
+  color: var(--tqp-text);
+
+  box-shadow:
+    24px 0 70px rgba(0, 0, 0, 0.48);
+
+  border-right:
+    1px solid rgba(255, 255, 255, 0.07);
+
+  animation: tqpMenuSlideIn 260ms cubic-bezier(0.2, 0.85, 0.2, 1);
+
+  overflow: hidden;
+
+  direction: rtl;
+}
+
+
+/* ---------------------------------------------------------
+   VERY SUBTLE BACKGROUND
+   --------------------------------------------------------- */
+
+.tqp-menu-drawer::before {
+  content: "";
+
+  position: absolute;
+  inset: 0;
+
+  pointer-events: none;
+
+  background:
+    radial-gradient(
+      circle at 90% 0%,
+      rgba(236, 10, 112, 0.11),
+      transparent 28%
+    ),
+    radial-gradient(
+      circle at 0% 55%,
+      rgba(34, 211, 238, 0.055),
+      transparent 30%
+    );
+
+  opacity: 0.9;
+}
+
+
+/* =========================================================
+   HEADER
+   ========================================================= */
+
+.tqp-menu-header {
+  position: relative;
+  z-index: 3;
+
+  flex: 0 0 auto;
+
+  min-height: 112px;
+
+  padding:
+    17px
+    16px
+    14px;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+
+  background:
+    linear-gradient(
+      105deg,
+      rgba(92, 5, 47, 0.96),
+      rgba(23, 24, 42, 0.98) 52%,
+      rgba(12, 24, 40, 0.98)
+    );
+
+  border-bottom:
+    1px solid rgba(236, 10, 112, 0.22);
+
+  box-shadow:
+    0 8px 28px rgba(0, 0, 0, 0.22);
+}
+
+
+/* ---------------------------------------------------------
+   HEADER TITLE GROUP
+   --------------------------------------------------------- */
+
+.tqp-menu-title-group {
+  min-width: 0;
+
+  display: flex;
+  align-items: center;
+  gap: 11px;
+}
+
+
+/* ---------------------------------------------------------
+   MAIN TITLE
+   --------------------------------------------------------- */
+
+.tqp-menu-title {
+  margin: 0;
+
+  color: #ffffff;
+
+  font-size: clamp(22px, 6vw, 29px);
+  line-height: 1.1;
+
+  font-weight: 850;
+  letter-spacing: -0.5px;
+
+  white-space: nowrap;
+}
+
+
+/* ---------------------------------------------------------
+   BADGE
+   --------------------------------------------------------- */
+
+.tqp-menu-badge-tag {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  min-height: 34px;
+
+  padding:
+    5px
+    13px;
+
+  border-radius: 999px;
+
+  background:
+    linear-gradient(
+      135deg,
+      #ec0a70,
+      #bd155e
+    );
+
+  border:
+    1px solid rgba(255, 255, 255, 0.12);
+
+  color: #ffffff;
+
+  font-size: 14px;
+  font-weight: 800;
+
+  box-shadow:
+    0 5px 16px rgba(236, 10, 112, 0.25);
+}
+
+
+/* ---------------------------------------------------------
+   SUBTITLE
+   --------------------------------------------------------- */
+
+.tqp-menu-subtitle {
+  margin:
+    7px
+    0
+    0;
+
+  color: #f7a6c7;
+
+  font-size: 14px;
+  line-height: 1.45;
+
+  font-weight: 600;
+
+  white-space: nowrap;
+}
+
+
+/* =========================================================
+   CLOSE BUTTON
+   ========================================================= */
+
+.tqp-menu-close-btn {
+  flex: 0 0 auto;
+
+  width: 48px;
+  height: 48px;
+
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  border: 0;
+  border-radius: 50%;
+
+  background:
+    rgba(255, 255, 255, 0.075);
+
+  color: #ffffff;
+
+  font-size: 28px;
+
+  cursor: pointer;
+
+  transition:
+    transform var(--tqp-transition),
+    background var(--tqp-transition),
+    box-shadow var(--tqp-transition);
+}
+
+.tqp-menu-close-btn:hover {
+  background:
+    rgba(255, 255, 255, 0.13);
+
+  transform: scale(1.04);
+}
+
+.tqp-menu-close-btn:active {
+  transform: scale(0.94);
+}
+
+.tqp-menu-close-btn:focus-visible {
+  outline:
+    2px solid var(--tqp-pink-soft);
+
+  outline-offset: 3px;
+}
+
+
+/* =========================================================
+   BODY / SCROLL AREA
+   ========================================================= */
+
+.tqp-menu-body {
+  position: relative;
+  z-index: 2;
+
+  flex: 1 1 auto;
+
+  min-height: 0;
+
+  padding:
+    16px
+    14px
+    calc(30px + env(safe-area-inset-bottom));
+
+  overflow-y: auto;
+  overflow-x: hidden;
+
+  overscroll-behavior: contain;
+
+  -webkit-overflow-scrolling: touch;
+
+  scrollbar-width: thin;
+  scrollbar-color:
+    rgba(148, 163, 184, 0.35)
+    transparent;
+}
+
+
+/* Chrome / Android scrollbar */
+
+.tqp-menu-body::-webkit-scrollbar {
+  width: 5px;
+}
+
+.tqp-menu-body::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.tqp-menu-body::-webkit-scrollbar-thumb {
+  border-radius: 999px;
+
+  background:
+    rgba(148, 163, 184, 0.32);
+}
+
+.tqp-menu-body::-webkit-scrollbar-thumb:hover {
+  background:
+    rgba(148, 163, 184, 0.5);
+}
+
+
+/* =========================================================
+   HOME BUTTON
+   ========================================================= */
+
+.tqp-menu-home-btn {
+  position: relative;
+
+  width: 100%;
+  min-height: 66px;
+
+  margin-bottom: 15px;
+
+  padding:
+    12px
+    15px;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+
+  border:
+    1px solid rgba(236, 10, 112, 0.28);
+
+  border-radius:
+    var(--tqp-radius-lg);
+
+  background:
+    linear-gradient(
+      135deg,
+      rgba(83, 9, 45, 0.72),
+      rgba(42, 12, 35, 0.82)
+    );
+
+  color: #ffffff;
+
+  cursor: pointer;
+
+  box-shadow:
+    0 8px 22px rgba(0, 0, 0, 0.16);
+
+  transition:
+    transform var(--tqp-transition),
+    border-color var(--tqp-transition),
+    background var(--tqp-transition),
+    box-shadow var(--tqp-transition);
+}
+
+.tqp-menu-home-btn:hover {
+  border-color:
+    rgba(236, 10, 112, 0.52);
+
+  background:
+    linear-gradient(
+      135deg,
+      rgba(104, 8, 55, 0.8),
+      rgba(49, 13, 42, 0.9)
+    );
+
+  transform: translateY(-1px);
+}
+
+.tqp-menu-home-btn:active {
+  transform: scale(0.985);
+}
+
+
+/* =========================================================
+   ACCORDION CARD
+   ========================================================= */
+
+.tqp-menu-accordion {
+  position: relative;
+
+  margin-bottom: 13px;
+
+  border:
+    1px solid var(--tqp-border);
+
+  border-radius:
+    var(--tqp-radius-lg);
+
+  background:
+    linear-gradient(
+      180deg,
+      rgba(23, 29, 39, 0.97),
+      rgba(18, 24, 33, 0.97)
+    );
+
+  overflow: hidden;
+
+  box-shadow:
+    0 7px 22px rgba(0, 0, 0, 0.12);
+
+  transition:
+    border-color var(--tqp-transition),
+    box-shadow var(--tqp-transition),
+    transform var(--tqp-transition);
+}
+
+.tqp-menu-accordion:hover {
+  border-color:
+    var(--tqp-border-strong);
+
+  box-shadow:
+    0 10px 28px rgba(0, 0, 0, 0.17);
+}
+
+
+/* =========================================================
+   ACCORDION TRIGGER
+   ========================================================= */
+
+.tqp-menu-accordion-trigger {
+  width: 100%;
+  min-height: 76px;
+
+  padding:
+    12px
+    13px;
+
+  display: flex;
+  align-items: center;
+  gap: 12px;
+
+  border: 0;
+
+  background: transparent;
+
+  color: var(--tqp-text);
+
+  cursor: pointer;
+
+  text-align: right;
+
+  transition:
+    background var(--tqp-transition);
+}
+
+.tqp-menu-accordion-trigger:hover {
+  background:
+    rgba(255, 255, 255, 0.035);
+}
+
+.tqp-menu-accordion-trigger:active {
+  background:
+    rgba(255, 255, 255, 0.06);
+}
+
+.tqp-menu-accordion-trigger:focus-visible {
+  outline:
+    2px solid rgba(96, 165, 250, 0.75);
+
+  outline-offset:
+    -3px;
+}
+
+
+/* =========================================================
+   CATEGORY ICON
+   ========================================================= */
+
+.tqp-menu-cat-icon {
+  flex: 0 0 auto;
+
+  width: 50px;
+  height: 50px;
+
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  border-radius: 16px;
+
+  background:
+    rgba(255, 255, 255, 0.075);
+
+  border:
+    1px solid rgba(255, 255, 255, 0.055);
+
+  font-size: 25px;
+
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.06);
+
+  transition:
+    transform var(--tqp-transition),
+    background var(--tqp-transition);
+}
+
+.tqp-menu-accordion-trigger:hover .tqp-menu-cat-icon {
+  transform: scale(1.04);
+}
+
+
+/* =========================================================
+   CATEGORY TITLE
+   ========================================================= */
+
+.tqp-menu-accordion-title {
+  flex: 1;
+
+  min-width: 0;
+
+  font-size:
+    clamp(19px, 5vw, 24px);
+
+  line-height: 1.35;
+
+  font-weight: 800;
+
+  color: #f8fafc;
+}
+
+
+/* =========================================================
+   ARROW
+   ========================================================= */
+
+.tqp-menu-accordion-arrow {
+  flex: 0 0 auto;
+
+  width: 34px;
+  height: 34px;
+
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  color:
+    rgba(226, 232, 240, 0.72);
+
+  font-size: 23px;
+
+  transition:
+    transform 220ms ease,
+    color var(--tqp-transition);
+}
+
+.tqp-menu-accordion-trigger:hover
+.tqp-menu-accordion-arrow {
+  color: #ffffff;
+}
+
+
+/* =========================================================
+   SUB MENU
+   ========================================================= */
+
+.tqp-menu-sub-list {
+  position: relative;
+
+  padding:
+    4px
+    13px
+    13px;
+
+  border-top:
+    1px solid rgba(255, 255, 255, 0.055);
+
+  background:
+    rgba(5, 10, 17, 0.22);
+
+  animation:
+    tqpSubMenuOpen 180ms ease-out;
+}
+
+
+/* ---------------------------------------------------------
+   SUB MENU ITEM
+   --------------------------------------------------------- */
+
+.tqp-menu-sub-item {
+  position: relative;
+
+  min-height: 54px;
+
+  padding:
+    9px
+    4px;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 14px;
+
+  border-bottom:
+    1px solid rgba(255, 255, 255, 0.045);
+
+  cursor: pointer;
+
+  transition:
+    padding var(--tqp-transition),
+    background var(--tqp-transition);
+}
+
+.tqp-menu-sub-item:last-child {
+  border-bottom: 0;
+}
+
+.tqp-menu-sub-item:hover {
+  padding-right: 9px;
+  padding-left: 9px;
+
+  background:
+    rgba(255, 255, 255, 0.035);
+
+  border-radius: 10px;
+}
+
+
+/* ---------------------------------------------------------
+   SUB LABEL
+   --------------------------------------------------------- */
+
+.tqp-menu-sub-label {
+  flex: 1;
+
+  min-width: 0;
+
+  color:
+    #e5e7eb;
+
+  font-size:
+    clamp(15px, 4.2vw, 18px);
+
+  line-height: 1.5;
+
+  font-weight: 600;
+}
+
+
+/* ---------------------------------------------------------
+   SUB DESCRIPTION / COLOR LABEL
+   --------------------------------------------------------- */
+
+.tqp-menu-sub-item > span:last-child {
+  flex: 0 0 auto;
+
+  font-size:
+    clamp(13px, 3.5vw, 15px);
+
+  font-weight: 700;
+
+  line-height: 1.4;
+
+  text-align: left;
+}
+
+
+/* =========================================================
+   UTILITY SECTION
+   ========================================================= */
+
+.tqp-menu-utility-btn {
+  position: relative;
+
+  width: 100%;
+  min-height: 68px;
+
+  margin-top: 12px;
+
+  padding:
+    11px
+    14px;
+
+  display: flex;
+  align-items: center;
+  gap: 13px;
+
+  border:
+    1px solid var(--tqp-border);
+
+  border-radius:
+    var(--tqp-radius-lg);
+
+  background:
+    linear-gradient(
+      180deg,
+      rgba(23, 29, 39, 0.96),
+      rgba(17, 23, 32, 0.96)
+    );
+
+  color: #f8fafc;
+
+  cursor: pointer;
+
+  transition:
+    transform var(--tqp-transition),
+    border-color var(--tqp-transition),
+    background var(--tqp-transition),
+    box-shadow var(--tqp-transition);
+}
+
+.tqp-menu-utility-btn:hover {
+  transform: translateY(-1px);
+
+  border-color:
+    rgba(255, 255, 255, 0.14);
+
+  background:
+    rgba(255, 255, 255, 0.055);
+
+  box-shadow:
+    0 8px 20px rgba(0, 0, 0, 0.14);
+}
+
+.tqp-menu-utility-btn:active {
+  transform: scale(0.985);
+}
+
+
+/* =========================================================
+   UTILITY ICON
+   ========================================================= */
+
+.tqp-menu-utility-icon {
+  flex: 0 0 auto;
+
+  width: 47px;
+  height: 47px;
+
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  border-radius: 15px;
+
+  background:
+    rgba(255, 255, 255, 0.075);
+
+  font-size: 23px;
+
+  border:
+    1px solid rgba(255, 255, 255, 0.05);
+}
+
+
+/* =========================================================
+   UTILITY TEXT
+   ========================================================= */
+
+.tqp-menu-utility-content {
+  flex: 1;
+
+  min-width: 0;
+}
+
+.tqp-menu-utility-title {
+  display: block;
+
+  color: #f8fafc;
+
+  font-size:
+    clamp(16px, 4.5vw, 19px);
+
+  line-height: 1.35;
+
+  font-weight: 750;
+}
+
+.tqp-menu-utility-description {
+  display: block;
+
+  margin-top: 3px;
+
+  color:
+    var(--tqp-text-muted);
+
+  font-size: 12px;
+
+  line-height: 1.35;
+}
+
+
+/* =========================================================
+   SECURITY CARD
+   ========================================================= */
+
+.tqp-menu-security {
+  position: relative;
+
+  width: 100%;
+
+  margin-top: 14px;
+
+  padding:
+    14px;
+
+  display: flex;
+  align-items: center;
+  gap: 12px;
+
+  border:
+    1px solid rgba(16, 185, 129, 0.30);
+
+  border-radius:
+    var(--tqp-radius-lg);
+
+  background:
+    linear-gradient(
+      135deg,
+      rgba(5, 50, 43, 0.88),
+      rgba(5, 35, 35, 0.82)
+    );
+
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.035),
+    0 8px 25px rgba(0, 0, 0, 0.13);
+}
+
+
+/* ---------------------------------------------------------
+   SECURITY BADGE
+   --------------------------------------------------------- */
+
+.tqp-menu-security-badge {
+  flex: 0 0 auto;
+
+  min-width: 105px;
+
+  padding:
+    9px
+    10px;
+
+  border-radius: 999px;
+
+  text-align: center;
+
+  background:
+    rgba(16, 185, 129, 0.18);
+
+  border:
+    1px solid rgba(16, 185, 129, 0.42);
+
+  color:
+    #86efac;
+
+  font-size: 14px;
+
+  font-weight: 800;
+
+  line-height: 1.35;
+}
+
+
+/* ---------------------------------------------------------
+   SECURITY TEXT
+   --------------------------------------------------------- */
+
+.tqp-menu-security-content {
+  flex: 1;
+
+  min-width: 0;
+
+  text-align: right;
+}
+
+.tqp-menu-security-title {
+  color:
+    #a7f3d0;
+
+  font-size:
+    clamp(16px, 4.5vw, 20px);
+
+  font-weight: 800;
+
+  line-height: 1.4;
+}
+
+
+/* =========================================================
+   FOOTER
+   ========================================================= */
+
+.tqp-menu-footer {
+  position: relative;
+  z-index: 3;
+
+  flex: 0 0 auto;
+
+  padding:
+    10px
+    14px
+    calc(12px + env(safe-area-inset-bottom));
+
+  text-align: center;
+
+  background:
+    rgba(7, 14, 26, 0.94);
+
+  border-top:
+    1px solid rgba(255, 255, 255, 0.06);
+
+  backdrop-filter:
+    blur(12px);
+
+  -webkit-backdrop-filter:
+    blur(12px);
+}
+
+
+/* =========================================================
+   ICON COLOR SYSTEM
+   ========================================================= */
+
+/* Quran */
+
+.tqp-icon-quran {
+  color: #fbbf24;
+
+  background:
+    rgba(245, 158, 11, 0.16);
+}
+
+
+/* Games */
+
+.tqp-icon-games {
+  color: #c084fc;
+
+  background:
+    rgba(126, 34, 206, 0.20);
+}
+
+
+/* AI */
+
+.tqp-icon-ai {
+  color: #22d3ee;
+
+  background:
+    rgba(6, 182, 212, 0.17);
+}
+
+
+/* Islamic */
+
+.tqp-icon-islamic {
+  color: #34d399;
+
+  background:
+    rgba(5, 150, 105, 0.18);
+}
+
+
+/* Live */
+
+.tqp-icon-live {
+  color: #fb7185;
+
+  background:
+    rgba(220, 38, 38, 0.18);
+}
+
+
+/* Parents */
+
+.tqp-icon-parents {
+  color: #818cf8;
+
+  background:
+    rgba(79, 70, 229, 0.20);
+}
+
+
+/* Profile */
+
+.tqp-icon-profile {
+  color: #fb923c;
+
+  background:
+    rgba(194, 65, 12, 0.20);
+}
+
+
+/* Language */
+
+.tqp-icon-language {
+  color: #60a5fa;
+
+  background:
+    rgba(37, 99, 235, 0.20);
+}
+
+
+/* Settings */
+
+.tqp-icon-settings {
+  color: #d1d5db;
+
+  background:
+    rgba(107, 114, 128, 0.20);
+}
+
+
+/* =========================================================
+   SEPARATOR
+   ========================================================= */
+
+.tqp-menu-divider {
+  height: 1px;
+
+  margin:
+    15px
+    4px;
+
+  background:
+    linear-gradient(
+      90deg,
+      transparent,
+      rgba(255, 255, 255, 0.09),
+      transparent
+    );
+}
+
+
+/* =========================================================
+   TOUCH FEEDBACK
+   ========================================================= */
+
+.tqp-menu-home-btn,
+.tqp-menu-accordion-trigger,
+.tqp-menu-sub-item,
+.tqp-menu-utility-btn {
+  -webkit-tap-highlight-color:
+    transparent;
+}
+
+
+/* =========================================================
+   SMALL PHONES
+   ========================================================= */
+
+@media (max-width: 380px) {
+
+  .tqp-menu-header {
+    min-height: 104px;
+
+    padding:
+      14px
+      12px
+      12px;
+  }
+
+  .tqp-menu-title {
+    font-size: 22px;
+  }
+
+  .tqp-menu-subtitle {
+    font-size: 12px;
+  }
+
+  .tqp-menu-close-btn {
+    width: 44px;
+    height: 44px;
+  }
+
+  .tqp-menu-body {
+    padding:
+      13px
+      10px
+      26px;
+  }
+
+  .tqp-menu-accordion-trigger {
+    min-height: 69px;
+
+    padding:
+      10px;
+      11px;
+  }
+
+  .tqp-menu-cat-icon {
+    width: 45px;
+    height: 45px;
+
+    font-size: 22px;
+  }
+
+  .tqp-menu-accordion-title {
+    font-size: 18px;
+  }
+
+  .tqp-menu-sub-item {
+    min-height: 50px;
+  }
+
+  .tqp-menu-sub-label {
+    font-size: 14px;
+  }
+
+  .tqp-menu-sub-item > span:last-child {
+    font-size: 12px;
+  }
+
+  .tqp-menu-security {
+    padding: 11px;
+  }
+
+  .tqp-menu-security-badge {
+    min-width: 88px;
+    font-size: 12px;
+  }
+}
+
+
+/* =========================================================
+   TABLET / DESKTOP
+   ========================================================= */
+
+@media (min-width: 700px) {
+
+  .tqp-menu-drawer {
+    width: 420px;
+  }
+
+  .tqp-menu-header {
+    padding:
+      20px
+      18px
+      16px;
+  }
+
+  .tqp-menu-body {
+    padding:
+      18px
+      17px
+      35px;
+  }
+}
+
+
+/* =========================================================
+   ACCESSIBILITY
+   ========================================================= */
+
+@media (prefers-reduced-motion: reduce) {
+
+  .tqp-menu-overlay,
+  .tqp-menu-drawer,
+  .tqp-menu-sub-list,
+  .tqp-menu-close-btn,
+  .tqp-menu-home-btn,
+  .tqp-menu-accordion,
+  .tqp-menu-accordion-trigger,
+  .tqp-menu-cat-icon,
+  .tqp-menu-utility-btn,
+  .tqp-menu-sub-item {
+    animation: none !important;
+    transition: none !important;
+  }
+}
+
+
+/* =========================================================
+   ANIMATIONS
+   ========================================================= */
+
+@keyframes tqpMenuFadeIn {
+
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}

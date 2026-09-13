@@ -1,0 +1,7103 @@
+
+Query: "من هاد" -> Found in 40:33
+Ayah 40:33: [
+  {
+    "text": "ﯽ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/040_033_001.mp3"
+  },
+  {
+    "text": "ﯾ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/040_033_002.mp3"
+  },
+  {
+    "text": "ﯿ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/040_033_003.mp3"
+  },
+  {
+    "text": "ﰀ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/040_033_004.mp3"
+  },
+  {
+    "text": "ﰁ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/040_033_005.mp3"
+  },
+  {
+    "text": "ﰂ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/040_033_006.mp3"
+  },
+  {
+    "text": "ﰃ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/040_033_007.mp3"
+  },
+  {
+    "text": "ﰄ",
+    "pos": 8,
+    "url": "https://audio.qurancdn.com/wbw/040_033_008.mp3"
+  },
+  {
+    "text": "ﰅﰆ",
+    "pos": 9,
+    "url": "https://audio.qurancdn.com/wbw/040_033_009.mp3"
+  },
+  {
+    "text": "ﰇ",
+    "pos": 10,
+    "url": "https://audio.qurancdn.com/wbw/040_033_011.mp3"
+  },
+  {
+    "text": "ﰈ",
+    "pos": 11,
+    "url": "https://audio.qurancdn.com/wbw/040_033_012.mp3"
+  },
+  {
+    "text": "ﰉ",
+    "pos": 12,
+    "url": "https://audio.qurancdn.com/wbw/040_033_013.mp3"
+  },
+  {
+    "text": "ﰊ",
+    "pos": 13,
+    "url": "https://audio.qurancdn.com/wbw/040_033_014.mp3"
+  },
+  {
+    "text": "ﰋ",
+    "pos": 14,
+    "url": "https://audio.qurancdn.com/wbw/040_033_015.mp3"
+  },
+  {
+    "text": "ﰌ",
+    "pos": 15,
+    "url": "https://audio.qurancdn.com/wbw/040_033_016.mp3"
+  },
+  {
+    "text": "ﰍ",
+    "pos": 16,
+    "url": "https://audio.qurancdn.com/wbw/040_033_017.mp3"
+  },
+  {
+    "text": "ﰎ",
+    "pos": 17,
+    "url": null
+  }
+]
+
+Query: "من علق" -> Found in 96:2
+Ayah 96:2: [
+  {
+    "text": "ﮁ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/096_002_001.mp3"
+  },
+  {
+    "text": "ﮂ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/096_002_002.mp3"
+  },
+  {
+    "text": "ﮃ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/096_002_003.mp3"
+  },
+  {
+    "text": "ﮄ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/096_002_004.mp3"
+  },
+  {
+    "text": "ﮅ",
+    "pos": 5,
+    "url": null
+  }
+]
+
+Query: "من حكيم" -> Found in 27:6
+Ayah 27:6: [
+  {
+    "text": "ﭽ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/027_006_001.mp3"
+  },
+  {
+    "text": "ﭾ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/027_006_002.mp3"
+  },
+  {
+    "text": "ﭿ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/027_006_003.mp3"
+  },
+  {
+    "text": "ﮀ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/027_006_004.mp3"
+  },
+  {
+    "text": "ﮁ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/027_006_005.mp3"
+  },
+  {
+    "text": "ﮂ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/027_006_006.mp3"
+  },
+  {
+    "text": "ﮃ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/027_006_007.mp3"
+  },
+  {
+    "text": "ﮄ",
+    "pos": 8,
+    "url": null
+  }
+]
+
+Query: "من غفور" -> Found in 3:155
+Ayah 3:155: [
+  {
+    "text": "ﮥ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/003_155_001.mp3"
+  },
+  {
+    "text": "ﮦ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/003_155_002.mp3"
+  },
+  {
+    "text": "ﮧ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/003_155_003.mp3"
+  },
+  {
+    "text": "ﮨ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/003_155_004.mp3"
+  },
+  {
+    "text": "ﮩ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/003_155_005.mp3"
+  },
+  {
+    "text": "ﮪ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/003_155_006.mp3"
+  },
+  {
+    "text": "ﮫ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/003_155_007.mp3"
+  },
+  {
+    "text": "ﮬ",
+    "pos": 8,
+    "url": "https://audio.qurancdn.com/wbw/003_155_008.mp3"
+  },
+  {
+    "text": "ﮭ",
+    "pos": 9,
+    "url": "https://audio.qurancdn.com/wbw/003_155_009.mp3"
+  },
+  {
+    "text": "ﮮ",
+    "pos": 10,
+    "url": "https://audio.qurancdn.com/wbw/003_155_010.mp3"
+  },
+  {
+    "text": "ﮯ",
+    "pos": 11,
+    "url": "https://audio.qurancdn.com/wbw/003_155_011.mp3"
+  },
+  {
+    "text": "ﮰ",
+    "pos": 12,
+    "url": "https://audio.qurancdn.com/wbw/003_155_012.mp3"
+  },
+  {
+    "text": "ﮱﯓ",
+    "pos": 13,
+    "url": "https://audio.qurancdn.com/wbw/003_155_013.mp3"
+  },
+  {
+    "text": "ﯔ",
+    "pos": 14,
+    "url": "https://audio.qurancdn.com/wbw/003_155_015.mp3"
+  },
+  {
+    "text": "ﯕ",
+    "pos": 15,
+    "url": "https://audio.qurancdn.com/wbw/003_155_016.mp3"
+  },
+  {
+    "text": "ﯖ",
+    "pos": 16,
+    "url": "https://audio.qurancdn.com/wbw/003_155_017.mp3"
+  },
+  {
+    "text": "ﯗﯘ",
+    "pos": 17,
+    "url": "https://audio.qurancdn.com/wbw/003_155_018.mp3"
+  },
+  {
+    "text": "ﯙ",
+    "pos": 18,
+    "url": "https://audio.qurancdn.com/wbw/003_155_020.mp3"
+  },
+  {
+    "text": "ﯚ",
+    "pos": 19,
+    "url": "https://audio.qurancdn.com/wbw/003_155_021.mp3"
+  },
+  {
+    "text": "ﯛ",
+    "pos": 20,
+    "url": "https://audio.qurancdn.com/wbw/003_155_022.mp3"
+  },
+  {
+    "text": "ﯜ",
+    "pos": 21,
+    "url": "https://audio.qurancdn.com/wbw/003_155_023.mp3"
+  },
+  {
+    "text": "ﯝ",
+    "pos": 22,
+    "url": null
+  }
+]
+
+Query: "من خوف" -> Found in 43:68
+Ayah 43:68: [
+  {
+    "text": "ﮤ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/043_068_001.mp3"
+  },
+  {
+    "text": "ﮥ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/043_068_002.mp3"
+  },
+  {
+    "text": "ﮦ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/043_068_003.mp3"
+  },
+  {
+    "text": "ﮧ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/043_068_004.mp3"
+  },
+  {
+    "text": "ﮨ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/043_068_005.mp3"
+  },
+  {
+    "text": "ﮩ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/043_068_006.mp3"
+  },
+  {
+    "text": "ﮪ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/043_068_007.mp3"
+  },
+  {
+    "text": "ﮫ",
+    "pos": 8,
+    "url": "https://audio.qurancdn.com/wbw/043_068_008.mp3"
+  },
+  {
+    "text": "ﮬ",
+    "pos": 9,
+    "url": null
+  }
+]
+
+Query: "ينئون" -> NOT FOUND
+
+Query: "منهم" -> Found in 18:18
+Ayah 18:18: [
+  {
+    "text": "ﮌ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/018_018_001.mp3"
+  },
+  {
+    "text": "ﮍ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/018_018_002.mp3"
+  },
+  {
+    "text": "ﮎ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/018_018_003.mp3"
+  },
+  {
+    "text": "ﮏﮐ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/018_018_004.mp3"
+  },
+  {
+    "text": "ﮑ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/018_018_006.mp3"
+  },
+  {
+    "text": "ﮒ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/018_018_007.mp3"
+  },
+  {
+    "text": "ﮓ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/018_018_008.mp3"
+  },
+  {
+    "text": "ﮔ",
+    "pos": 8,
+    "url": "https://audio.qurancdn.com/wbw/018_018_009.mp3"
+  },
+  {
+    "text": "ﮕﮖ",
+    "pos": 9,
+    "url": "https://audio.qurancdn.com/wbw/018_018_010.mp3"
+  },
+  {
+    "text": "ﮗ",
+    "pos": 10,
+    "url": "https://audio.qurancdn.com/wbw/018_018_012.mp3"
+  },
+  {
+    "text": "ﮘ",
+    "pos": 11,
+    "url": "https://audio.qurancdn.com/wbw/018_018_013.mp3"
+  },
+  {
+    "text": "ﮙ",
+    "pos": 12,
+    "url": "https://audio.qurancdn.com/wbw/018_018_014.mp3"
+  },
+  {
+    "text": "ﮚﮛ",
+    "pos": 13,
+    "url": "https://audio.qurancdn.com/wbw/018_018_015.mp3"
+  },
+  {
+    "text": "ﮜ",
+    "pos": 14,
+    "url": "https://audio.qurancdn.com/wbw/018_018_017.mp3"
+  },
+  {
+    "text": "ﮝ",
+    "pos": 15,
+    "url": "https://audio.qurancdn.com/wbw/018_018_018.mp3"
+  },
+  {
+    "text": "ﮞ",
+    "pos": 16,
+    "url": "https://audio.qurancdn.com/wbw/018_018_019.mp3"
+  },
+  {
+    "text": "ﮟ",
+    "pos": 17,
+    "url": "https://audio.qurancdn.com/wbw/018_018_020.mp3"
+  },
+  {
+    "text": "ﮠ",
+    "pos": 18,
+    "url": "https://audio.qurancdn.com/wbw/018_018_021.mp3"
+  },
+  {
+    "text": "ﮡ",
+    "pos": 19,
+    "url": "https://audio.qurancdn.com/wbw/018_018_022.mp3"
+  },
+  {
+    "text": "ﮢ",
+    "pos": 20,
+    "url": "https://audio.qurancdn.com/wbw/018_018_023.mp3"
+  },
+  {
+    "text": "ﮣ",
+    "pos": 21,
+    "url": "https://audio.qurancdn.com/wbw/018_018_024.mp3"
+  },
+  {
+    "text": "ﮤ",
+    "pos": 22,
+    "url": "https://audio.qurancdn.com/wbw/018_018_025.mp3"
+  },
+  {
+    "text": "ﮥ",
+    "pos": 23,
+    "url": null
+  }
+]
+
+Query: "انعمت" -> Found in 1:7
+Ayah 1:7: [
+  {
+    "text": "ﭫ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/001_007_001.mp3"
+  },
+  {
+    "text": "ﭬ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/001_007_002.mp3"
+  },
+  {
+    "text": "ﭭ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/001_007_003.mp3"
+  },
+  {
+    "text": "ﭮ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/001_007_004.mp3"
+  },
+  {
+    "text": "ﭯ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/001_007_005.mp3"
+  },
+  {
+    "text": "ﭰ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/001_007_006.mp3"
+  },
+  {
+    "text": "ﭱ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/001_007_007.mp3"
+  },
+  {
+    "text": "ﭲ",
+    "pos": 8,
+    "url": "https://audio.qurancdn.com/wbw/001_007_008.mp3"
+  },
+  {
+    "text": "ﭳ",
+    "pos": 9,
+    "url": "https://audio.qurancdn.com/wbw/001_007_009.mp3"
+  },
+  {
+    "text": "ﭴ",
+    "pos": 10,
+    "url": null
+  }
+]
+
+Query: "وانحر" -> Found in 108:2
+Ayah 108:2: [
+  {
+    "text": "ﮊ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/108_002_001.mp3"
+  },
+  {
+    "text": "ﮋ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/108_002_002.mp3"
+  },
+  {
+    "text": "ﮌ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/108_002_003.mp3"
+  },
+  {
+    "text": "ﮍ",
+    "pos": 4,
+    "url": null
+  }
+]
+
+Query: "فسينغضون" -> Found in 17:51
+Ayah 17:51: [
+  {
+    "text": "ﭘ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/017_051_001.mp3"
+  },
+  {
+    "text": "ﭙ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/017_051_002.mp3"
+  },
+  {
+    "text": "ﭚ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/017_051_003.mp3"
+  },
+  {
+    "text": "ﭛ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/017_051_004.mp3"
+  },
+  {
+    "text": "ﭜ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/017_051_005.mp3"
+  },
+  {
+    "text": "ﭝﭞ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/017_051_006.mp3"
+  },
+  {
+    "text": "ﭟ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/017_051_008.mp3"
+  },
+  {
+    "text": "ﭠ",
+    "pos": 8,
+    "url": "https://audio.qurancdn.com/wbw/017_051_009.mp3"
+  },
+  {
+    "text": "ﭡﭢ",
+    "pos": 9,
+    "url": "https://audio.qurancdn.com/wbw/017_051_010.mp3"
+  },
+  {
+    "text": "ﭣ",
+    "pos": 10,
+    "url": "https://audio.qurancdn.com/wbw/017_051_012.mp3"
+  },
+  {
+    "text": "ﭤ",
+    "pos": 11,
+    "url": "https://audio.qurancdn.com/wbw/017_051_013.mp3"
+  },
+  {
+    "text": "ﭥ",
+    "pos": 12,
+    "url": "https://audio.qurancdn.com/wbw/017_051_014.mp3"
+  },
+  {
+    "text": "ﭦ",
+    "pos": 13,
+    "url": "https://audio.qurancdn.com/wbw/017_051_015.mp3"
+  },
+  {
+    "text": "ﭧﭨ",
+    "pos": 14,
+    "url": "https://audio.qurancdn.com/wbw/017_051_016.mp3"
+  },
+  {
+    "text": "ﭩ",
+    "pos": 15,
+    "url": "https://audio.qurancdn.com/wbw/017_051_018.mp3"
+  },
+  {
+    "text": "ﭪ",
+    "pos": 16,
+    "url": "https://audio.qurancdn.com/wbw/017_051_019.mp3"
+  },
+  {
+    "text": "ﭫ",
+    "pos": 17,
+    "url": "https://audio.qurancdn.com/wbw/017_051_020.mp3"
+  },
+  {
+    "text": "ﭬ",
+    "pos": 18,
+    "url": "https://audio.qurancdn.com/wbw/017_051_021.mp3"
+  },
+  {
+    "text": "ﭭ",
+    "pos": 19,
+    "url": "https://audio.qurancdn.com/wbw/017_051_022.mp3"
+  },
+  {
+    "text": "ﭮﭯ",
+    "pos": 20,
+    "url": "https://audio.qurancdn.com/wbw/017_051_023.mp3"
+  },
+  {
+    "text": "ﭰ",
+    "pos": 21,
+    "url": "https://audio.qurancdn.com/wbw/017_051_025.mp3"
+  },
+  {
+    "text": "ﭱ",
+    "pos": 22,
+    "url": "https://audio.qurancdn.com/wbw/017_051_026.mp3"
+  },
+  {
+    "text": "ﭲ",
+    "pos": 23,
+    "url": "https://audio.qurancdn.com/wbw/017_051_027.mp3"
+  },
+  {
+    "text": "ﭳ",
+    "pos": 24,
+    "url": "https://audio.qurancdn.com/wbw/017_051_028.mp3"
+  },
+  {
+    "text": "ﭴ",
+    "pos": 25,
+    "url": "https://audio.qurancdn.com/wbw/017_051_029.mp3"
+  },
+  {
+    "text": "ﭵ",
+    "pos": 26,
+    "url": null
+  }
+]
+
+Query: "والمنخنقة" -> Found in 5:3
+Ayah 5:3: [
+  {
+    "text": "ﭑ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/005_003_001.mp3"
+  },
+  {
+    "text": "ﭒ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/005_003_002.mp3"
+  },
+  {
+    "text": "ﭓ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/005_003_003.mp3"
+  },
+  {
+    "text": "ﭔ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/005_003_004.mp3"
+  },
+  {
+    "text": "ﭕ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/005_003_005.mp3"
+  },
+  {
+    "text": "ﭖ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/005_003_006.mp3"
+  },
+  {
+    "text": "ﭗ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/005_003_007.mp3"
+  },
+  {
+    "text": "ﭘ",
+    "pos": 8,
+    "url": "https://audio.qurancdn.com/wbw/005_003_008.mp3"
+  },
+  {
+    "text": "ﭙ",
+    "pos": 9,
+    "url": "https://audio.qurancdn.com/wbw/005_003_009.mp3"
+  },
+  {
+    "text": "ﭚ",
+    "pos": 10,
+    "url": "https://audio.qurancdn.com/wbw/005_003_010.mp3"
+  },
+  {
+    "text": "ﭛ",
+    "pos": 11,
+    "url": "https://audio.qurancdn.com/wbw/005_003_011.mp3"
+  },
+  {
+    "text": "ﭜ",
+    "pos": 12,
+    "url": "https://audio.qurancdn.com/wbw/005_003_012.mp3"
+  },
+  {
+    "text": "ﭝ",
+    "pos": 13,
+    "url": "https://audio.qurancdn.com/wbw/005_003_013.mp3"
+  },
+  {
+    "text": "ﭞ",
+    "pos": 14,
+    "url": "https://audio.qurancdn.com/wbw/005_003_014.mp3"
+  },
+  {
+    "text": "ﭟ",
+    "pos": 15,
+    "url": "https://audio.qurancdn.com/wbw/005_003_015.mp3"
+  },
+  {
+    "text": "ﭠ",
+    "pos": 16,
+    "url": "https://audio.qurancdn.com/wbw/005_003_016.mp3"
+  },
+  {
+    "text": "ﭡ",
+    "pos": 17,
+    "url": "https://audio.qurancdn.com/wbw/005_003_017.mp3"
+  },
+  {
+    "text": "ﭢ",
+    "pos": 18,
+    "url": "https://audio.qurancdn.com/wbw/005_003_018.mp3"
+  },
+  {
+    "text": "ﭣ",
+    "pos": 19,
+    "url": "https://audio.qurancdn.com/wbw/005_003_019.mp3"
+  },
+  {
+    "text": "ﭤ",
+    "pos": 20,
+    "url": "https://audio.qurancdn.com/wbw/005_003_020.mp3"
+  },
+  {
+    "text": "ﭥ",
+    "pos": 21,
+    "url": "https://audio.qurancdn.com/wbw/005_003_021.mp3"
+  },
+  {
+    "text": "ﭦ",
+    "pos": 22,
+    "url": "https://audio.qurancdn.com/wbw/005_003_022.mp3"
+  },
+  {
+    "text": "ﭧ",
+    "pos": 23,
+    "url": "https://audio.qurancdn.com/wbw/005_003_023.mp3"
+  },
+  {
+    "text": "ﭨ",
+    "pos": 24,
+    "url": "https://audio.qurancdn.com/wbw/005_003_024.mp3"
+  },
+  {
+    "text": "ﭩ",
+    "pos": 25,
+    "url": "https://audio.qurancdn.com/wbw/005_003_025.mp3"
+  },
+  {
+    "text": "ﭪ",
+    "pos": 26,
+    "url": "https://audio.qurancdn.com/wbw/005_003_026.mp3"
+  },
+  {
+    "text": "ﭫ",
+    "pos": 27,
+    "url": "https://audio.qurancdn.com/wbw/005_003_027.mp3"
+  },
+  {
+    "text": "ﭬﭭ",
+    "pos": 28,
+    "url": "https://audio.qurancdn.com/wbw/005_003_028.mp3"
+  },
+  {
+    "text": "ﭮ",
+    "pos": 29,
+    "url": "https://audio.qurancdn.com/wbw/005_003_030.mp3"
+  },
+  {
+    "text": "ﭯﭰ",
+    "pos": 30,
+    "url": "https://audio.qurancdn.com/wbw/005_003_031.mp3"
+  },
+  {
+    "text": "ﭱ",
+    "pos": 31,
+    "url": "https://audio.qurancdn.com/wbw/005_003_033.mp3"
+  },
+  {
+    "text": "ﭲ",
+    "pos": 32,
+    "url": "https://audio.qurancdn.com/wbw/005_003_034.mp3"
+  },
+  {
+    "text": "ﭳ",
+    "pos": 33,
+    "url": "https://audio.qurancdn.com/wbw/005_003_035.mp3"
+  },
+  {
+    "text": "ﭴ",
+    "pos": 34,
+    "url": "https://audio.qurancdn.com/wbw/005_003_036.mp3"
+  },
+  {
+    "text": "ﭵ",
+    "pos": 35,
+    "url": "https://audio.qurancdn.com/wbw/005_003_037.mp3"
+  },
+  {
+    "text": "ﭶ",
+    "pos": 36,
+    "url": "https://audio.qurancdn.com/wbw/005_003_038.mp3"
+  },
+  {
+    "text": "ﭷ",
+    "pos": 37,
+    "url": "https://audio.qurancdn.com/wbw/005_003_039.mp3"
+  },
+  {
+    "text": "ﭸ",
+    "pos": 38,
+    "url": "https://audio.qurancdn.com/wbw/005_003_040.mp3"
+  },
+  {
+    "text": "ﭹﭺ",
+    "pos": 39,
+    "url": "https://audio.qurancdn.com/wbw/005_003_041.mp3"
+  },
+  {
+    "text": "ﭻ",
+    "pos": 40,
+    "url": "https://audio.qurancdn.com/wbw/005_003_043.mp3"
+  },
+  {
+    "text": "ﭼ",
+    "pos": 41,
+    "url": "https://audio.qurancdn.com/wbw/005_003_044.mp3"
+  },
+  {
+    "text": "ﭽ",
+    "pos": 42,
+    "url": "https://audio.qurancdn.com/wbw/005_003_045.mp3"
+  },
+  {
+    "text": "ﭾ",
+    "pos": 43,
+    "url": "https://audio.qurancdn.com/wbw/005_003_046.mp3"
+  },
+  {
+    "text": "ﭿ",
+    "pos": 44,
+    "url": "https://audio.qurancdn.com/wbw/005_003_047.mp3"
+  },
+  {
+    "text": "ﮀ",
+    "pos": 45,
+    "url": "https://audio.qurancdn.com/wbw/005_003_048.mp3"
+  },
+  {
+    "text": "ﮁ",
+    "pos": 46,
+    "url": "https://audio.qurancdn.com/wbw/005_003_049.mp3"
+  },
+  {
+    "text": "ﮂ",
+    "pos": 47,
+    "url": "https://audio.qurancdn.com/wbw/005_003_050.mp3"
+  },
+  {
+    "text": "ﮃ",
+    "pos": 48,
+    "url": "https://audio.qurancdn.com/wbw/005_003_051.mp3"
+  },
+  {
+    "text": "ﮄ",
+    "pos": 49,
+    "url": "https://audio.qurancdn.com/wbw/005_003_052.mp3"
+  },
+  {
+    "text": "ﮅﮆ",
+    "pos": 50,
+    "url": "https://audio.qurancdn.com/wbw/005_003_053.mp3"
+  },
+  {
+    "text": "ﮇ",
+    "pos": 51,
+    "url": "https://audio.qurancdn.com/wbw/005_003_055.mp3"
+  },
+  {
+    "text": "ﮈ",
+    "pos": 52,
+    "url": "https://audio.qurancdn.com/wbw/005_003_056.mp3"
+  },
+  {
+    "text": "ﮉ",
+    "pos": 53,
+    "url": "https://audio.qurancdn.com/wbw/005_003_057.mp3"
+  },
+  {
+    "text": "ﮊ",
+    "pos": 54,
+    "url": "https://audio.qurancdn.com/wbw/005_003_058.mp3"
+  },
+  {
+    "text": "ﮋ",
+    "pos": 55,
+    "url": "https://audio.qurancdn.com/wbw/005_003_059.mp3"
+  },
+  {
+    "text": "ﮌ",
+    "pos": 56,
+    "url": "https://audio.qurancdn.com/wbw/005_003_060.mp3"
+  },
+  {
+    "text": "ﮍﮎ",
+    "pos": 57,
+    "url": "https://audio.qurancdn.com/wbw/005_003_061.mp3"
+  },
+  {
+    "text": "ﮏ",
+    "pos": 58,
+    "url": "https://audio.qurancdn.com/wbw/005_003_063.mp3"
+  },
+  {
+    "text": "ﮐ",
+    "pos": 59,
+    "url": "https://audio.qurancdn.com/wbw/005_003_064.mp3"
+  },
+  {
+    "text": "ﮑ",
+    "pos": 60,
+    "url": "https://audio.qurancdn.com/wbw/005_003_065.mp3"
+  },
+  {
+    "text": "ﮒ",
+    "pos": 61,
+    "url": "https://audio.qurancdn.com/wbw/005_003_066.mp3"
+  },
+  {
+    "text": "ﮓ",
+    "pos": 62,
+    "url": null
+  }
+]
+
+Query: "عذابا اليما" -> Found in 25:37
+Ayah 25:37: [
+  {
+    "text": "ﭺ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/025_037_001.mp3"
+  },
+  {
+    "text": "ﭻ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/025_037_002.mp3"
+  },
+  {
+    "text": "ﭼ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/025_037_003.mp3"
+  },
+  {
+    "text": "ﭽ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/025_037_004.mp3"
+  },
+  {
+    "text": "ﭾ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/025_037_005.mp3"
+  },
+  {
+    "text": "ﭿ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/025_037_006.mp3"
+  },
+  {
+    "text": "ﮀ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/025_037_007.mp3"
+  },
+  {
+    "text": "ﮁ",
+    "pos": 8,
+    "url": "https://audio.qurancdn.com/wbw/025_037_008.mp3"
+  },
+  {
+    "text": "ﮂﮃ",
+    "pos": 9,
+    "url": "https://audio.qurancdn.com/wbw/025_037_009.mp3"
+  },
+  {
+    "text": "ﮄ",
+    "pos": 10,
+    "url": "https://audio.qurancdn.com/wbw/025_037_011.mp3"
+  },
+  {
+    "text": "ﮅ",
+    "pos": 11,
+    "url": "https://audio.qurancdn.com/wbw/025_037_012.mp3"
+  },
+  {
+    "text": "ﮆ",
+    "pos": 12,
+    "url": "https://audio.qurancdn.com/wbw/025_037_013.mp3"
+  },
+  {
+    "text": "ﮇ",
+    "pos": 13,
+    "url": "https://audio.qurancdn.com/wbw/025_037_014.mp3"
+  },
+  {
+    "text": "ﮈ",
+    "pos": 14,
+    "url": null
+  }
+]
+
+Query: "بلدا امنا" -> Found in 2:126
+Ayah 2:126: [
+  {
+    "text": "ﯵ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/002_126_001.mp3"
+  },
+  {
+    "text": "ﯶ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/002_126_002.mp3"
+  },
+  {
+    "text": "ﯷ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/002_126_003.mp3"
+  },
+  {
+    "text": "ﯸ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/002_126_004.mp3"
+  },
+  {
+    "text": "ﯹ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/002_126_005.mp3"
+  },
+  {
+    "text": "ﯺ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/002_126_006.mp3"
+  },
+  {
+    "text": "ﯻ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/002_126_007.mp3"
+  },
+  {
+    "text": "ﯼ",
+    "pos": 8,
+    "url": "https://audio.qurancdn.com/wbw/002_126_008.mp3"
+  },
+  {
+    "text": "ﯽ",
+    "pos": 9,
+    "url": "https://audio.qurancdn.com/wbw/002_126_009.mp3"
+  },
+  {
+    "text": "ﯾ",
+    "pos": 10,
+    "url": "https://audio.qurancdn.com/wbw/002_126_010.mp3"
+  },
+  {
+    "text": "ﯿ",
+    "pos": 11,
+    "url": "https://audio.qurancdn.com/wbw/002_126_011.mp3"
+  },
+  {
+    "text": "ﰀ",
+    "pos": 12,
+    "url": "https://audio.qurancdn.com/wbw/002_126_012.mp3"
+  },
+  {
+    "text": "ﰁ",
+    "pos": 13,
+    "url": "https://audio.qurancdn.com/wbw/002_126_013.mp3"
+  },
+  {
+    "text": "ﰂ",
+    "pos": 14,
+    "url": "https://audio.qurancdn.com/wbw/002_126_014.mp3"
+  },
+  {
+    "text": "ﰃ",
+    "pos": 15,
+    "url": "https://audio.qurancdn.com/wbw/002_126_015.mp3"
+  },
+  {
+    "text": "ﰄ",
+    "pos": 16,
+    "url": "https://audio.qurancdn.com/wbw/002_126_016.mp3"
+  },
+  {
+    "text": "ﰅ",
+    "pos": 17,
+    "url": "https://audio.qurancdn.com/wbw/002_126_017.mp3"
+  },
+  {
+    "text": "ﰆﰇ",
+    "pos": 18,
+    "url": "https://audio.qurancdn.com/wbw/002_126_018.mp3"
+  },
+  {
+    "text": "ﰈ",
+    "pos": 19,
+    "url": "https://audio.qurancdn.com/wbw/002_126_020.mp3"
+  },
+  {
+    "text": "ﰉ",
+    "pos": 20,
+    "url": "https://audio.qurancdn.com/wbw/002_126_021.mp3"
+  },
+  {
+    "text": "ﰊ",
+    "pos": 21,
+    "url": "https://audio.qurancdn.com/wbw/002_126_022.mp3"
+  },
+  {
+    "text": "ﰋ",
+    "pos": 22,
+    "url": "https://audio.qurancdn.com/wbw/002_126_023.mp3"
+  },
+  {
+    "text": "ﰌ",
+    "pos": 23,
+    "url": "https://audio.qurancdn.com/wbw/002_126_024.mp3"
+  },
+  {
+    "text": "ﰍ",
+    "pos": 24,
+    "url": "https://audio.qurancdn.com/wbw/002_126_025.mp3"
+  },
+  {
+    "text": "ﰎ",
+    "pos": 25,
+    "url": "https://audio.qurancdn.com/wbw/002_126_026.mp3"
+  },
+  {
+    "text": "ﰏ",
+    "pos": 26,
+    "url": "https://audio.qurancdn.com/wbw/002_126_027.mp3"
+  },
+  {
+    "text": "ﰐ",
+    "pos": 27,
+    "url": "https://audio.qurancdn.com/wbw/002_126_028.mp3"
+  },
+  {
+    "text": "ﰑﰒ",
+    "pos": 28,
+    "url": "https://audio.qurancdn.com/wbw/002_126_029.mp3"
+  },
+  {
+    "text": "ﰓ",
+    "pos": 29,
+    "url": "https://audio.qurancdn.com/wbw/002_126_031.mp3"
+  },
+  {
+    "text": "ﰔ",
+    "pos": 30,
+    "url": "https://audio.qurancdn.com/wbw/002_126_032.mp3"
+  },
+  {
+    "text": "ﰕ",
+    "pos": 31,
+    "url": null
+  }
+]
+
+Query: "نوحا هدينا" -> Found in 6:84
+Ayah 6:84: [
+  {
+    "text": "ﭮ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/006_084_001.mp3"
+  },
+  {
+    "text": "ﭯ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/006_084_002.mp3"
+  },
+  {
+    "text": "ﭰ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/006_084_003.mp3"
+  },
+  {
+    "text": "ﭱﭲ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/006_084_004.mp3"
+  },
+  {
+    "text": "ﭳ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/006_084_006.mp3"
+  },
+  {
+    "text": "ﭴﭵ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/006_084_007.mp3"
+  },
+  {
+    "text": "ﭶ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/006_084_009.mp3"
+  },
+  {
+    "text": "ﭷ",
+    "pos": 8,
+    "url": "https://audio.qurancdn.com/wbw/006_084_010.mp3"
+  },
+  {
+    "text": "ﭸ",
+    "pos": 9,
+    "url": "https://audio.qurancdn.com/wbw/006_084_011.mp3"
+  },
+  {
+    "text": "ﭹﭺ",
+    "pos": 10,
+    "url": "https://audio.qurancdn.com/wbw/006_084_012.mp3"
+  },
+  {
+    "text": "ﭻ",
+    "pos": 11,
+    "url": "https://audio.qurancdn.com/wbw/006_084_014.mp3"
+  },
+  {
+    "text": "ﭼ",
+    "pos": 12,
+    "url": "https://audio.qurancdn.com/wbw/006_084_015.mp3"
+  },
+  {
+    "text": "ﭽ",
+    "pos": 13,
+    "url": "https://audio.qurancdn.com/wbw/006_084_016.mp3"
+  },
+  {
+    "text": "ﭾ",
+    "pos": 14,
+    "url": "https://audio.qurancdn.com/wbw/006_084_017.mp3"
+  },
+  {
+    "text": "ﭿ",
+    "pos": 15,
+    "url": "https://audio.qurancdn.com/wbw/006_084_018.mp3"
+  },
+  {
+    "text": "ﮀ",
+    "pos": 16,
+    "url": "https://audio.qurancdn.com/wbw/006_084_019.mp3"
+  },
+  {
+    "text": "ﮁ",
+    "pos": 17,
+    "url": "https://audio.qurancdn.com/wbw/006_084_020.mp3"
+  },
+  {
+    "text": "ﮂﮃ",
+    "pos": 18,
+    "url": "https://audio.qurancdn.com/wbw/006_084_021.mp3"
+  },
+  {
+    "text": "ﮄ",
+    "pos": 19,
+    "url": "https://audio.qurancdn.com/wbw/006_084_023.mp3"
+  },
+  {
+    "text": "ﮅ",
+    "pos": 20,
+    "url": "https://audio.qurancdn.com/wbw/006_084_024.mp3"
+  },
+  {
+    "text": "ﮆ",
+    "pos": 21,
+    "url": "https://audio.qurancdn.com/wbw/006_084_025.mp3"
+  },
+  {
+    "text": "ﮇ",
+    "pos": 22,
+    "url": null
+  }
+]
+
+Query: "سميع عليم" -> Found in 3:34
+Ayah 3:34: [
+  {
+    "text": "ﮘ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/003_034_001.mp3"
+  },
+  {
+    "text": "ﮙ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/003_034_002.mp3"
+  },
+  {
+    "text": "ﮚ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/003_034_003.mp3"
+  },
+  {
+    "text": "ﮛﮜ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/003_034_004.mp3"
+  },
+  {
+    "text": "ﮝ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/003_034_006.mp3"
+  },
+  {
+    "text": "ﮞ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/003_034_007.mp3"
+  },
+  {
+    "text": "ﮟ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/003_034_008.mp3"
+  },
+  {
+    "text": "ﮠ",
+    "pos": 8,
+    "url": null
+  }
+]
+
+Query: "قرضا حسنا" -> Found in 57:18
+Ayah 57:18: [
+  {
+    "text": "ﯽ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/057_018_001.mp3"
+  },
+  {
+    "text": "ﯾ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/057_018_002.mp3"
+  },
+  {
+    "text": "ﯿ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/057_018_003.mp3"
+  },
+  {
+    "text": "ﰀ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/057_018_004.mp3"
+  },
+  {
+    "text": "ﰁ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/057_018_005.mp3"
+  },
+  {
+    "text": "ﰂ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/057_018_006.mp3"
+  },
+  {
+    "text": "ﰃ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/057_018_007.mp3"
+  },
+  {
+    "text": "ﰄ",
+    "pos": 8,
+    "url": "https://audio.qurancdn.com/wbw/057_018_008.mp3"
+  },
+  {
+    "text": "ﰅ",
+    "pos": 9,
+    "url": "https://audio.qurancdn.com/wbw/057_018_009.mp3"
+  },
+  {
+    "text": "ﰆ",
+    "pos": 10,
+    "url": "https://audio.qurancdn.com/wbw/057_018_010.mp3"
+  },
+  {
+    "text": "ﰇ",
+    "pos": 11,
+    "url": "https://audio.qurancdn.com/wbw/057_018_011.mp3"
+  },
+  {
+    "text": "ﰈ",
+    "pos": 12,
+    "url": "https://audio.qurancdn.com/wbw/057_018_012.mp3"
+  },
+  {
+    "text": "ﰉ",
+    "pos": 13,
+    "url": null
+  }
+]
+
+Query: "عليم خبير" -> Found in 49:13
+Ayah 49:13: [
+  {
+    "text": "ﭵ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/049_013_001.mp3"
+  },
+  {
+    "text": "ﭶ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/049_013_002.mp3"
+  },
+  {
+    "text": "ﭷ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/049_013_003.mp3"
+  },
+  {
+    "text": "ﭸ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/049_013_004.mp3"
+  },
+  {
+    "text": "ﭹ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/049_013_005.mp3"
+  },
+  {
+    "text": "ﭺ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/049_013_006.mp3"
+  },
+  {
+    "text": "ﭻ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/049_013_007.mp3"
+  },
+  {
+    "text": "ﭼ",
+    "pos": 8,
+    "url": "https://audio.qurancdn.com/wbw/049_013_008.mp3"
+  },
+  {
+    "text": "ﭽ",
+    "pos": 9,
+    "url": "https://audio.qurancdn.com/wbw/049_013_009.mp3"
+  },
+  {
+    "text": "ﭾ",
+    "pos": 10,
+    "url": "https://audio.qurancdn.com/wbw/049_013_010.mp3"
+  },
+  {
+    "text": "ﭿﮀ",
+    "pos": 11,
+    "url": "https://audio.qurancdn.com/wbw/049_013_011.mp3"
+  },
+  {
+    "text": "ﮁ",
+    "pos": 12,
+    "url": "https://audio.qurancdn.com/wbw/049_013_013.mp3"
+  },
+  {
+    "text": "ﮂ",
+    "pos": 13,
+    "url": "https://audio.qurancdn.com/wbw/049_013_014.mp3"
+  },
+  {
+    "text": "ﮃ",
+    "pos": 14,
+    "url": "https://audio.qurancdn.com/wbw/049_013_015.mp3"
+  },
+  {
+    "text": "ﮄ",
+    "pos": 15,
+    "url": "https://audio.qurancdn.com/wbw/049_013_016.mp3"
+  },
+  {
+    "text": "ﮅﮆ",
+    "pos": 16,
+    "url": "https://audio.qurancdn.com/wbw/049_013_017.mp3"
+  },
+  {
+    "text": "ﮇ",
+    "pos": 17,
+    "url": "https://audio.qurancdn.com/wbw/049_013_019.mp3"
+  },
+  {
+    "text": "ﮈ",
+    "pos": 18,
+    "url": "https://audio.qurancdn.com/wbw/049_013_020.mp3"
+  },
+  {
+    "text": "ﮉ",
+    "pos": 19,
+    "url": "https://audio.qurancdn.com/wbw/049_013_021.mp3"
+  },
+  {
+    "text": "ﮊ",
+    "pos": 20,
+    "url": "https://audio.qurancdn.com/wbw/049_013_022.mp3"
+  },
+  {
+    "text": "ﮋ",
+    "pos": 21,
+    "url": null
+  }
+]
+
+Query: "قوما غيركم" -> Found in 11:57
+Ayah 11:57: [
+  {
+    "text": "ﮁ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/011_057_001.mp3"
+  },
+  {
+    "text": "ﮂ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/011_057_002.mp3"
+  },
+  {
+    "text": "ﮃ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/011_057_003.mp3"
+  },
+  {
+    "text": "ﮄ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/011_057_004.mp3"
+  },
+  {
+    "text": "ﮅ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/011_057_005.mp3"
+  },
+  {
+    "text": "ﮆ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/011_057_006.mp3"
+  },
+  {
+    "text": "ﮇ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/011_057_007.mp3"
+  },
+  {
+    "text": "ﮈﮉ",
+    "pos": 8,
+    "url": "https://audio.qurancdn.com/wbw/011_057_008.mp3"
+  },
+  {
+    "text": "ﮊ",
+    "pos": 9,
+    "url": "https://audio.qurancdn.com/wbw/011_057_010.mp3"
+  },
+  {
+    "text": "ﮋ",
+    "pos": 10,
+    "url": "https://audio.qurancdn.com/wbw/011_057_011.mp3"
+  },
+  {
+    "text": "ﮌ",
+    "pos": 11,
+    "url": "https://audio.qurancdn.com/wbw/011_057_012.mp3"
+  },
+  {
+    "text": "ﮍ",
+    "pos": 12,
+    "url": "https://audio.qurancdn.com/wbw/011_057_013.mp3"
+  },
+  {
+    "text": "ﮎ",
+    "pos": 13,
+    "url": "https://audio.qurancdn.com/wbw/011_057_014.mp3"
+  },
+  {
+    "text": "ﮏ",
+    "pos": 14,
+    "url": "https://audio.qurancdn.com/wbw/011_057_015.mp3"
+  },
+  {
+    "text": "ﮐﮑ",
+    "pos": 15,
+    "url": "https://audio.qurancdn.com/wbw/011_057_016.mp3"
+  },
+  {
+    "text": "ﮒ",
+    "pos": 16,
+    "url": "https://audio.qurancdn.com/wbw/011_057_018.mp3"
+  },
+  {
+    "text": "ﮓ",
+    "pos": 17,
+    "url": "https://audio.qurancdn.com/wbw/011_057_019.mp3"
+  },
+  {
+    "text": "ﮔ",
+    "pos": 18,
+    "url": "https://audio.qurancdn.com/wbw/011_057_020.mp3"
+  },
+  {
+    "text": "ﮕ",
+    "pos": 19,
+    "url": "https://audio.qurancdn.com/wbw/011_057_021.mp3"
+  },
+  {
+    "text": "ﮖ",
+    "pos": 20,
+    "url": "https://audio.qurancdn.com/wbw/011_057_022.mp3"
+  },
+  {
+    "text": "ﮗ",
+    "pos": 21,
+    "url": "https://audio.qurancdn.com/wbw/011_057_023.mp3"
+  },
+  {
+    "text": "ﮘ",
+    "pos": 22,
+    "url": null
+  }
+]
+
+Query: "فمن تبع" -> Found in 2:38
+Ayah 2:38: [
+  {
+    "text": "ﭑ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/002_038_001.mp3"
+  },
+  {
+    "text": "ﭒ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/002_038_002.mp3"
+  },
+  {
+    "text": "ﭓ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/002_038_003.mp3"
+  },
+  {
+    "text": "ﭔﭕ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/002_038_004.mp3"
+  },
+  {
+    "text": "ﭖ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/002_038_006.mp3"
+  },
+  {
+    "text": "ﭗ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/002_038_007.mp3"
+  },
+  {
+    "text": "ﭘ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/002_038_008.mp3"
+  },
+  {
+    "text": "ﭙ",
+    "pos": 8,
+    "url": "https://audio.qurancdn.com/wbw/002_038_009.mp3"
+  },
+  {
+    "text": "ﭚ",
+    "pos": 9,
+    "url": "https://audio.qurancdn.com/wbw/002_038_010.mp3"
+  },
+  {
+    "text": "ﭛ",
+    "pos": 10,
+    "url": "https://audio.qurancdn.com/wbw/002_038_011.mp3"
+  },
+  {
+    "text": "ﭜ",
+    "pos": 11,
+    "url": "https://audio.qurancdn.com/wbw/002_038_012.mp3"
+  },
+  {
+    "text": "ﭝ",
+    "pos": 12,
+    "url": "https://audio.qurancdn.com/wbw/002_038_013.mp3"
+  },
+  {
+    "text": "ﭞ",
+    "pos": 13,
+    "url": "https://audio.qurancdn.com/wbw/002_038_014.mp3"
+  },
+  {
+    "text": "ﭟ",
+    "pos": 14,
+    "url": "https://audio.qurancdn.com/wbw/002_038_015.mp3"
+  },
+  {
+    "text": "ﭠ",
+    "pos": 15,
+    "url": "https://audio.qurancdn.com/wbw/002_038_016.mp3"
+  },
+  {
+    "text": "ﭡ",
+    "pos": 16,
+    "url": "https://audio.qurancdn.com/wbw/002_038_017.mp3"
+  },
+  {
+    "text": "ﭢ",
+    "pos": 17,
+    "url": "https://audio.qurancdn.com/wbw/002_038_018.mp3"
+  },
+  {
+    "text": "ﭣ",
+    "pos": 18,
+    "url": null
+  }
+]
+
+Query: "من ثمرة" -> Found in 2:25
+Ayah 2:25: [
+  {
+    "text": "ﭑ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/002_025_001.mp3"
+  },
+  {
+    "text": "ﭒ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/002_025_002.mp3"
+  },
+  {
+    "text": "ﭓ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/002_025_003.mp3"
+  },
+  {
+    "text": "ﭔ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/002_025_004.mp3"
+  },
+  {
+    "text": "ﭕ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/002_025_005.mp3"
+  },
+  {
+    "text": "ﭖ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/002_025_006.mp3"
+  },
+  {
+    "text": "ﭗ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/002_025_007.mp3"
+  },
+  {
+    "text": "ﭘ",
+    "pos": 8,
+    "url": "https://audio.qurancdn.com/wbw/002_025_008.mp3"
+  },
+  {
+    "text": "ﭙ",
+    "pos": 9,
+    "url": "https://audio.qurancdn.com/wbw/002_025_009.mp3"
+  },
+  {
+    "text": "ﭚ",
+    "pos": 10,
+    "url": "https://audio.qurancdn.com/wbw/002_025_010.mp3"
+  },
+  {
+    "text": "ﭛ",
+    "pos": 11,
+    "url": "https://audio.qurancdn.com/wbw/002_025_011.mp3"
+  },
+  {
+    "text": "ﭜﭝ",
+    "pos": 12,
+    "url": "https://audio.qurancdn.com/wbw/002_025_012.mp3"
+  },
+  {
+    "text": "ﭞ",
+    "pos": 13,
+    "url": "https://audio.qurancdn.com/wbw/002_025_014.mp3"
+  },
+  {
+    "text": "ﭟ",
+    "pos": 14,
+    "url": "https://audio.qurancdn.com/wbw/002_025_015.mp3"
+  },
+  {
+    "text": "ﭠ",
+    "pos": 15,
+    "url": "https://audio.qurancdn.com/wbw/002_025_016.mp3"
+  },
+  {
+    "text": "ﭡ",
+    "pos": 16,
+    "url": "https://audio.qurancdn.com/wbw/002_025_017.mp3"
+  },
+  {
+    "text": "ﭢ",
+    "pos": 17,
+    "url": "https://audio.qurancdn.com/wbw/002_025_018.mp3"
+  },
+  {
+    "text": "ﭣﭤ",
+    "pos": 18,
+    "url": "https://audio.qurancdn.com/wbw/002_025_019.mp3"
+  },
+  {
+    "text": "ﭥ",
+    "pos": 19,
+    "url": "https://audio.qurancdn.com/wbw/002_025_021.mp3"
+  },
+  {
+    "text": "ﭦ",
+    "pos": 20,
+    "url": "https://audio.qurancdn.com/wbw/002_025_022.mp3"
+  },
+  {
+    "text": "ﭧ",
+    "pos": 21,
+    "url": "https://audio.qurancdn.com/wbw/002_025_023.mp3"
+  },
+  {
+    "text": "ﭨ",
+    "pos": 22,
+    "url": "https://audio.qurancdn.com/wbw/002_025_024.mp3"
+  },
+  {
+    "text": "ﭩ",
+    "pos": 23,
+    "url": "https://audio.qurancdn.com/wbw/002_025_025.mp3"
+  },
+  {
+    "text": "ﭪﭫ",
+    "pos": 24,
+    "url": "https://audio.qurancdn.com/wbw/002_025_026.mp3"
+  },
+  {
+    "text": "ﭬ",
+    "pos": 25,
+    "url": "https://audio.qurancdn.com/wbw/002_025_028.mp3"
+  },
+  {
+    "text": "ﭭ",
+    "pos": 26,
+    "url": "https://audio.qurancdn.com/wbw/002_025_029.mp3"
+  },
+  {
+    "text": "ﭮﭯ",
+    "pos": 27,
+    "url": "https://audio.qurancdn.com/wbw/002_025_030.mp3"
+  },
+  {
+    "text": "ﭰ",
+    "pos": 28,
+    "url": "https://audio.qurancdn.com/wbw/002_025_032.mp3"
+  },
+  {
+    "text": "ﭱ",
+    "pos": 29,
+    "url": "https://audio.qurancdn.com/wbw/002_025_033.mp3"
+  },
+  {
+    "text": "ﭲ",
+    "pos": 30,
+    "url": "https://audio.qurancdn.com/wbw/002_025_034.mp3"
+  },
+  {
+    "text": "ﭳﭴ",
+    "pos": 31,
+    "url": "https://audio.qurancdn.com/wbw/002_025_035.mp3"
+  },
+  {
+    "text": "ﭵ",
+    "pos": 32,
+    "url": "https://audio.qurancdn.com/wbw/002_025_037.mp3"
+  },
+  {
+    "text": "ﭶ",
+    "pos": 33,
+    "url": "https://audio.qurancdn.com/wbw/002_025_038.mp3"
+  },
+  {
+    "text": "ﭷ",
+    "pos": 34,
+    "url": "https://audio.qurancdn.com/wbw/002_025_039.mp3"
+  },
+  {
+    "text": "ﭸ",
+    "pos": 35,
+    "url": null
+  }
+]
+
+Query: "من جوع" -> Found in 106:4
+Ayah 106:4: [
+  {
+    "text": "ﭞ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/106_004_001.mp3"
+  },
+  {
+    "text": "ﭟ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/106_004_002.mp3"
+  },
+  {
+    "text": "ﭠ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/106_004_003.mp3"
+  },
+  {
+    "text": "ﭡ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/106_004_004.mp3"
+  },
+  {
+    "text": "ﭢ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/106_004_005.mp3"
+  },
+  {
+    "text": "ﭣ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/106_004_006.mp3"
+  },
+  {
+    "text": "ﭤ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/106_004_007.mp3"
+  },
+  {
+    "text": "ﭥ",
+    "pos": 8,
+    "url": null
+  }
+]
+
+Query: "من دونكم" -> Found in 3:118
+Ayah 3:118: [
+  {
+    "text": "ﭿ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/003_118_001.mp3"
+  },
+  {
+    "text": "ﮀ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/003_118_002.mp3"
+  },
+  {
+    "text": "ﮁ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/003_118_003.mp3"
+  },
+  {
+    "text": "ﮂ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/003_118_004.mp3"
+  },
+  {
+    "text": "ﮃ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/003_118_005.mp3"
+  },
+  {
+    "text": "ﮄ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/003_118_006.mp3"
+  },
+  {
+    "text": "ﮅ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/003_118_007.mp3"
+  },
+  {
+    "text": "ﮆ",
+    "pos": 8,
+    "url": "https://audio.qurancdn.com/wbw/003_118_008.mp3"
+  },
+  {
+    "text": "ﮇ",
+    "pos": 9,
+    "url": "https://audio.qurancdn.com/wbw/003_118_009.mp3"
+  },
+  {
+    "text": "ﮈ",
+    "pos": 10,
+    "url": "https://audio.qurancdn.com/wbw/003_118_010.mp3"
+  },
+  {
+    "text": "ﮉ",
+    "pos": 11,
+    "url": "https://audio.qurancdn.com/wbw/003_118_011.mp3"
+  },
+  {
+    "text": "ﮊ",
+    "pos": 12,
+    "url": "https://audio.qurancdn.com/wbw/003_118_012.mp3"
+  },
+  {
+    "text": "ﮋ",
+    "pos": 13,
+    "url": "https://audio.qurancdn.com/wbw/003_118_013.mp3"
+  },
+  {
+    "text": "ﮌ",
+    "pos": 14,
+    "url": "https://audio.qurancdn.com/wbw/003_118_014.mp3"
+  },
+  {
+    "text": "ﮍ",
+    "pos": 15,
+    "url": "https://audio.qurancdn.com/wbw/003_118_015.mp3"
+  },
+  {
+    "text": "ﮎ",
+    "pos": 16,
+    "url": "https://audio.qurancdn.com/wbw/003_118_016.mp3"
+  },
+  {
+    "text": "ﮏ",
+    "pos": 17,
+    "url": "https://audio.qurancdn.com/wbw/003_118_017.mp3"
+  },
+  {
+    "text": "ﮐ",
+    "pos": 18,
+    "url": "https://audio.qurancdn.com/wbw/003_118_018.mp3"
+  },
+  {
+    "text": "ﮑ",
+    "pos": 19,
+    "url": "https://audio.qurancdn.com/wbw/003_118_019.mp3"
+  },
+  {
+    "text": "ﮒ",
+    "pos": 20,
+    "url": "https://audio.qurancdn.com/wbw/003_118_020.mp3"
+  },
+  {
+    "text": "ﮓ",
+    "pos": 21,
+    "url": "https://audio.qurancdn.com/wbw/003_118_021.mp3"
+  },
+  {
+    "text": "ﮔ",
+    "pos": 22,
+    "url": "https://audio.qurancdn.com/wbw/003_118_022.mp3"
+  },
+  {
+    "text": "ﮕﮖ",
+    "pos": 23,
+    "url": "https://audio.qurancdn.com/wbw/003_118_023.mp3"
+  },
+  {
+    "text": "ﮗ",
+    "pos": 24,
+    "url": "https://audio.qurancdn.com/wbw/003_118_025.mp3"
+  },
+  {
+    "text": "ﮘ",
+    "pos": 25,
+    "url": "https://audio.qurancdn.com/wbw/003_118_026.mp3"
+  },
+  {
+    "text": "ﮙ",
+    "pos": 26,
+    "url": "https://audio.qurancdn.com/wbw/003_118_027.mp3"
+  },
+  {
+    "text": "ﮚﮛ",
+    "pos": 27,
+    "url": "https://audio.qurancdn.com/wbw/003_118_028.mp3"
+  },
+  {
+    "text": "ﮜ",
+    "pos": 28,
+    "url": "https://audio.qurancdn.com/wbw/003_118_030.mp3"
+  },
+  {
+    "text": "ﮝ",
+    "pos": 29,
+    "url": "https://audio.qurancdn.com/wbw/003_118_031.mp3"
+  },
+  {
+    "text": "ﮞ",
+    "pos": 30,
+    "url": "https://audio.qurancdn.com/wbw/003_118_032.mp3"
+  },
+  {
+    "text": "ﮟ",
+    "pos": 31,
+    "url": null
+  }
+]
+
+Query: "من ذهب" -> Found in 43:53
+Ayah 43:53: [
+  {
+    "text": "ﮓ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/043_053_001.mp3"
+  },
+  {
+    "text": "ﮔ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/043_053_002.mp3"
+  },
+  {
+    "text": "ﮕ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/043_053_003.mp3"
+  },
+  {
+    "text": "ﮖ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/043_053_004.mp3"
+  },
+  {
+    "text": "ﮗ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/043_053_005.mp3"
+  },
+  {
+    "text": "ﮘ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/043_053_006.mp3"
+  },
+  {
+    "text": "ﮙ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/043_053_007.mp3"
+  },
+  {
+    "text": "ﮚ",
+    "pos": 8,
+    "url": "https://audio.qurancdn.com/wbw/043_053_008.mp3"
+  },
+  {
+    "text": "ﮛ",
+    "pos": 9,
+    "url": "https://audio.qurancdn.com/wbw/043_053_009.mp3"
+  },
+  {
+    "text": "ﮜ",
+    "pos": 10,
+    "url": "https://audio.qurancdn.com/wbw/043_053_010.mp3"
+  },
+  {
+    "text": "ﮝ",
+    "pos": 11,
+    "url": "https://audio.qurancdn.com/wbw/043_053_011.mp3"
+  },
+  {
+    "text": "ﮞ",
+    "pos": 12,
+    "url": null
+  }
+]
+
+Query: "فان زللتم" -> Found in 2:209
+Ayah 2:209: [
+  {
+    "text": "ﯟ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/002_209_001.mp3"
+  },
+  {
+    "text": "ﯠ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/002_209_002.mp3"
+  },
+  {
+    "text": "ﯡ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/002_209_003.mp3"
+  },
+  {
+    "text": "ﯢ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/002_209_004.mp3"
+  },
+  {
+    "text": "ﯣ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/002_209_005.mp3"
+  },
+  {
+    "text": "ﯤ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/002_209_006.mp3"
+  },
+  {
+    "text": "ﯥ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/002_209_007.mp3"
+  },
+  {
+    "text": "ﯦ",
+    "pos": 8,
+    "url": "https://audio.qurancdn.com/wbw/002_209_008.mp3"
+  },
+  {
+    "text": "ﯧ",
+    "pos": 9,
+    "url": "https://audio.qurancdn.com/wbw/002_209_009.mp3"
+  },
+  {
+    "text": "ﯨ",
+    "pos": 10,
+    "url": "https://audio.qurancdn.com/wbw/002_209_010.mp3"
+  },
+  {
+    "text": "ﯩ",
+    "pos": 11,
+    "url": "https://audio.qurancdn.com/wbw/002_209_011.mp3"
+  },
+  {
+    "text": "ﯪ",
+    "pos": 12,
+    "url": "https://audio.qurancdn.com/wbw/002_209_012.mp3"
+  },
+  {
+    "text": "ﯫ",
+    "pos": 13,
+    "url": null
+  }
+]
+
+Query: "من سفه" -> Found in 2:130
+Ayah 2:130: [
+  {
+    "text": "ﮆ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/002_130_001.mp3"
+  },
+  {
+    "text": "ﮇ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/002_130_002.mp3"
+  },
+  {
+    "text": "ﮈ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/002_130_003.mp3"
+  },
+  {
+    "text": "ﮉ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/002_130_004.mp3"
+  },
+  {
+    "text": "ﮊ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/002_130_005.mp3"
+  },
+  {
+    "text": "ﮋ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/002_130_006.mp3"
+  },
+  {
+    "text": "ﮌ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/002_130_007.mp3"
+  },
+  {
+    "text": "ﮍ",
+    "pos": 8,
+    "url": "https://audio.qurancdn.com/wbw/002_130_008.mp3"
+  },
+  {
+    "text": "ﮎﮏ",
+    "pos": 9,
+    "url": "https://audio.qurancdn.com/wbw/002_130_009.mp3"
+  },
+  {
+    "text": "ﮐ",
+    "pos": 10,
+    "url": "https://audio.qurancdn.com/wbw/002_130_011.mp3"
+  },
+  {
+    "text": "ﮑ",
+    "pos": 11,
+    "url": "https://audio.qurancdn.com/wbw/002_130_012.mp3"
+  },
+  {
+    "text": "ﮒ",
+    "pos": 12,
+    "url": "https://audio.qurancdn.com/wbw/002_130_013.mp3"
+  },
+  {
+    "text": "ﮓﮔ",
+    "pos": 13,
+    "url": "https://audio.qurancdn.com/wbw/002_130_014.mp3"
+  },
+  {
+    "text": "ﮕ",
+    "pos": 14,
+    "url": "https://audio.qurancdn.com/wbw/002_130_016.mp3"
+  },
+  {
+    "text": "ﮖ",
+    "pos": 15,
+    "url": "https://audio.qurancdn.com/wbw/002_130_017.mp3"
+  },
+  {
+    "text": "ﮗ",
+    "pos": 16,
+    "url": "https://audio.qurancdn.com/wbw/002_130_018.mp3"
+  },
+  {
+    "text": "ﮘ",
+    "pos": 17,
+    "url": "https://audio.qurancdn.com/wbw/002_130_019.mp3"
+  },
+  {
+    "text": "ﮙ",
+    "pos": 18,
+    "url": "https://audio.qurancdn.com/wbw/002_130_020.mp3"
+  },
+  {
+    "text": "ﮚ",
+    "pos": 19,
+    "url": null
+  }
+]
+
+Query: "من شكر" -> Found in 27:40
+Ayah 27:40: [
+  {
+    "text": "ﮍ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/027_040_001.mp3"
+  },
+  {
+    "text": "ﮎ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/027_040_002.mp3"
+  },
+  {
+    "text": "ﮏ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/027_040_003.mp3"
+  },
+  {
+    "text": "ﮐ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/027_040_004.mp3"
+  },
+  {
+    "text": "ﮑ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/027_040_005.mp3"
+  },
+  {
+    "text": "ﮒ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/027_040_006.mp3"
+  },
+  {
+    "text": "ﮓ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/027_040_007.mp3"
+  },
+  {
+    "text": "ﮔ",
+    "pos": 8,
+    "url": "https://audio.qurancdn.com/wbw/027_040_008.mp3"
+  },
+  {
+    "text": "ﮕ",
+    "pos": 9,
+    "url": "https://audio.qurancdn.com/wbw/027_040_009.mp3"
+  },
+  {
+    "text": "ﮖ",
+    "pos": 10,
+    "url": "https://audio.qurancdn.com/wbw/027_040_010.mp3"
+  },
+  {
+    "text": "ﮗ",
+    "pos": 11,
+    "url": "https://audio.qurancdn.com/wbw/027_040_011.mp3"
+  },
+  {
+    "text": "ﮘ",
+    "pos": 12,
+    "url": "https://audio.qurancdn.com/wbw/027_040_012.mp3"
+  },
+  {
+    "text": "ﮙ",
+    "pos": 13,
+    "url": "https://audio.qurancdn.com/wbw/027_040_013.mp3"
+  },
+  {
+    "text": "ﮚﮛ",
+    "pos": 14,
+    "url": "https://audio.qurancdn.com/wbw/027_040_014.mp3"
+  },
+  {
+    "text": "ﮜ",
+    "pos": 15,
+    "url": "https://audio.qurancdn.com/wbw/027_040_016.mp3"
+  },
+  {
+    "text": "ﮝ",
+    "pos": 16,
+    "url": "https://audio.qurancdn.com/wbw/027_040_017.mp3"
+  },
+  {
+    "text": "ﮞ",
+    "pos": 17,
+    "url": "https://audio.qurancdn.com/wbw/027_040_018.mp3"
+  },
+  {
+    "text": "ﮟ",
+    "pos": 18,
+    "url": "https://audio.qurancdn.com/wbw/027_040_019.mp3"
+  },
+  {
+    "text": "ﮠ",
+    "pos": 19,
+    "url": "https://audio.qurancdn.com/wbw/027_040_020.mp3"
+  },
+  {
+    "text": "ﮡ",
+    "pos": 20,
+    "url": "https://audio.qurancdn.com/wbw/027_040_021.mp3"
+  },
+  {
+    "text": "ﮢ",
+    "pos": 21,
+    "url": "https://audio.qurancdn.com/wbw/027_040_022.mp3"
+  },
+  {
+    "text": "ﮣ",
+    "pos": 22,
+    "url": "https://audio.qurancdn.com/wbw/027_040_023.mp3"
+  },
+  {
+    "text": "ﮤ",
+    "pos": 23,
+    "url": "https://audio.qurancdn.com/wbw/027_040_024.mp3"
+  },
+  {
+    "text": "ﮥ",
+    "pos": 24,
+    "url": "https://audio.qurancdn.com/wbw/027_040_025.mp3"
+  },
+  {
+    "text": "ﮦ",
+    "pos": 25,
+    "url": "https://audio.qurancdn.com/wbw/027_040_026.mp3"
+  },
+  {
+    "text": "ﮧ",
+    "pos": 26,
+    "url": "https://audio.qurancdn.com/wbw/027_040_027.mp3"
+  },
+  {
+    "text": "ﮨﮩ",
+    "pos": 27,
+    "url": "https://audio.qurancdn.com/wbw/027_040_028.mp3"
+  },
+  {
+    "text": "ﮪ",
+    "pos": 28,
+    "url": "https://audio.qurancdn.com/wbw/027_040_030.mp3"
+  },
+  {
+    "text": "ﮫ",
+    "pos": 29,
+    "url": "https://audio.qurancdn.com/wbw/027_040_031.mp3"
+  },
+  {
+    "text": "ﮬ",
+    "pos": 30,
+    "url": "https://audio.qurancdn.com/wbw/027_040_032.mp3"
+  },
+  {
+    "text": "ﮭ",
+    "pos": 31,
+    "url": "https://audio.qurancdn.com/wbw/027_040_033.mp3"
+  },
+  {
+    "text": "ﮮﮯ",
+    "pos": 32,
+    "url": "https://audio.qurancdn.com/wbw/027_040_034.mp3"
+  },
+  {
+    "text": "ﮰ",
+    "pos": 33,
+    "url": "https://audio.qurancdn.com/wbw/027_040_036.mp3"
+  },
+  {
+    "text": "ﮱ",
+    "pos": 34,
+    "url": "https://audio.qurancdn.com/wbw/027_040_037.mp3"
+  },
+  {
+    "text": "ﯓ",
+    "pos": 35,
+    "url": "https://audio.qurancdn.com/wbw/027_040_038.mp3"
+  },
+  {
+    "text": "ﯔ",
+    "pos": 36,
+    "url": "https://audio.qurancdn.com/wbw/027_040_039.mp3"
+  },
+  {
+    "text": "ﯕ",
+    "pos": 37,
+    "url": "https://audio.qurancdn.com/wbw/027_040_040.mp3"
+  },
+  {
+    "text": "ﯖ",
+    "pos": 38,
+    "url": "https://audio.qurancdn.com/wbw/027_040_041.mp3"
+  },
+  {
+    "text": "ﯗ",
+    "pos": 39,
+    "url": null
+  }
+]
+
+Query: "من صلصال" -> Found in 15:33
+Ayah 15:33: [
+  {
+    "text": "ﭚ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/015_033_001.mp3"
+  },
+  {
+    "text": "ﭛ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/015_033_002.mp3"
+  },
+  {
+    "text": "ﭜ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/015_033_003.mp3"
+  },
+  {
+    "text": "ﭝ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/015_033_004.mp3"
+  },
+  {
+    "text": "ﭞ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/015_033_005.mp3"
+  },
+  {
+    "text": "ﭟ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/015_033_006.mp3"
+  },
+  {
+    "text": "ﭠ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/015_033_007.mp3"
+  },
+  {
+    "text": "ﭡ",
+    "pos": 8,
+    "url": "https://audio.qurancdn.com/wbw/015_033_008.mp3"
+  },
+  {
+    "text": "ﭢ",
+    "pos": 9,
+    "url": "https://audio.qurancdn.com/wbw/015_033_009.mp3"
+  },
+  {
+    "text": "ﭣ",
+    "pos": 10,
+    "url": "https://audio.qurancdn.com/wbw/015_033_010.mp3"
+  },
+  {
+    "text": "ﭤ",
+    "pos": 11,
+    "url": "https://audio.qurancdn.com/wbw/015_033_011.mp3"
+  },
+  {
+    "text": "ﭥ",
+    "pos": 12,
+    "url": null
+  }
+]
+
+Query: "ان ضللت" -> Found in 34:50
+Ayah 34:50: [
+  {
+    "text": "ﭚ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/034_050_001.mp3"
+  },
+  {
+    "text": "ﭛ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/034_050_002.mp3"
+  },
+  {
+    "text": "ﭜ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/034_050_003.mp3"
+  },
+  {
+    "text": "ﭝ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/034_050_004.mp3"
+  },
+  {
+    "text": "ﭞ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/034_050_005.mp3"
+  },
+  {
+    "text": "ﭟ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/034_050_006.mp3"
+  },
+  {
+    "text": "ﭠﭡ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/034_050_007.mp3"
+  },
+  {
+    "text": "ﭢ",
+    "pos": 8,
+    "url": "https://audio.qurancdn.com/wbw/034_050_009.mp3"
+  },
+  {
+    "text": "ﭣ",
+    "pos": 9,
+    "url": "https://audio.qurancdn.com/wbw/034_050_010.mp3"
+  },
+  {
+    "text": "ﭤ",
+    "pos": 10,
+    "url": "https://audio.qurancdn.com/wbw/034_050_011.mp3"
+  },
+  {
+    "text": "ﭥ",
+    "pos": 11,
+    "url": "https://audio.qurancdn.com/wbw/034_050_012.mp3"
+  },
+  {
+    "text": "ﭦ",
+    "pos": 12,
+    "url": "https://audio.qurancdn.com/wbw/034_050_013.mp3"
+  },
+  {
+    "text": "ﭧﭨ",
+    "pos": 13,
+    "url": "https://audio.qurancdn.com/wbw/034_050_014.mp3"
+  },
+  {
+    "text": "ﭩ",
+    "pos": 14,
+    "url": "https://audio.qurancdn.com/wbw/034_050_016.mp3"
+  },
+  {
+    "text": "ﭪ",
+    "pos": 15,
+    "url": "https://audio.qurancdn.com/wbw/034_050_017.mp3"
+  },
+  {
+    "text": "ﭫ",
+    "pos": 16,
+    "url": "https://audio.qurancdn.com/wbw/034_050_018.mp3"
+  },
+  {
+    "text": "ﭬ",
+    "pos": 17,
+    "url": null
+  }
+]
+
+Query: "من طين" -> Found in 38:76
+Ayah 38:76: [
+  {
+    "text": "ﯬ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/038_076_001.mp3"
+  },
+  {
+    "text": "ﯭ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/038_076_002.mp3"
+  },
+  {
+    "text": "ﯮ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/038_076_003.mp3"
+  },
+  {
+    "text": "ﯯﯰ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/038_076_004.mp3"
+  },
+  {
+    "text": "ﯱ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/038_076_006.mp3"
+  },
+  {
+    "text": "ﯲ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/038_076_007.mp3"
+  },
+  {
+    "text": "ﯳ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/038_076_008.mp3"
+  },
+  {
+    "text": "ﯴ",
+    "pos": 8,
+    "url": "https://audio.qurancdn.com/wbw/038_076_009.mp3"
+  },
+  {
+    "text": "ﯵ",
+    "pos": 9,
+    "url": "https://audio.qurancdn.com/wbw/038_076_010.mp3"
+  },
+  {
+    "text": "ﯶ",
+    "pos": 10,
+    "url": "https://audio.qurancdn.com/wbw/038_076_011.mp3"
+  },
+  {
+    "text": "ﯷ",
+    "pos": 11,
+    "url": null
+  }
+]
+
+Query: "من ظلم" -> Found in 27:11
+Ayah 27:11: [
+  {
+    "text": "ﯣ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/027_011_001.mp3"
+  },
+  {
+    "text": "ﯤ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/027_011_002.mp3"
+  },
+  {
+    "text": "ﯥ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/027_011_003.mp3"
+  },
+  {
+    "text": "ﯦ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/027_011_004.mp3"
+  },
+  {
+    "text": "ﯧ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/027_011_005.mp3"
+  },
+  {
+    "text": "ﯨ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/027_011_006.mp3"
+  },
+  {
+    "text": "ﯩ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/027_011_007.mp3"
+  },
+  {
+    "text": "ﯪ",
+    "pos": 8,
+    "url": "https://audio.qurancdn.com/wbw/027_011_008.mp3"
+  },
+  {
+    "text": "ﯫ",
+    "pos": 9,
+    "url": "https://audio.qurancdn.com/wbw/027_011_009.mp3"
+  },
+  {
+    "text": "ﯬ",
+    "pos": 10,
+    "url": "https://audio.qurancdn.com/wbw/027_011_010.mp3"
+  },
+  {
+    "text": "ﯭ",
+    "pos": 11,
+    "url": "https://audio.qurancdn.com/wbw/027_011_011.mp3"
+  },
+  {
+    "text": "ﯮ",
+    "pos": 12,
+    "url": null
+  }
+]
+
+Query: "من فروج" -> Found in 50:6
+Ayah 50:6: [
+  {
+    "text": "ﮀ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/050_006_001.mp3"
+  },
+  {
+    "text": "ﮁ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/050_006_002.mp3"
+  },
+  {
+    "text": "ﮂ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/050_006_003.mp3"
+  },
+  {
+    "text": "ﮃ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/050_006_004.mp3"
+  },
+  {
+    "text": "ﮄ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/050_006_005.mp3"
+  },
+  {
+    "text": "ﮅ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/050_006_006.mp3"
+  },
+  {
+    "text": "ﮆ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/050_006_007.mp3"
+  },
+  {
+    "text": "ﮇ",
+    "pos": 8,
+    "url": "https://audio.qurancdn.com/wbw/050_006_008.mp3"
+  },
+  {
+    "text": "ﮈ",
+    "pos": 9,
+    "url": "https://audio.qurancdn.com/wbw/050_006_009.mp3"
+  },
+  {
+    "text": "ﮉ",
+    "pos": 10,
+    "url": "https://audio.qurancdn.com/wbw/050_006_010.mp3"
+  },
+  {
+    "text": "ﮊ",
+    "pos": 11,
+    "url": "https://audio.qurancdn.com/wbw/050_006_011.mp3"
+  },
+  {
+    "text": "ﮋ",
+    "pos": 12,
+    "url": "https://audio.qurancdn.com/wbw/050_006_012.mp3"
+  },
+  {
+    "text": "ﮌ",
+    "pos": 13,
+    "url": null
+  }
+]
+
+Query: "من قبل" -> Found in 27:37
+Ayah 27:37: [
+  {
+    "text": "ﭢ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/027_037_001.mp3"
+  },
+  {
+    "text": "ﭣ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/027_037_002.mp3"
+  },
+  {
+    "text": "ﭤ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/027_037_003.mp3"
+  },
+  {
+    "text": "ﭥ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/027_037_004.mp3"
+  },
+  {
+    "text": "ﭦ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/027_037_005.mp3"
+  },
+  {
+    "text": "ﭧ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/027_037_006.mp3"
+  },
+  {
+    "text": "ﭨ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/027_037_007.mp3"
+  },
+  {
+    "text": "ﭩ",
+    "pos": 8,
+    "url": "https://audio.qurancdn.com/wbw/027_037_008.mp3"
+  },
+  {
+    "text": "ﭪ",
+    "pos": 9,
+    "url": "https://audio.qurancdn.com/wbw/027_037_009.mp3"
+  },
+  {
+    "text": "ﭫ",
+    "pos": 10,
+    "url": "https://audio.qurancdn.com/wbw/027_037_010.mp3"
+  },
+  {
+    "text": "ﭬ",
+    "pos": 11,
+    "url": "https://audio.qurancdn.com/wbw/027_037_011.mp3"
+  },
+  {
+    "text": "ﭭ",
+    "pos": 12,
+    "url": "https://audio.qurancdn.com/wbw/027_037_012.mp3"
+  },
+  {
+    "text": "ﭮ",
+    "pos": 13,
+    "url": "https://audio.qurancdn.com/wbw/027_037_013.mp3"
+  },
+  {
+    "text": "ﭯ",
+    "pos": 14,
+    "url": null
+  }
+]
+
+Query: "من كتب" -> Found in 2:183
+Ayah 2:183: [
+  {
+    "text": "ﭣ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/002_183_001.mp3"
+  },
+  {
+    "text": "ﭤ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/002_183_002.mp3"
+  },
+  {
+    "text": "ﭥ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/002_183_003.mp3"
+  },
+  {
+    "text": "ﭦ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/002_183_004.mp3"
+  },
+  {
+    "text": "ﭧ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/002_183_005.mp3"
+  },
+  {
+    "text": "ﭨ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/002_183_006.mp3"
+  },
+  {
+    "text": "ﭩ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/002_183_007.mp3"
+  },
+  {
+    "text": "ﭪ",
+    "pos": 8,
+    "url": "https://audio.qurancdn.com/wbw/002_183_008.mp3"
+  },
+  {
+    "text": "ﭫ",
+    "pos": 9,
+    "url": "https://audio.qurancdn.com/wbw/002_183_009.mp3"
+  },
+  {
+    "text": "ﭬ",
+    "pos": 10,
+    "url": "https://audio.qurancdn.com/wbw/002_183_010.mp3"
+  },
+  {
+    "text": "ﭭ",
+    "pos": 11,
+    "url": "https://audio.qurancdn.com/wbw/002_183_011.mp3"
+  },
+  {
+    "text": "ﭮ",
+    "pos": 12,
+    "url": "https://audio.qurancdn.com/wbw/002_183_012.mp3"
+  },
+  {
+    "text": "ﭯ",
+    "pos": 13,
+    "url": "https://audio.qurancdn.com/wbw/002_183_013.mp3"
+  },
+  {
+    "text": "ﭰ",
+    "pos": 14,
+    "url": "https://audio.qurancdn.com/wbw/002_183_014.mp3"
+  },
+  {
+    "text": "ﭱ",
+    "pos": 15,
+    "url": null
+  }
+]
+
+Query: "انت" -> Found in 88:21
+Ayah 88:21: [
+  {
+    "text": "ﯟ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/088_021_001.mp3"
+  },
+  {
+    "text": "ﯠ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/088_021_002.mp3"
+  },
+  {
+    "text": "ﯡ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/088_021_003.mp3"
+  },
+  {
+    "text": "ﯢ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/088_021_004.mp3"
+  },
+  {
+    "text": "ﯣ",
+    "pos": 5,
+    "url": null
+  }
+]
+
+Query: "تنسون" -> NOT FOUND
+
+Query: "ننشزها" -> Found in 2:259
+Ayah 2:259: [
+  {
+    "text": "ﮛ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/002_259_001.mp3"
+  },
+  {
+    "text": "ﮜ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/002_259_002.mp3"
+  },
+  {
+    "text": "ﮝ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/002_259_003.mp3"
+  },
+  {
+    "text": "ﮞ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/002_259_004.mp3"
+  },
+  {
+    "text": "ﮟ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/002_259_005.mp3"
+  },
+  {
+    "text": "ﮠ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/002_259_006.mp3"
+  },
+  {
+    "text": "ﮡ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/002_259_007.mp3"
+  },
+  {
+    "text": "ﮢ",
+    "pos": 8,
+    "url": "https://audio.qurancdn.com/wbw/002_259_008.mp3"
+  },
+  {
+    "text": "ﮣ",
+    "pos": 9,
+    "url": "https://audio.qurancdn.com/wbw/002_259_009.mp3"
+  },
+  {
+    "text": "ﮤ",
+    "pos": 10,
+    "url": "https://audio.qurancdn.com/wbw/002_259_010.mp3"
+  },
+  {
+    "text": "ﮥ",
+    "pos": 11,
+    "url": "https://audio.qurancdn.com/wbw/002_259_011.mp3"
+  },
+  {
+    "text": "ﮦ",
+    "pos": 12,
+    "url": "https://audio.qurancdn.com/wbw/002_259_012.mp3"
+  },
+  {
+    "text": "ﮧ",
+    "pos": 13,
+    "url": "https://audio.qurancdn.com/wbw/002_259_013.mp3"
+  },
+  {
+    "text": "ﮨ",
+    "pos": 14,
+    "url": "https://audio.qurancdn.com/wbw/002_259_014.mp3"
+  },
+  {
+    "text": "ﮩ",
+    "pos": 15,
+    "url": "https://audio.qurancdn.com/wbw/002_259_015.mp3"
+  },
+  {
+    "text": "ﮪﮫ",
+    "pos": 16,
+    "url": "https://audio.qurancdn.com/wbw/002_259_016.mp3"
+  },
+  {
+    "text": "ﮬ",
+    "pos": 17,
+    "url": "https://audio.qurancdn.com/wbw/002_259_018.mp3"
+  },
+  {
+    "text": "ﮭ",
+    "pos": 18,
+    "url": "https://audio.qurancdn.com/wbw/002_259_019.mp3"
+  },
+  {
+    "text": "ﮮ",
+    "pos": 19,
+    "url": "https://audio.qurancdn.com/wbw/002_259_020.mp3"
+  },
+  {
+    "text": "ﮯ",
+    "pos": 20,
+    "url": "https://audio.qurancdn.com/wbw/002_259_021.mp3"
+  },
+  {
+    "text": "ﮰ",
+    "pos": 21,
+    "url": "https://audio.qurancdn.com/wbw/002_259_022.mp3"
+  },
+  {
+    "text": "ﮱﯓ",
+    "pos": 22,
+    "url": "https://audio.qurancdn.com/wbw/002_259_023.mp3"
+  },
+  {
+    "text": "ﯔ",
+    "pos": 23,
+    "url": "https://audio.qurancdn.com/wbw/002_259_025.mp3"
+  },
+  {
+    "text": "ﯕ",
+    "pos": 24,
+    "url": "https://audio.qurancdn.com/wbw/002_259_026.mp3"
+  },
+  {
+    "text": "ﯖﯗ",
+    "pos": 25,
+    "url": "https://audio.qurancdn.com/wbw/002_259_027.mp3"
+  },
+  {
+    "text": "ﯘ",
+    "pos": 26,
+    "url": "https://audio.qurancdn.com/wbw/002_259_029.mp3"
+  },
+  {
+    "text": "ﯙ",
+    "pos": 27,
+    "url": "https://audio.qurancdn.com/wbw/002_259_030.mp3"
+  },
+  {
+    "text": "ﯚ",
+    "pos": 28,
+    "url": "https://audio.qurancdn.com/wbw/002_259_031.mp3"
+  },
+  {
+    "text": "ﯛ",
+    "pos": 29,
+    "url": "https://audio.qurancdn.com/wbw/002_259_032.mp3"
+  },
+  {
+    "text": "ﯜ",
+    "pos": 30,
+    "url": "https://audio.qurancdn.com/wbw/002_259_033.mp3"
+  },
+  {
+    "text": "ﯝﯞ",
+    "pos": 31,
+    "url": "https://audio.qurancdn.com/wbw/002_259_034.mp3"
+  },
+  {
+    "text": "ﯟ",
+    "pos": 32,
+    "url": "https://audio.qurancdn.com/wbw/002_259_036.mp3"
+  },
+  {
+    "text": "ﯠ",
+    "pos": 33,
+    "url": "https://audio.qurancdn.com/wbw/002_259_037.mp3"
+  },
+  {
+    "text": "ﯡ",
+    "pos": 34,
+    "url": "https://audio.qurancdn.com/wbw/002_259_038.mp3"
+  },
+  {
+    "text": "ﯢ",
+    "pos": 35,
+    "url": "https://audio.qurancdn.com/wbw/002_259_039.mp3"
+  },
+  {
+    "text": "ﯣ",
+    "pos": 36,
+    "url": "https://audio.qurancdn.com/wbw/002_259_040.mp3"
+  },
+  {
+    "text": "ﯤ",
+    "pos": 37,
+    "url": "https://audio.qurancdn.com/wbw/002_259_041.mp3"
+  },
+  {
+    "text": "ﯥ",
+    "pos": 38,
+    "url": "https://audio.qurancdn.com/wbw/002_259_042.mp3"
+  },
+  {
+    "text": "ﯦ",
+    "pos": 39,
+    "url": "https://audio.qurancdn.com/wbw/002_259_043.mp3"
+  },
+  {
+    "text": "ﯧ",
+    "pos": 40,
+    "url": "https://audio.qurancdn.com/wbw/002_259_044.mp3"
+  },
+  {
+    "text": "ﯨ",
+    "pos": 41,
+    "url": "https://audio.qurancdn.com/wbw/002_259_045.mp3"
+  },
+  {
+    "text": "ﯩﯪ",
+    "pos": 42,
+    "url": "https://audio.qurancdn.com/wbw/002_259_046.mp3"
+  },
+  {
+    "text": "ﯫ",
+    "pos": 43,
+    "url": "https://audio.qurancdn.com/wbw/002_259_048.mp3"
+  },
+  {
+    "text": "ﯬ",
+    "pos": 44,
+    "url": "https://audio.qurancdn.com/wbw/002_259_049.mp3"
+  },
+  {
+    "text": "ﯭ",
+    "pos": 45,
+    "url": "https://audio.qurancdn.com/wbw/002_259_050.mp3"
+  },
+  {
+    "text": "ﯮ",
+    "pos": 46,
+    "url": "https://audio.qurancdn.com/wbw/002_259_051.mp3"
+  },
+  {
+    "text": "ﯯ",
+    "pos": 47,
+    "url": "https://audio.qurancdn.com/wbw/002_259_052.mp3"
+  },
+  {
+    "text": "ﯰﯱ",
+    "pos": 48,
+    "url": "https://audio.qurancdn.com/wbw/002_259_053.mp3"
+  },
+  {
+    "text": "ﯲ",
+    "pos": 49,
+    "url": "https://audio.qurancdn.com/wbw/002_259_055.mp3"
+  },
+  {
+    "text": "ﯳ",
+    "pos": 50,
+    "url": "https://audio.qurancdn.com/wbw/002_259_056.mp3"
+  },
+  {
+    "text": "ﯴ",
+    "pos": 51,
+    "url": "https://audio.qurancdn.com/wbw/002_259_057.mp3"
+  },
+  {
+    "text": "ﯵ",
+    "pos": 52,
+    "url": "https://audio.qurancdn.com/wbw/002_259_058.mp3"
+  },
+  {
+    "text": "ﯶ",
+    "pos": 53,
+    "url": "https://audio.qurancdn.com/wbw/002_259_059.mp3"
+  },
+  {
+    "text": "ﯷ",
+    "pos": 54,
+    "url": "https://audio.qurancdn.com/wbw/002_259_060.mp3"
+  },
+  {
+    "text": "ﯸ",
+    "pos": 55,
+    "url": "https://audio.qurancdn.com/wbw/002_259_061.mp3"
+  },
+  {
+    "text": "ﯹﯺ",
+    "pos": 56,
+    "url": "https://audio.qurancdn.com/wbw/002_259_062.mp3"
+  },
+  {
+    "text": "ﯻ",
+    "pos": 57,
+    "url": "https://audio.qurancdn.com/wbw/002_259_064.mp3"
+  },
+  {
+    "text": "ﯼ",
+    "pos": 58,
+    "url": "https://audio.qurancdn.com/wbw/002_259_065.mp3"
+  },
+  {
+    "text": "ﯽ",
+    "pos": 59,
+    "url": "https://audio.qurancdn.com/wbw/002_259_066.mp3"
+  },
+  {
+    "text": "ﯾ",
+    "pos": 60,
+    "url": "https://audio.qurancdn.com/wbw/002_259_067.mp3"
+  },
+  {
+    "text": "ﯿ",
+    "pos": 61,
+    "url": "https://audio.qurancdn.com/wbw/002_259_068.mp3"
+  },
+  {
+    "text": "ﰀ",
+    "pos": 62,
+    "url": "https://audio.qurancdn.com/wbw/002_259_069.mp3"
+  },
+  {
+    "text": "ﰁ",
+    "pos": 63,
+    "url": "https://audio.qurancdn.com/wbw/002_259_070.mp3"
+  },
+  {
+    "text": "ﰂ",
+    "pos": 64,
+    "url": "https://audio.qurancdn.com/wbw/002_259_071.mp3"
+  },
+  {
+    "text": "ﰃ",
+    "pos": 65,
+    "url": "https://audio.qurancdn.com/wbw/002_259_072.mp3"
+  },
+  {
+    "text": "ﰄ",
+    "pos": 66,
+    "url": "https://audio.qurancdn.com/wbw/002_259_073.mp3"
+  },
+  {
+    "text": "ﰅ",
+    "pos": 67,
+    "url": "https://audio.qurancdn.com/wbw/002_259_074.mp3"
+  },
+  {
+    "text": "ﰆ",
+    "pos": 68,
+    "url": null
+  }
+]
+
+Query: "ينصرون" -> Found in 44:41
+Ayah 44:41: [
+  {
+    "text": "ﭗ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/044_041_001.mp3"
+  },
+  {
+    "text": "ﭘ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/044_041_002.mp3"
+  },
+  {
+    "text": "ﭙ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/044_041_003.mp3"
+  },
+  {
+    "text": "ﭚ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/044_041_004.mp3"
+  },
+  {
+    "text": "ﭛ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/044_041_005.mp3"
+  },
+  {
+    "text": "ﭜ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/044_041_006.mp3"
+  },
+  {
+    "text": "ﭝ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/044_041_007.mp3"
+  },
+  {
+    "text": "ﭞ",
+    "pos": 8,
+    "url": "https://audio.qurancdn.com/wbw/044_041_008.mp3"
+  },
+  {
+    "text": "ﭟ",
+    "pos": 9,
+    "url": "https://audio.qurancdn.com/wbw/044_041_009.mp3"
+  },
+  {
+    "text": "ﭠ",
+    "pos": 10,
+    "url": "https://audio.qurancdn.com/wbw/044_041_010.mp3"
+  },
+  {
+    "text": "ﭡ",
+    "pos": 11,
+    "url": null
+  }
+]
+
+Query: "منضود" -> Found in 56:29
+Ayah 56:29: [
+  {
+    "text": "ﮍ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/056_029_001.mp3"
+  },
+  {
+    "text": "ﮎ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/056_029_002.mp3"
+  },
+  {
+    "text": "ﮏ",
+    "pos": 3,
+    "url": null
+  }
+]
+
+Query: "ينطقون" -> Found in 77:35
+Ayah 77:35: [
+  {
+    "text": "ﮞ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/077_035_001.mp3"
+  },
+  {
+    "text": "ﮟ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/077_035_002.mp3"
+  },
+  {
+    "text": "ﮠ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/077_035_003.mp3"
+  },
+  {
+    "text": "ﮡ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/077_035_004.mp3"
+  },
+  {
+    "text": "ﮢ",
+    "pos": 5,
+    "url": null
+  }
+]
+
+Query: "انظر" -> Found in 5:75
+Ayah 5:75: [
+  {
+    "text": "ﮱ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/005_075_001.mp3"
+  },
+  {
+    "text": "ﯓ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/005_075_002.mp3"
+  },
+  {
+    "text": "ﯔ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/005_075_003.mp3"
+  },
+  {
+    "text": "ﯕ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/005_075_004.mp3"
+  },
+  {
+    "text": "ﯖ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/005_075_005.mp3"
+  },
+  {
+    "text": "ﯗ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/005_075_006.mp3"
+  },
+  {
+    "text": "ﯘ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/005_075_007.mp3"
+  },
+  {
+    "text": "ﯙ",
+    "pos": 8,
+    "url": "https://audio.qurancdn.com/wbw/005_075_008.mp3"
+  },
+  {
+    "text": "ﯚ",
+    "pos": 9,
+    "url": "https://audio.qurancdn.com/wbw/005_075_009.mp3"
+  },
+  {
+    "text": "ﯛ",
+    "pos": 10,
+    "url": "https://audio.qurancdn.com/wbw/005_075_010.mp3"
+  },
+  {
+    "text": "ﯜ",
+    "pos": 11,
+    "url": "https://audio.qurancdn.com/wbw/005_075_011.mp3"
+  },
+  {
+    "text": "ﯝ",
+    "pos": 12,
+    "url": "https://audio.qurancdn.com/wbw/005_075_012.mp3"
+  },
+  {
+    "text": "ﯞﯟ",
+    "pos": 13,
+    "url": "https://audio.qurancdn.com/wbw/005_075_013.mp3"
+  },
+  {
+    "text": "ﯠ",
+    "pos": 14,
+    "url": "https://audio.qurancdn.com/wbw/005_075_015.mp3"
+  },
+  {
+    "text": "ﯡ",
+    "pos": 15,
+    "url": "https://audio.qurancdn.com/wbw/005_075_016.mp3"
+  },
+  {
+    "text": "ﯢﯣ",
+    "pos": 16,
+    "url": "https://audio.qurancdn.com/wbw/005_075_017.mp3"
+  },
+  {
+    "text": "ﯤ",
+    "pos": 17,
+    "url": "https://audio.qurancdn.com/wbw/005_075_019.mp3"
+  },
+  {
+    "text": "ﯥ",
+    "pos": 18,
+    "url": "https://audio.qurancdn.com/wbw/005_075_020.mp3"
+  },
+  {
+    "text": "ﯦ",
+    "pos": 19,
+    "url": "https://audio.qurancdn.com/wbw/005_075_021.mp3"
+  },
+  {
+    "text": "ﯧ",
+    "pos": 20,
+    "url": "https://audio.qurancdn.com/wbw/005_075_022.mp3"
+  },
+  {
+    "text": "ﯨ",
+    "pos": 21,
+    "url": "https://audio.qurancdn.com/wbw/005_075_023.mp3"
+  },
+  {
+    "text": "ﯩ",
+    "pos": 22,
+    "url": "https://audio.qurancdn.com/wbw/005_075_024.mp3"
+  },
+  {
+    "text": "ﯪ",
+    "pos": 23,
+    "url": "https://audio.qurancdn.com/wbw/005_075_025.mp3"
+  },
+  {
+    "text": "ﯫ",
+    "pos": 24,
+    "url": "https://audio.qurancdn.com/wbw/005_075_026.mp3"
+  },
+  {
+    "text": "ﯬ",
+    "pos": 25,
+    "url": "https://audio.qurancdn.com/wbw/005_075_027.mp3"
+  },
+  {
+    "text": "ﯭ",
+    "pos": 26,
+    "url": null
+  }
+]
+
+Query: "انفسكم" -> Found in 30:28
+Ayah 30:28: [
+  {
+    "text": "ﮂ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/030_028_001.mp3"
+  },
+  {
+    "text": "ﮃ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/030_028_002.mp3"
+  },
+  {
+    "text": "ﮄ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/030_028_003.mp3"
+  },
+  {
+    "text": "ﮅ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/030_028_004.mp3"
+  },
+  {
+    "text": "ﮆﮇ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/030_028_005.mp3"
+  },
+  {
+    "text": "ﮈ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/030_028_007.mp3"
+  },
+  {
+    "text": "ﮉ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/030_028_008.mp3"
+  },
+  {
+    "text": "ﮊ",
+    "pos": 8,
+    "url": "https://audio.qurancdn.com/wbw/030_028_009.mp3"
+  },
+  {
+    "text": "ﮋ",
+    "pos": 9,
+    "url": "https://audio.qurancdn.com/wbw/030_028_010.mp3"
+  },
+  {
+    "text": "ﮌ",
+    "pos": 10,
+    "url": "https://audio.qurancdn.com/wbw/030_028_011.mp3"
+  },
+  {
+    "text": "ﮍ",
+    "pos": 11,
+    "url": "https://audio.qurancdn.com/wbw/030_028_012.mp3"
+  },
+  {
+    "text": "ﮎ",
+    "pos": 12,
+    "url": "https://audio.qurancdn.com/wbw/030_028_013.mp3"
+  },
+  {
+    "text": "ﮏ",
+    "pos": 13,
+    "url": "https://audio.qurancdn.com/wbw/030_028_014.mp3"
+  },
+  {
+    "text": "ﮐ",
+    "pos": 14,
+    "url": "https://audio.qurancdn.com/wbw/030_028_015.mp3"
+  },
+  {
+    "text": "ﮑ",
+    "pos": 15,
+    "url": "https://audio.qurancdn.com/wbw/030_028_016.mp3"
+  },
+  {
+    "text": "ﮒ",
+    "pos": 16,
+    "url": "https://audio.qurancdn.com/wbw/030_028_017.mp3"
+  },
+  {
+    "text": "ﮓ",
+    "pos": 17,
+    "url": "https://audio.qurancdn.com/wbw/030_028_018.mp3"
+  },
+  {
+    "text": "ﮔ",
+    "pos": 18,
+    "url": "https://audio.qurancdn.com/wbw/030_028_019.mp3"
+  },
+  {
+    "text": "ﮕ",
+    "pos": 19,
+    "url": "https://audio.qurancdn.com/wbw/030_028_020.mp3"
+  },
+  {
+    "text": "ﮖ",
+    "pos": 20,
+    "url": "https://audio.qurancdn.com/wbw/030_028_021.mp3"
+  },
+  {
+    "text": "ﮗ",
+    "pos": 21,
+    "url": "https://audio.qurancdn.com/wbw/030_028_022.mp3"
+  },
+  {
+    "text": "ﮘﮙ",
+    "pos": 22,
+    "url": "https://audio.qurancdn.com/wbw/030_028_023.mp3"
+  },
+  {
+    "text": "ﮚ",
+    "pos": 23,
+    "url": "https://audio.qurancdn.com/wbw/030_028_025.mp3"
+  },
+  {
+    "text": "ﮛ",
+    "pos": 24,
+    "url": "https://audio.qurancdn.com/wbw/030_028_026.mp3"
+  },
+  {
+    "text": "ﮜ",
+    "pos": 25,
+    "url": "https://audio.qurancdn.com/wbw/030_028_027.mp3"
+  },
+  {
+    "text": "ﮝ",
+    "pos": 26,
+    "url": "https://audio.qurancdn.com/wbw/030_028_028.mp3"
+  },
+  {
+    "text": "ﮞ",
+    "pos": 27,
+    "url": "https://audio.qurancdn.com/wbw/030_028_029.mp3"
+  },
+  {
+    "text": "ﮟ",
+    "pos": 28,
+    "url": null
+  }
+]
+
+Query: "ينقضون" -> Found in 8:56
+Ayah 8:56: [
+  {
+    "text": "ﮅ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/008_056_001.mp3"
+  },
+  {
+    "text": "ﮆ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/008_056_002.mp3"
+  },
+  {
+    "text": "ﮇ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/008_056_003.mp3"
+  },
+  {
+    "text": "ﮈ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/008_056_004.mp3"
+  },
+  {
+    "text": "ﮉ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/008_056_005.mp3"
+  },
+  {
+    "text": "ﮊ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/008_056_006.mp3"
+  },
+  {
+    "text": "ﮋ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/008_056_007.mp3"
+  },
+  {
+    "text": "ﮌ",
+    "pos": 8,
+    "url": "https://audio.qurancdn.com/wbw/008_056_008.mp3"
+  },
+  {
+    "text": "ﮍ",
+    "pos": 9,
+    "url": "https://audio.qurancdn.com/wbw/008_056_009.mp3"
+  },
+  {
+    "text": "ﮎ",
+    "pos": 10,
+    "url": "https://audio.qurancdn.com/wbw/008_056_010.mp3"
+  },
+  {
+    "text": "ﮏ",
+    "pos": 11,
+    "url": "https://audio.qurancdn.com/wbw/008_056_011.mp3"
+  },
+  {
+    "text": "ﮐ",
+    "pos": 12,
+    "url": "https://audio.qurancdn.com/wbw/008_056_012.mp3"
+  },
+  {
+    "text": "ﮑ",
+    "pos": 13,
+    "url": null
+  }
+]
+
+Query: "منكم" -> Found in 43:60
+Ayah 43:60: [
+  {
+    "text": "ﯼ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/043_060_001.mp3"
+  },
+  {
+    "text": "ﯽ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/043_060_002.mp3"
+  },
+  {
+    "text": "ﯾ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/043_060_003.mp3"
+  },
+  {
+    "text": "ﯿ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/043_060_004.mp3"
+  },
+  {
+    "text": "ﰀ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/043_060_005.mp3"
+  },
+  {
+    "text": "ﰁ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/043_060_006.mp3"
+  },
+  {
+    "text": "ﰂ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/043_060_007.mp3"
+  },
+  {
+    "text": "ﰃ",
+    "pos": 8,
+    "url": "https://audio.qurancdn.com/wbw/043_060_008.mp3"
+  },
+  {
+    "text": "ﰄ",
+    "pos": 9,
+    "url": null
+  }
+]
+
+Query: "قولا ثقيلا" -> Found in 73:5
+Ayah 73:5: [
+  {
+    "text": "ﭦ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/073_005_001.mp3"
+  },
+  {
+    "text": "ﭧ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/073_005_002.mp3"
+  },
+  {
+    "text": "ﭨ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/073_005_003.mp3"
+  },
+  {
+    "text": "ﭩ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/073_005_004.mp3"
+  },
+  {
+    "text": "ﭪ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/073_005_005.mp3"
+  },
+  {
+    "text": "ﭫ",
+    "pos": 6,
+    "url": null
+  }
+]
+
+Query: "فصبر جميل" -> Found in 12:83
+Ayah 12:83: [
+  {
+    "text": "ﮧ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/012_083_001.mp3"
+  },
+  {
+    "text": "ﮨ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/012_083_002.mp3"
+  },
+  {
+    "text": "ﮩ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/012_083_003.mp3"
+  },
+  {
+    "text": "ﮪ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/012_083_004.mp3"
+  },
+  {
+    "text": "ﮫ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/012_083_005.mp3"
+  },
+  {
+    "text": "ﮬﮭ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/012_083_006.mp3"
+  },
+  {
+    "text": "ﮮ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/012_083_008.mp3"
+  },
+  {
+    "text": "ﮯﮰ",
+    "pos": 8,
+    "url": "https://audio.qurancdn.com/wbw/012_083_009.mp3"
+  },
+  {
+    "text": "ﮱ",
+    "pos": 9,
+    "url": "https://audio.qurancdn.com/wbw/012_083_011.mp3"
+  },
+  {
+    "text": "ﯓ",
+    "pos": 10,
+    "url": "https://audio.qurancdn.com/wbw/012_083_012.mp3"
+  },
+  {
+    "text": "ﯔ",
+    "pos": 11,
+    "url": "https://audio.qurancdn.com/wbw/012_083_013.mp3"
+  },
+  {
+    "text": "ﯕ",
+    "pos": 12,
+    "url": "https://audio.qurancdn.com/wbw/012_083_014.mp3"
+  },
+  {
+    "text": "ﯖ",
+    "pos": 13,
+    "url": "https://audio.qurancdn.com/wbw/012_083_015.mp3"
+  },
+  {
+    "text": "ﯗﯘ",
+    "pos": 14,
+    "url": "https://audio.qurancdn.com/wbw/012_083_016.mp3"
+  },
+  {
+    "text": "ﯙ",
+    "pos": 15,
+    "url": "https://audio.qurancdn.com/wbw/012_083_018.mp3"
+  },
+  {
+    "text": "ﯚ",
+    "pos": 16,
+    "url": "https://audio.qurancdn.com/wbw/012_083_019.mp3"
+  },
+  {
+    "text": "ﯛ",
+    "pos": 17,
+    "url": "https://audio.qurancdn.com/wbw/012_083_020.mp3"
+  },
+  {
+    "text": "ﯜ",
+    "pos": 18,
+    "url": "https://audio.qurancdn.com/wbw/012_083_021.mp3"
+  },
+  {
+    "text": "ﯝ",
+    "pos": 19,
+    "url": null
+  }
+]
+
+Query: "كأسا دهاقا" -> Found in 78:34
+Ayah 78:34: [
+  {
+    "text": "ﭛ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/078_034_001.mp3"
+  },
+  {
+    "text": "ﭜ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/078_034_002.mp3"
+  },
+  {
+    "text": "ﭝ",
+    "pos": 3,
+    "url": null
+  }
+]
+
+Query: "سراعا ذلك" -> Found in 70:43
+Ayah 70:43: [
+  {
+    "text": "ﭫ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/070_043_001.mp3"
+  },
+  {
+    "text": "ﭬ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/070_043_002.mp3"
+  },
+  {
+    "text": "ﭭ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/070_043_003.mp3"
+  },
+  {
+    "text": "ﭮ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/070_043_004.mp3"
+  },
+  {
+    "text": "ﭯ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/070_043_005.mp3"
+  },
+  {
+    "text": "ﭰ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/070_043_006.mp3"
+  },
+  {
+    "text": "ﭱ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/070_043_007.mp3"
+  },
+  {
+    "text": "ﭲ",
+    "pos": 8,
+    "url": "https://audio.qurancdn.com/wbw/070_043_008.mp3"
+  },
+  {
+    "text": "ﭳ",
+    "pos": 9,
+    "url": "https://audio.qurancdn.com/wbw/070_043_009.mp3"
+  },
+  {
+    "text": "ﭴ",
+    "pos": 10,
+    "url": null
+  }
+]
+
+Query: "صعيدا زلقا" -> Found in 18:40
+Ayah 18:40: [
+  {
+    "text": "ﮚ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/018_040_001.mp3"
+  },
+  {
+    "text": "ﮛ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/018_040_002.mp3"
+  },
+  {
+    "text": "ﮜ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/018_040_003.mp3"
+  },
+  {
+    "text": "ﮝ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/018_040_004.mp3"
+  },
+  {
+    "text": "ﮞ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/018_040_005.mp3"
+  },
+  {
+    "text": "ﮟ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/018_040_006.mp3"
+  },
+  {
+    "text": "ﮠ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/018_040_007.mp3"
+  },
+  {
+    "text": "ﮡ",
+    "pos": 8,
+    "url": "https://audio.qurancdn.com/wbw/018_040_008.mp3"
+  },
+  {
+    "text": "ﮢ",
+    "pos": 9,
+    "url": "https://audio.qurancdn.com/wbw/018_040_009.mp3"
+  },
+  {
+    "text": "ﮣ",
+    "pos": 10,
+    "url": "https://audio.qurancdn.com/wbw/018_040_010.mp3"
+  },
+  {
+    "text": "ﮤ",
+    "pos": 11,
+    "url": "https://audio.qurancdn.com/wbw/018_040_011.mp3"
+  },
+  {
+    "text": "ﮥ",
+    "pos": 12,
+    "url": "https://audio.qurancdn.com/wbw/018_040_012.mp3"
+  },
+  {
+    "text": "ﮦ",
+    "pos": 13,
+    "url": "https://audio.qurancdn.com/wbw/018_040_013.mp3"
+  },
+  {
+    "text": "ﮧ",
+    "pos": 14,
+    "url": "https://audio.qurancdn.com/wbw/018_040_014.mp3"
+  },
+  {
+    "text": "ﮨ",
+    "pos": 15,
+    "url": "https://audio.qurancdn.com/wbw/018_040_015.mp3"
+  },
+  {
+    "text": "ﮩ",
+    "pos": 16,
+    "url": null
+  }
+]
+
+Query: "قولا سديدا" -> Found in 33:70
+Ayah 33:70: [
+  {
+    "text": "ﮥ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/033_070_001.mp3"
+  },
+  {
+    "text": "ﮦ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/033_070_002.mp3"
+  },
+  {
+    "text": "ﮧ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/033_070_003.mp3"
+  },
+  {
+    "text": "ﮨ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/033_070_004.mp3"
+  },
+  {
+    "text": "ﮩ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/033_070_005.mp3"
+  },
+  {
+    "text": "ﮪ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/033_070_006.mp3"
+  },
+  {
+    "text": "ﮫ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/033_070_007.mp3"
+  },
+  {
+    "text": "ﮬ",
+    "pos": 8,
+    "url": "https://audio.qurancdn.com/wbw/033_070_008.mp3"
+  },
+  {
+    "text": "ﮭ",
+    "pos": 9,
+    "url": null
+  }
+]
+
+Query: "عذاب شديد" -> Found in 23:77
+Ayah 23:77: [
+  {
+    "text": "ﭧ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/023_077_001.mp3"
+  },
+  {
+    "text": "ﭨ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/023_077_002.mp3"
+  },
+  {
+    "text": "ﭩ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/023_077_003.mp3"
+  },
+  {
+    "text": "ﭪ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/023_077_004.mp3"
+  },
+  {
+    "text": "ﭫ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/023_077_005.mp3"
+  },
+  {
+    "text": "ﭬ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/023_077_006.mp3"
+  },
+  {
+    "text": "ﭭ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/023_077_007.mp3"
+  },
+  {
+    "text": "ﭮ",
+    "pos": 8,
+    "url": "https://audio.qurancdn.com/wbw/023_077_008.mp3"
+  },
+  {
+    "text": "ﭯ",
+    "pos": 9,
+    "url": "https://audio.qurancdn.com/wbw/023_077_009.mp3"
+  },
+  {
+    "text": "ﭰ",
+    "pos": 10,
+    "url": "https://audio.qurancdn.com/wbw/023_077_010.mp3"
+  },
+  {
+    "text": "ﭱ",
+    "pos": 11,
+    "url": "https://audio.qurancdn.com/wbw/023_077_011.mp3"
+  },
+  {
+    "text": "ﭲ",
+    "pos": 12,
+    "url": "https://audio.qurancdn.com/wbw/023_077_012.mp3"
+  },
+  {
+    "text": "ﭳ",
+    "pos": 13,
+    "url": null
+  }
+]
+
+Query: "عملا صالحا" -> Found in 9:102
+Ayah 9:102: [
+  {
+    "text": "ﮇ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/009_102_001.mp3"
+  },
+  {
+    "text": "ﮈ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/009_102_002.mp3"
+  },
+  {
+    "text": "ﮉ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/009_102_003.mp3"
+  },
+  {
+    "text": "ﮊ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/009_102_004.mp3"
+  },
+  {
+    "text": "ﮋ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/009_102_005.mp3"
+  },
+  {
+    "text": "ﮌ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/009_102_006.mp3"
+  },
+  {
+    "text": "ﮍ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/009_102_007.mp3"
+  },
+  {
+    "text": "ﮎ",
+    "pos": 8,
+    "url": "https://audio.qurancdn.com/wbw/009_102_008.mp3"
+  },
+  {
+    "text": "ﮏ",
+    "pos": 9,
+    "url": "https://audio.qurancdn.com/wbw/009_102_009.mp3"
+  },
+  {
+    "text": "ﮐ",
+    "pos": 10,
+    "url": "https://audio.qurancdn.com/wbw/009_102_010.mp3"
+  },
+  {
+    "text": "ﮑ",
+    "pos": 11,
+    "url": "https://audio.qurancdn.com/wbw/009_102_011.mp3"
+  },
+  {
+    "text": "ﮒ",
+    "pos": 12,
+    "url": "https://audio.qurancdn.com/wbw/009_102_012.mp3"
+  },
+  {
+    "text": "ﮓﮔ",
+    "pos": 13,
+    "url": "https://audio.qurancdn.com/wbw/009_102_013.mp3"
+  },
+  {
+    "text": "ﮕ",
+    "pos": 14,
+    "url": "https://audio.qurancdn.com/wbw/009_102_015.mp3"
+  },
+  {
+    "text": "ﮖ",
+    "pos": 15,
+    "url": "https://audio.qurancdn.com/wbw/009_102_016.mp3"
+  },
+  {
+    "text": "ﮗ",
+    "pos": 16,
+    "url": "https://audio.qurancdn.com/wbw/009_102_017.mp3"
+  },
+  {
+    "text": "ﮘ",
+    "pos": 17,
+    "url": "https://audio.qurancdn.com/wbw/009_102_018.mp3"
+  },
+  {
+    "text": "ﮙ",
+    "pos": 18,
+    "url": null
+  }
+]
+
+Query: "عذابا ضعفا" -> Found in 38:61
+Ayah 38:61: [
+  {
+    "text": "ﰉ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/038_061_001.mp3"
+  },
+  {
+    "text": "ﰊ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/038_061_002.mp3"
+  },
+  {
+    "text": "ﰋ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/038_061_003.mp3"
+  },
+  {
+    "text": "ﰌ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/038_061_004.mp3"
+  },
+  {
+    "text": "ﰍ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/038_061_005.mp3"
+  },
+  {
+    "text": "ﰎ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/038_061_006.mp3"
+  },
+  {
+    "text": "ﰏ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/038_061_007.mp3"
+  },
+  {
+    "text": "ﰐ",
+    "pos": 8,
+    "url": "https://audio.qurancdn.com/wbw/038_061_008.mp3"
+  },
+  {
+    "text": "ﰑ",
+    "pos": 9,
+    "url": "https://audio.qurancdn.com/wbw/038_061_009.mp3"
+  },
+  {
+    "text": "ﰒ",
+    "pos": 10,
+    "url": "https://audio.qurancdn.com/wbw/038_061_010.mp3"
+  },
+  {
+    "text": "ﰓ",
+    "pos": 11,
+    "url": "https://audio.qurancdn.com/wbw/038_061_011.mp3"
+  },
+  {
+    "text": "ﰔ",
+    "pos": 12,
+    "url": null
+  }
+]
+
+Query: "سبحا طويلا" -> Found in 73:7
+Ayah 73:7: [
+  {
+    "text": "ﭵ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/073_007_001.mp3"
+  },
+  {
+    "text": "ﭶ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/073_007_002.mp3"
+  },
+  {
+    "text": "ﭷ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/073_007_003.mp3"
+  },
+  {
+    "text": "ﭸ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/073_007_004.mp3"
+  },
+  {
+    "text": "ﭹ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/073_007_005.mp3"
+  },
+  {
+    "text": "ﭺ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/073_007_006.mp3"
+  },
+  {
+    "text": "ﭻ",
+    "pos": 7,
+    "url": null
+  }
+]
+
+Query: "سحاب ظلمات" -> Found in 52:44
+Ayah 52:44: [
+  {
+    "text": "ﯘ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/052_044_001.mp3"
+  },
+  {
+    "text": "ﯙ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/052_044_002.mp3"
+  },
+  {
+    "text": "ﯚ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/052_044_003.mp3"
+  },
+  {
+    "text": "ﯛ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/052_044_004.mp3"
+  },
+  {
+    "text": "ﯜ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/052_044_005.mp3"
+  },
+  {
+    "text": "ﯝ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/052_044_006.mp3"
+  },
+  {
+    "text": "ﯞ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/052_044_007.mp3"
+  },
+  {
+    "text": "ﯟ",
+    "pos": 8,
+    "url": "https://audio.qurancdn.com/wbw/052_044_008.mp3"
+  },
+  {
+    "text": "ﯠ",
+    "pos": 9,
+    "url": "https://audio.qurancdn.com/wbw/052_044_009.mp3"
+  },
+  {
+    "text": "ﯡ",
+    "pos": 10,
+    "url": null
+  }
+]
+
+Query: "قوما فاسقين" -> Found in 43:54
+Ayah 43:54: [
+  {
+    "text": "ﮟ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/043_054_001.mp3"
+  },
+  {
+    "text": "ﮠ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/043_054_002.mp3"
+  },
+  {
+    "text": "ﮡﮢ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/043_054_003.mp3"
+  },
+  {
+    "text": "ﮣ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/043_054_005.mp3"
+  },
+  {
+    "text": "ﮤ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/043_054_006.mp3"
+  },
+  {
+    "text": "ﮥ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/043_054_007.mp3"
+  },
+  {
+    "text": "ﮦ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/043_054_008.mp3"
+  },
+  {
+    "text": "ﮧ",
+    "pos": 8,
+    "url": null
+  }
+]
+
+Query: "ثمنا قليلا" -> Found in 16:95
+Ayah 16:95: [
+  {
+    "text": "ﭦ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/016_095_001.mp3"
+  },
+  {
+    "text": "ﭧ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/016_095_002.mp3"
+  },
+  {
+    "text": "ﭨ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/016_095_003.mp3"
+  },
+  {
+    "text": "ﭩ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/016_095_004.mp3"
+  },
+  {
+    "text": "ﭪ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/016_095_005.mp3"
+  },
+  {
+    "text": "ﭫﭬ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/016_095_006.mp3"
+  },
+  {
+    "text": "ﭭ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/016_095_008.mp3"
+  },
+  {
+    "text": "ﭮ",
+    "pos": 8,
+    "url": "https://audio.qurancdn.com/wbw/016_095_009.mp3"
+  },
+  {
+    "text": "ﭯ",
+    "pos": 9,
+    "url": "https://audio.qurancdn.com/wbw/016_095_010.mp3"
+  },
+  {
+    "text": "ﭰ",
+    "pos": 10,
+    "url": "https://audio.qurancdn.com/wbw/016_095_011.mp3"
+  },
+  {
+    "text": "ﭱ",
+    "pos": 11,
+    "url": "https://audio.qurancdn.com/wbw/016_095_012.mp3"
+  },
+  {
+    "text": "ﭲ",
+    "pos": 12,
+    "url": "https://audio.qurancdn.com/wbw/016_095_013.mp3"
+  },
+  {
+    "text": "ﭳ",
+    "pos": 13,
+    "url": "https://audio.qurancdn.com/wbw/016_095_014.mp3"
+  },
+  {
+    "text": "ﭴ",
+    "pos": 14,
+    "url": "https://audio.qurancdn.com/wbw/016_095_015.mp3"
+  },
+  {
+    "text": "ﭵ",
+    "pos": 15,
+    "url": "https://audio.qurancdn.com/wbw/016_095_016.mp3"
+  },
+  {
+    "text": "ﭶ",
+    "pos": 16,
+    "url": null
+  }
+]
+
+Query: "رسول كريم" -> Found in 81:19
+Ayah 81:19: [
+  {
+    "text": "ﮙ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/081_019_001.mp3"
+  },
+  {
+    "text": "ﮚ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/081_019_002.mp3"
+  },
+  {
+    "text": "ﮛ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/081_019_003.mp3"
+  },
+  {
+    "text": "ﮜ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/081_019_004.mp3"
+  },
+  {
+    "text": "ﮝ",
+    "pos": 5,
+    "url": null
+  }
+]
+
+Query: "كراما كاتبين" -> Found in 82:11
+Ayah 82:11: [
+  {
+    "text": "ﮃ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/082_011_001.mp3"
+  },
+  {
+    "text": "ﮄ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/082_011_002.mp3"
+  },
+  {
+    "text": "ﮅ",
+    "pos": 3,
+    "url": null
+  }
+]
+
+Query: "من يقول" -> Found in 90:6
+Ayah 90:6: [
+  {
+    "text": "ﮍ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/090_006_001.mp3"
+  },
+  {
+    "text": "ﮎ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/090_006_002.mp3"
+  },
+  {
+    "text": "ﮏ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/090_006_003.mp3"
+  },
+  {
+    "text": "ﮐ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/090_006_004.mp3"
+  },
+  {
+    "text": "ﮑ",
+    "pos": 5,
+    "url": null
+  }
+]
+
+Query: "من ورق الجنة" -> Found in 20:121
+Ayah 20:121: [
+  {
+    "text": "ﮥ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/020_121_001.mp3"
+  },
+  {
+    "text": "ﮦ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/020_121_002.mp3"
+  },
+  {
+    "text": "ﮧ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/020_121_003.mp3"
+  },
+  {
+    "text": "ﮨ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/020_121_004.mp3"
+  },
+  {
+    "text": "ﮩ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/020_121_005.mp3"
+  },
+  {
+    "text": "ﮪ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/020_121_006.mp3"
+  },
+  {
+    "text": "ﮫ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/020_121_007.mp3"
+  },
+  {
+    "text": "ﮬ",
+    "pos": 8,
+    "url": "https://audio.qurancdn.com/wbw/020_121_008.mp3"
+  },
+  {
+    "text": "ﮭ",
+    "pos": 9,
+    "url": "https://audio.qurancdn.com/wbw/020_121_009.mp3"
+  },
+  {
+    "text": "ﮮ",
+    "pos": 10,
+    "url": "https://audio.qurancdn.com/wbw/020_121_010.mp3"
+  },
+  {
+    "text": "ﮯﮰ",
+    "pos": 11,
+    "url": "https://audio.qurancdn.com/wbw/020_121_011.mp3"
+  },
+  {
+    "text": "ﮱ",
+    "pos": 12,
+    "url": "https://audio.qurancdn.com/wbw/020_121_013.mp3"
+  },
+  {
+    "text": "ﯓ",
+    "pos": 13,
+    "url": "https://audio.qurancdn.com/wbw/020_121_014.mp3"
+  },
+  {
+    "text": "ﯔ",
+    "pos": 14,
+    "url": "https://audio.qurancdn.com/wbw/020_121_015.mp3"
+  },
+  {
+    "text": "ﯕ",
+    "pos": 15,
+    "url": "https://audio.qurancdn.com/wbw/020_121_016.mp3"
+  },
+  {
+    "text": "ﯖ",
+    "pos": 16,
+    "url": null
+  }
+]
+
+Query: "من يوم" -> Found in 70:43
+Ayah 70:43: [
+  {
+    "text": "ﭫ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/070_043_001.mp3"
+  },
+  {
+    "text": "ﭬ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/070_043_002.mp3"
+  },
+  {
+    "text": "ﭭ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/070_043_003.mp3"
+  },
+  {
+    "text": "ﭮ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/070_043_004.mp3"
+  },
+  {
+    "text": "ﭯ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/070_043_005.mp3"
+  },
+  {
+    "text": "ﭰ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/070_043_006.mp3"
+  },
+  {
+    "text": "ﭱ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/070_043_007.mp3"
+  },
+  {
+    "text": "ﭲ",
+    "pos": 8,
+    "url": "https://audio.qurancdn.com/wbw/070_043_008.mp3"
+  },
+  {
+    "text": "ﭳ",
+    "pos": 9,
+    "url": "https://audio.qurancdn.com/wbw/070_043_009.mp3"
+  },
+  {
+    "text": "ﭴ",
+    "pos": 10,
+    "url": null
+  }
+]
+
+Query: "من ولي" -> Found in 20:18
+Ayah 20:18: [
+  {
+    "text": "ﭾ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/020_018_001.mp3"
+  },
+  {
+    "text": "ﭿ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/020_018_002.mp3"
+  },
+  {
+    "text": "ﮀ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/020_018_003.mp3"
+  },
+  {
+    "text": "ﮁ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/020_018_004.mp3"
+  },
+  {
+    "text": "ﮂ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/020_018_005.mp3"
+  },
+  {
+    "text": "ﮃ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/020_018_006.mp3"
+  },
+  {
+    "text": "ﮄ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/020_018_007.mp3"
+  },
+  {
+    "text": "ﮅ",
+    "pos": 8,
+    "url": "https://audio.qurancdn.com/wbw/020_018_008.mp3"
+  },
+  {
+    "text": "ﮆ",
+    "pos": 9,
+    "url": "https://audio.qurancdn.com/wbw/020_018_009.mp3"
+  },
+  {
+    "text": "ﮇ",
+    "pos": 10,
+    "url": "https://audio.qurancdn.com/wbw/020_018_010.mp3"
+  },
+  {
+    "text": "ﮈ",
+    "pos": 11,
+    "url": "https://audio.qurancdn.com/wbw/020_018_011.mp3"
+  },
+  {
+    "text": "ﮉ",
+    "pos": 12,
+    "url": "https://audio.qurancdn.com/wbw/020_018_012.mp3"
+  },
+  {
+    "text": "ﮊ",
+    "pos": 13,
+    "url": "https://audio.qurancdn.com/wbw/020_018_013.mp3"
+  },
+  {
+    "text": "ﮋ",
+    "pos": 14,
+    "url": null
+  }
+]
+
+Query: "من مشهد" -> Found in 19:37
+Ayah 19:37: [
+  {
+    "text": "ﯸ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/019_037_001.mp3"
+  },
+  {
+    "text": "ﯹ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/019_037_002.mp3"
+  },
+  {
+    "text": "ﯺ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/019_037_003.mp3"
+  },
+  {
+    "text": "ﯻﯼ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/019_037_004.mp3"
+  },
+  {
+    "text": "ﯽ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/019_037_006.mp3"
+  },
+  {
+    "text": "ﯾ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/019_037_007.mp3"
+  },
+  {
+    "text": "ﯿ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/019_037_008.mp3"
+  },
+  {
+    "text": "ﰀ",
+    "pos": 8,
+    "url": "https://audio.qurancdn.com/wbw/019_037_009.mp3"
+  },
+  {
+    "text": "ﰁ",
+    "pos": 9,
+    "url": "https://audio.qurancdn.com/wbw/019_037_010.mp3"
+  },
+  {
+    "text": "ﰂ",
+    "pos": 10,
+    "url": "https://audio.qurancdn.com/wbw/019_037_011.mp3"
+  },
+  {
+    "text": "ﰃ",
+    "pos": 11,
+    "url": "https://audio.qurancdn.com/wbw/019_037_012.mp3"
+  },
+  {
+    "text": "ﰄ",
+    "pos": 12,
+    "url": null
+  }
+]
+
+Query: "من مثله" -> Found in 11:13
+Ayah 11:13: [
+  {
+    "text": "ﭑ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/011_013_001.mp3"
+  },
+  {
+    "text": "ﭒ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/011_013_002.mp3"
+  },
+  {
+    "text": "ﭓﭔ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/011_013_003.mp3"
+  },
+  {
+    "text": "ﭕ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/011_013_005.mp3"
+  },
+  {
+    "text": "ﭖ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/011_013_006.mp3"
+  },
+  {
+    "text": "ﭗ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/011_013_007.mp3"
+  },
+  {
+    "text": "ﭘ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/011_013_008.mp3"
+  },
+  {
+    "text": "ﭙ",
+    "pos": 8,
+    "url": "https://audio.qurancdn.com/wbw/011_013_009.mp3"
+  },
+  {
+    "text": "ﭚ",
+    "pos": 9,
+    "url": "https://audio.qurancdn.com/wbw/011_013_010.mp3"
+  },
+  {
+    "text": "ﭛ",
+    "pos": 10,
+    "url": "https://audio.qurancdn.com/wbw/011_013_011.mp3"
+  },
+  {
+    "text": "ﭜ",
+    "pos": 11,
+    "url": "https://audio.qurancdn.com/wbw/011_013_012.mp3"
+  },
+  {
+    "text": "ﭝ",
+    "pos": 12,
+    "url": "https://audio.qurancdn.com/wbw/011_013_013.mp3"
+  },
+  {
+    "text": "ﭞ",
+    "pos": 13,
+    "url": "https://audio.qurancdn.com/wbw/011_013_014.mp3"
+  },
+  {
+    "text": "ﭟ",
+    "pos": 14,
+    "url": "https://audio.qurancdn.com/wbw/011_013_015.mp3"
+  },
+  {
+    "text": "ﭠ",
+    "pos": 15,
+    "url": "https://audio.qurancdn.com/wbw/011_013_016.mp3"
+  },
+  {
+    "text": "ﭡ",
+    "pos": 16,
+    "url": "https://audio.qurancdn.com/wbw/011_013_017.mp3"
+  },
+  {
+    "text": "ﭢ",
+    "pos": 17,
+    "url": "https://audio.qurancdn.com/wbw/011_013_018.mp3"
+  },
+  {
+    "text": "ﭣ",
+    "pos": 18,
+    "url": "https://audio.qurancdn.com/wbw/011_013_019.mp3"
+  },
+  {
+    "text": "ﭤ",
+    "pos": 19,
+    "url": null
+  }
+]
+
+Query: "من نصير" -> Found in 29:22
+Ayah 29:22: [
+  {
+    "text": "ﯤ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/029_022_001.mp3"
+  },
+  {
+    "text": "ﯥ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/029_022_002.mp3"
+  },
+  {
+    "text": "ﯦ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/029_022_003.mp3"
+  },
+  {
+    "text": "ﯧ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/029_022_004.mp3"
+  },
+  {
+    "text": "ﯨ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/029_022_005.mp3"
+  },
+  {
+    "text": "ﯩ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/029_022_006.mp3"
+  },
+  {
+    "text": "ﯪ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/029_022_007.mp3"
+  },
+  {
+    "text": "ﯫﯬ",
+    "pos": 8,
+    "url": "https://audio.qurancdn.com/wbw/029_022_008.mp3"
+  },
+  {
+    "text": "ﯭ",
+    "pos": 9,
+    "url": "https://audio.qurancdn.com/wbw/029_022_010.mp3"
+  },
+  {
+    "text": "ﯮ",
+    "pos": 10,
+    "url": "https://audio.qurancdn.com/wbw/029_022_011.mp3"
+  },
+  {
+    "text": "ﯯ",
+    "pos": 11,
+    "url": "https://audio.qurancdn.com/wbw/029_022_012.mp3"
+  },
+  {
+    "text": "ﯰ",
+    "pos": 12,
+    "url": "https://audio.qurancdn.com/wbw/029_022_013.mp3"
+  },
+  {
+    "text": "ﯱ",
+    "pos": 13,
+    "url": "https://audio.qurancdn.com/wbw/029_022_014.mp3"
+  },
+  {
+    "text": "ﯲ",
+    "pos": 14,
+    "url": "https://audio.qurancdn.com/wbw/029_022_015.mp3"
+  },
+  {
+    "text": "ﯳ",
+    "pos": 15,
+    "url": "https://audio.qurancdn.com/wbw/029_022_016.mp3"
+  },
+  {
+    "text": "ﯴ",
+    "pos": 16,
+    "url": "https://audio.qurancdn.com/wbw/029_022_017.mp3"
+  },
+  {
+    "text": "ﯵ",
+    "pos": 17,
+    "url": "https://audio.qurancdn.com/wbw/029_022_018.mp3"
+  },
+  {
+    "text": "ﯶ",
+    "pos": 18,
+    "url": null
+  }
+]
+
+Query: "من نطفة" -> Found in 80:19
+Ayah 80:19: [
+  {
+    "text": "ﮚ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/080_019_001.mp3"
+  },
+  {
+    "text": "ﮛ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/080_019_002.mp3"
+  },
+  {
+    "text": "ﮜ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/080_019_003.mp3"
+  },
+  {
+    "text": "ﮝ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/080_019_004.mp3"
+  },
+  {
+    "text": "ﮞ",
+    "pos": 5,
+    "url": null
+  }
+]
+
+Query: "كتابا يلقاه" -> Found in 17:13
+Ayah 17:13: [
+  {
+    "text": "ﮞ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/017_013_001.mp3"
+  },
+  {
+    "text": "ﮟ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/017_013_002.mp3"
+  },
+  {
+    "text": "ﮠ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/017_013_003.mp3"
+  },
+  {
+    "text": "ﮡ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/017_013_004.mp3"
+  },
+  {
+    "text": "ﮢ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/017_013_005.mp3"
+  },
+  {
+    "text": "ﮣﮤ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/017_013_006.mp3"
+  },
+  {
+    "text": "ﮥ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/017_013_008.mp3"
+  },
+  {
+    "text": "ﮦ",
+    "pos": 8,
+    "url": "https://audio.qurancdn.com/wbw/017_013_009.mp3"
+  },
+  {
+    "text": "ﮧ",
+    "pos": 9,
+    "url": "https://audio.qurancdn.com/wbw/017_013_010.mp3"
+  },
+  {
+    "text": "ﮨ",
+    "pos": 10,
+    "url": "https://audio.qurancdn.com/wbw/017_013_011.mp3"
+  },
+  {
+    "text": "ﮩ",
+    "pos": 11,
+    "url": "https://audio.qurancdn.com/wbw/017_013_012.mp3"
+  },
+  {
+    "text": "ﮪ",
+    "pos": 12,
+    "url": "https://audio.qurancdn.com/wbw/017_013_013.mp3"
+  },
+  {
+    "text": "ﮫ",
+    "pos": 13,
+    "url": "https://audio.qurancdn.com/wbw/017_013_014.mp3"
+  },
+  {
+    "text": "ﮬ",
+    "pos": 14,
+    "url": null
+  }
+]
+
+Query: "هدى وذكرى" -> Found in 40:54
+Ayah 40:54: [
+  {
+    "text": "ﮆ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/040_054_001.mp3"
+  },
+  {
+    "text": "ﮇ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/040_054_002.mp3"
+  },
+  {
+    "text": "ﮈ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/040_054_003.mp3"
+  },
+  {
+    "text": "ﮉ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/040_054_004.mp3"
+  },
+  {
+    "text": "ﮊ",
+    "pos": 5,
+    "url": null
+  }
+]
+
+Query: "سراجا منيرا" -> Found in 25:61
+Ayah 25:61: [
+  {
+    "text": "ﮗ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/025_061_001.mp3"
+  },
+  {
+    "text": "ﮘ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/025_061_002.mp3"
+  },
+  {
+    "text": "ﮙ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/025_061_003.mp3"
+  },
+  {
+    "text": "ﮚ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/025_061_004.mp3"
+  },
+  {
+    "text": "ﮛ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/025_061_005.mp3"
+  },
+  {
+    "text": "ﮜ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/025_061_006.mp3"
+  },
+  {
+    "text": "ﮝ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/025_061_007.mp3"
+  },
+  {
+    "text": "ﮞ",
+    "pos": 8,
+    "url": "https://audio.qurancdn.com/wbw/025_061_008.mp3"
+  },
+  {
+    "text": "ﮟ",
+    "pos": 9,
+    "url": "https://audio.qurancdn.com/wbw/025_061_009.mp3"
+  },
+  {
+    "text": "ﮠ",
+    "pos": 10,
+    "url": "https://audio.qurancdn.com/wbw/025_061_010.mp3"
+  },
+  {
+    "text": "ﮡ",
+    "pos": 11,
+    "url": "https://audio.qurancdn.com/wbw/025_061_011.mp3"
+  },
+  {
+    "text": "ﮢ",
+    "pos": 12,
+    "url": null
+  }
+]
+
+Query: "حطة نغفر لكم" -> Found in 2:58
+Ayah 2:58: [
+  {
+    "text": "ﭑ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/002_058_001.mp3"
+  },
+  {
+    "text": "ﭒ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/002_058_002.mp3"
+  },
+  {
+    "text": "ﭓ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/002_058_003.mp3"
+  },
+  {
+    "text": "ﭔ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/002_058_004.mp3"
+  },
+  {
+    "text": "ﭕ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/002_058_005.mp3"
+  },
+  {
+    "text": "ﭖ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/002_058_006.mp3"
+  },
+  {
+    "text": "ﭗ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/002_058_007.mp3"
+  },
+  {
+    "text": "ﭘ",
+    "pos": 8,
+    "url": "https://audio.qurancdn.com/wbw/002_058_008.mp3"
+  },
+  {
+    "text": "ﭙ",
+    "pos": 9,
+    "url": "https://audio.qurancdn.com/wbw/002_058_009.mp3"
+  },
+  {
+    "text": "ﭚ",
+    "pos": 10,
+    "url": "https://audio.qurancdn.com/wbw/002_058_010.mp3"
+  },
+  {
+    "text": "ﭛ",
+    "pos": 11,
+    "url": "https://audio.qurancdn.com/wbw/002_058_011.mp3"
+  },
+  {
+    "text": "ﭜ",
+    "pos": 12,
+    "url": "https://audio.qurancdn.com/wbw/002_058_012.mp3"
+  },
+  {
+    "text": "ﭝ",
+    "pos": 13,
+    "url": "https://audio.qurancdn.com/wbw/002_058_013.mp3"
+  },
+  {
+    "text": "ﭞ",
+    "pos": 14,
+    "url": "https://audio.qurancdn.com/wbw/002_058_014.mp3"
+  },
+  {
+    "text": "ﭟ",
+    "pos": 15,
+    "url": "https://audio.qurancdn.com/wbw/002_058_015.mp3"
+  },
+  {
+    "text": "ﭠ",
+    "pos": 16,
+    "url": "https://audio.qurancdn.com/wbw/002_058_016.mp3"
+  },
+  {
+    "text": "ﭡ",
+    "pos": 17,
+    "url": "https://audio.qurancdn.com/wbw/002_058_017.mp3"
+  },
+  {
+    "text": "ﭢﭣ",
+    "pos": 18,
+    "url": "https://audio.qurancdn.com/wbw/002_058_018.mp3"
+  },
+  {
+    "text": "ﭤ",
+    "pos": 19,
+    "url": "https://audio.qurancdn.com/wbw/002_058_020.mp3"
+  },
+  {
+    "text": "ﭥ",
+    "pos": 20,
+    "url": "https://audio.qurancdn.com/wbw/002_058_021.mp3"
+  },
+  {
+    "text": "ﭦ",
+    "pos": 21,
+    "url": null
+  }
+]
+
+Query: "من ربك" -> Found in 11:119
+Ayah 11:119: [
+  {
+    "text": "ﭝ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/011_119_001.mp3"
+  },
+  {
+    "text": "ﭞ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/011_119_002.mp3"
+  },
+  {
+    "text": "ﭟ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/011_119_003.mp3"
+  },
+  {
+    "text": "ﭠﭡ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/011_119_004.mp3"
+  },
+  {
+    "text": "ﭢ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/011_119_006.mp3"
+  },
+  {
+    "text": "ﭣﭤ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/011_119_007.mp3"
+  },
+  {
+    "text": "ﭥ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/011_119_009.mp3"
+  },
+  {
+    "text": "ﭦ",
+    "pos": 8,
+    "url": "https://audio.qurancdn.com/wbw/011_119_010.mp3"
+  },
+  {
+    "text": "ﭧ",
+    "pos": 9,
+    "url": "https://audio.qurancdn.com/wbw/011_119_011.mp3"
+  },
+  {
+    "text": "ﭨ",
+    "pos": 10,
+    "url": "https://audio.qurancdn.com/wbw/011_119_012.mp3"
+  },
+  {
+    "text": "ﭩ",
+    "pos": 11,
+    "url": "https://audio.qurancdn.com/wbw/011_119_013.mp3"
+  },
+  {
+    "text": "ﭪ",
+    "pos": 12,
+    "url": "https://audio.qurancdn.com/wbw/011_119_014.mp3"
+  },
+  {
+    "text": "ﭫ",
+    "pos": 13,
+    "url": "https://audio.qurancdn.com/wbw/011_119_015.mp3"
+  },
+  {
+    "text": "ﭬ",
+    "pos": 14,
+    "url": "https://audio.qurancdn.com/wbw/011_119_016.mp3"
+  },
+  {
+    "text": "ﭭ",
+    "pos": 15,
+    "url": "https://audio.qurancdn.com/wbw/011_119_017.mp3"
+  },
+  {
+    "text": "ﭮ",
+    "pos": 16,
+    "url": null
+  }
+]
+
+Query: "من ربهم" -> Found in 53:23
+Ayah 53:23: [
+  {
+    "text": "ﯠ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/053_023_001.mp3"
+  },
+  {
+    "text": "ﯡ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/053_023_002.mp3"
+  },
+  {
+    "text": "ﯢ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/053_023_003.mp3"
+  },
+  {
+    "text": "ﯣ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/053_023_004.mp3"
+  },
+  {
+    "text": "ﯤ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/053_023_005.mp3"
+  },
+  {
+    "text": "ﯥ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/053_023_006.mp3"
+  },
+  {
+    "text": "ﯦ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/053_023_007.mp3"
+  },
+  {
+    "text": "ﯧ",
+    "pos": 8,
+    "url": "https://audio.qurancdn.com/wbw/053_023_008.mp3"
+  },
+  {
+    "text": "ﯨ",
+    "pos": 9,
+    "url": "https://audio.qurancdn.com/wbw/053_023_009.mp3"
+  },
+  {
+    "text": "ﯩ",
+    "pos": 10,
+    "url": "https://audio.qurancdn.com/wbw/053_023_010.mp3"
+  },
+  {
+    "text": "ﯪ",
+    "pos": 11,
+    "url": "https://audio.qurancdn.com/wbw/053_023_011.mp3"
+  },
+  {
+    "text": "ﯫ",
+    "pos": 12,
+    "url": "https://audio.qurancdn.com/wbw/053_023_012.mp3"
+  },
+  {
+    "text": "ﯬﯭ",
+    "pos": 13,
+    "url": "https://audio.qurancdn.com/wbw/053_023_013.mp3"
+  },
+  {
+    "text": "ﯮ",
+    "pos": 14,
+    "url": "https://audio.qurancdn.com/wbw/053_023_015.mp3"
+  },
+  {
+    "text": "ﯯ",
+    "pos": 15,
+    "url": "https://audio.qurancdn.com/wbw/053_023_016.mp3"
+  },
+  {
+    "text": "ﯰ",
+    "pos": 16,
+    "url": "https://audio.qurancdn.com/wbw/053_023_017.mp3"
+  },
+  {
+    "text": "ﯱ",
+    "pos": 17,
+    "url": "https://audio.qurancdn.com/wbw/053_023_018.mp3"
+  },
+  {
+    "text": "ﯲ",
+    "pos": 18,
+    "url": "https://audio.qurancdn.com/wbw/053_023_019.mp3"
+  },
+  {
+    "text": "ﯳ",
+    "pos": 19,
+    "url": "https://audio.qurancdn.com/wbw/053_023_020.mp3"
+  },
+  {
+    "text": "ﯴﯵ",
+    "pos": 20,
+    "url": "https://audio.qurancdn.com/wbw/053_023_021.mp3"
+  },
+  {
+    "text": "ﯶ",
+    "pos": 21,
+    "url": "https://audio.qurancdn.com/wbw/053_023_023.mp3"
+  },
+  {
+    "text": "ﯷ",
+    "pos": 22,
+    "url": "https://audio.qurancdn.com/wbw/053_023_024.mp3"
+  },
+  {
+    "text": "ﯸ",
+    "pos": 23,
+    "url": "https://audio.qurancdn.com/wbw/053_023_025.mp3"
+  },
+  {
+    "text": "ﯹ",
+    "pos": 24,
+    "url": "https://audio.qurancdn.com/wbw/053_023_026.mp3"
+  },
+  {
+    "text": "ﯺ",
+    "pos": 25,
+    "url": "https://audio.qurancdn.com/wbw/053_023_027.mp3"
+  },
+  {
+    "text": "ﯻ",
+    "pos": 26,
+    "url": null
+  }
+]
+
+Query: "من لدنه" -> Found in 4:40
+Ayah 4:40: [
+  {
+    "text": "ﭶ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/004_040_001.mp3"
+  },
+  {
+    "text": "ﭷ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/004_040_002.mp3"
+  },
+  {
+    "text": "ﭸ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/004_040_003.mp3"
+  },
+  {
+    "text": "ﭹ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/004_040_004.mp3"
+  },
+  {
+    "text": "ﭺ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/004_040_005.mp3"
+  },
+  {
+    "text": "ﭻﭼ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/004_040_006.mp3"
+  },
+  {
+    "text": "ﭽ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/004_040_008.mp3"
+  },
+  {
+    "text": "ﭾ",
+    "pos": 8,
+    "url": "https://audio.qurancdn.com/wbw/004_040_009.mp3"
+  },
+  {
+    "text": "ﭿ",
+    "pos": 9,
+    "url": "https://audio.qurancdn.com/wbw/004_040_010.mp3"
+  },
+  {
+    "text": "ﮀ",
+    "pos": 10,
+    "url": "https://audio.qurancdn.com/wbw/004_040_011.mp3"
+  },
+  {
+    "text": "ﮁ",
+    "pos": 11,
+    "url": "https://audio.qurancdn.com/wbw/004_040_012.mp3"
+  },
+  {
+    "text": "ﮂ",
+    "pos": 12,
+    "url": "https://audio.qurancdn.com/wbw/004_040_013.mp3"
+  },
+  {
+    "text": "ﮃ",
+    "pos": 13,
+    "url": "https://audio.qurancdn.com/wbw/004_040_014.mp3"
+  },
+  {
+    "text": "ﮄ",
+    "pos": 14,
+    "url": "https://audio.qurancdn.com/wbw/004_040_015.mp3"
+  },
+  {
+    "text": "ﮅ",
+    "pos": 15,
+    "url": "https://audio.qurancdn.com/wbw/004_040_016.mp3"
+  },
+  {
+    "text": "ﮆ",
+    "pos": 16,
+    "url": null
+  }
+]
+
+Query: "يكن له" -> Found in 4:85
+Ayah 4:85: [
+  {
+    "text": "ﯦ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/004_085_001.mp3"
+  },
+  {
+    "text": "ﯧ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/004_085_002.mp3"
+  },
+  {
+    "text": "ﯨ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/004_085_003.mp3"
+  },
+  {
+    "text": "ﯩ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/004_085_004.mp3"
+  },
+  {
+    "text": "ﯪ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/004_085_005.mp3"
+  },
+  {
+    "text": "ﯫ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/004_085_006.mp3"
+  },
+  {
+    "text": "ﯬ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/004_085_007.mp3"
+  },
+  {
+    "text": "ﯭﯮ",
+    "pos": 8,
+    "url": "https://audio.qurancdn.com/wbw/004_085_008.mp3"
+  },
+  {
+    "text": "ﯯ",
+    "pos": 9,
+    "url": "https://audio.qurancdn.com/wbw/004_085_010.mp3"
+  },
+  {
+    "text": "ﯰ",
+    "pos": 10,
+    "url": "https://audio.qurancdn.com/wbw/004_085_011.mp3"
+  },
+  {
+    "text": "ﯱ",
+    "pos": 11,
+    "url": "https://audio.qurancdn.com/wbw/004_085_012.mp3"
+  },
+  {
+    "text": "ﯲ",
+    "pos": 12,
+    "url": "https://audio.qurancdn.com/wbw/004_085_013.mp3"
+  },
+  {
+    "text": "ﯳ",
+    "pos": 13,
+    "url": "https://audio.qurancdn.com/wbw/004_085_014.mp3"
+  },
+  {
+    "text": "ﯴ",
+    "pos": 14,
+    "url": "https://audio.qurancdn.com/wbw/004_085_015.mp3"
+  },
+  {
+    "text": "ﯵ",
+    "pos": 15,
+    "url": "https://audio.qurancdn.com/wbw/004_085_016.mp3"
+  },
+  {
+    "text": "ﯶﯷ",
+    "pos": 16,
+    "url": "https://audio.qurancdn.com/wbw/004_085_017.mp3"
+  },
+  {
+    "text": "ﯸ",
+    "pos": 17,
+    "url": "https://audio.qurancdn.com/wbw/004_085_019.mp3"
+  },
+  {
+    "text": "ﯹ",
+    "pos": 18,
+    "url": "https://audio.qurancdn.com/wbw/004_085_020.mp3"
+  },
+  {
+    "text": "ﯺ",
+    "pos": 19,
+    "url": "https://audio.qurancdn.com/wbw/004_085_021.mp3"
+  },
+  {
+    "text": "ﯻ",
+    "pos": 20,
+    "url": "https://audio.qurancdn.com/wbw/004_085_022.mp3"
+  },
+  {
+    "text": "ﯼ",
+    "pos": 21,
+    "url": "https://audio.qurancdn.com/wbw/004_085_023.mp3"
+  },
+  {
+    "text": "ﯽ",
+    "pos": 22,
+    "url": "https://audio.qurancdn.com/wbw/004_085_024.mp3"
+  },
+  {
+    "text": "ﯾ",
+    "pos": 23,
+    "url": null
+  }
+]
+
+Query: "محمد رسول الله" -> Found in 33:40
+Ayah 33:40: [
+  {
+    "text": "ﯧ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/033_040_001.mp3"
+  },
+  {
+    "text": "ﯨ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/033_040_002.mp3"
+  },
+  {
+    "text": "ﯩ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/033_040_003.mp3"
+  },
+  {
+    "text": "ﯪ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/033_040_004.mp3"
+  },
+  {
+    "text": "ﯫ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/033_040_005.mp3"
+  },
+  {
+    "text": "ﯬ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/033_040_006.mp3"
+  },
+  {
+    "text": "ﯭ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/033_040_007.mp3"
+  },
+  {
+    "text": "ﯮ",
+    "pos": 8,
+    "url": "https://audio.qurancdn.com/wbw/033_040_008.mp3"
+  },
+  {
+    "text": "ﯯ",
+    "pos": 9,
+    "url": "https://audio.qurancdn.com/wbw/033_040_009.mp3"
+  },
+  {
+    "text": "ﯰ",
+    "pos": 10,
+    "url": "https://audio.qurancdn.com/wbw/033_040_010.mp3"
+  },
+  {
+    "text": "ﯱ",
+    "pos": 11,
+    "url": "https://audio.qurancdn.com/wbw/033_040_011.mp3"
+  },
+  {
+    "text": "ﯲﯳ",
+    "pos": 12,
+    "url": "https://audio.qurancdn.com/wbw/033_040_012.mp3"
+  },
+  {
+    "text": "ﯴ",
+    "pos": 13,
+    "url": "https://audio.qurancdn.com/wbw/033_040_014.mp3"
+  },
+  {
+    "text": "ﯵ",
+    "pos": 14,
+    "url": "https://audio.qurancdn.com/wbw/033_040_015.mp3"
+  },
+  {
+    "text": "ﯶ",
+    "pos": 15,
+    "url": "https://audio.qurancdn.com/wbw/033_040_016.mp3"
+  },
+  {
+    "text": "ﯷ",
+    "pos": 16,
+    "url": "https://audio.qurancdn.com/wbw/033_040_017.mp3"
+  },
+  {
+    "text": "ﯸ",
+    "pos": 17,
+    "url": "https://audio.qurancdn.com/wbw/033_040_018.mp3"
+  },
+  {
+    "text": "ﯹ",
+    "pos": 18,
+    "url": null
+  }
+]
+
+Query: "رءوف رحيم" -> Found in 24:20
+Ayah 24:20: [
+  {
+    "text": "ﰉ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/024_020_001.mp3"
+  },
+  {
+    "text": "ﰊ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/024_020_002.mp3"
+  },
+  {
+    "text": "ﰋ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/024_020_003.mp3"
+  },
+  {
+    "text": "ﰌ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/024_020_004.mp3"
+  },
+  {
+    "text": "ﰍ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/024_020_005.mp3"
+  },
+  {
+    "text": "ﰎ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/024_020_006.mp3"
+  },
+  {
+    "text": "ﰏ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/024_020_007.mp3"
+  },
+  {
+    "text": "ﰐ",
+    "pos": 8,
+    "url": "https://audio.qurancdn.com/wbw/024_020_008.mp3"
+  },
+  {
+    "text": "ﰑ",
+    "pos": 9,
+    "url": "https://audio.qurancdn.com/wbw/024_020_009.mp3"
+  },
+  {
+    "text": "ﰒ",
+    "pos": 10,
+    "url": null
+  }
+]
+
+Query: "مصدقا لما" -> Found in 5:46
+Ayah 5:46: [
+  {
+    "text": "ﭑ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/005_046_001.mp3"
+  },
+  {
+    "text": "ﭒ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/005_046_002.mp3"
+  },
+  {
+    "text": "ﭓ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/005_046_003.mp3"
+  },
+  {
+    "text": "ﭔ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/005_046_004.mp3"
+  },
+  {
+    "text": "ﭕ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/005_046_005.mp3"
+  },
+  {
+    "text": "ﭖ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/005_046_006.mp3"
+  },
+  {
+    "text": "ﭗ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/005_046_007.mp3"
+  },
+  {
+    "text": "ﭘ",
+    "pos": 8,
+    "url": "https://audio.qurancdn.com/wbw/005_046_008.mp3"
+  },
+  {
+    "text": "ﭙ",
+    "pos": 9,
+    "url": "https://audio.qurancdn.com/wbw/005_046_009.mp3"
+  },
+  {
+    "text": "ﭚ",
+    "pos": 10,
+    "url": "https://audio.qurancdn.com/wbw/005_046_010.mp3"
+  },
+  {
+    "text": "ﭛ",
+    "pos": 11,
+    "url": "https://audio.qurancdn.com/wbw/005_046_011.mp3"
+  },
+  {
+    "text": "ﭜﭝ",
+    "pos": 12,
+    "url": "https://audio.qurancdn.com/wbw/005_046_012.mp3"
+  },
+  {
+    "text": "ﭞ",
+    "pos": 13,
+    "url": "https://audio.qurancdn.com/wbw/005_046_014.mp3"
+  },
+  {
+    "text": "ﭟ",
+    "pos": 14,
+    "url": "https://audio.qurancdn.com/wbw/005_046_015.mp3"
+  },
+  {
+    "text": "ﭠ",
+    "pos": 15,
+    "url": "https://audio.qurancdn.com/wbw/005_046_016.mp3"
+  },
+  {
+    "text": "ﭡ",
+    "pos": 16,
+    "url": "https://audio.qurancdn.com/wbw/005_046_017.mp3"
+  },
+  {
+    "text": "ﭢ",
+    "pos": 17,
+    "url": "https://audio.qurancdn.com/wbw/005_046_018.mp3"
+  },
+  {
+    "text": "ﭣ",
+    "pos": 18,
+    "url": "https://audio.qurancdn.com/wbw/005_046_019.mp3"
+  },
+  {
+    "text": "ﭤ",
+    "pos": 19,
+    "url": "https://audio.qurancdn.com/wbw/005_046_020.mp3"
+  },
+  {
+    "text": "ﭥ",
+    "pos": 20,
+    "url": "https://audio.qurancdn.com/wbw/005_046_021.mp3"
+  },
+  {
+    "text": "ﭦ",
+    "pos": 21,
+    "url": "https://audio.qurancdn.com/wbw/005_046_022.mp3"
+  },
+  {
+    "text": "ﭧ",
+    "pos": 22,
+    "url": "https://audio.qurancdn.com/wbw/005_046_023.mp3"
+  },
+  {
+    "text": "ﭨ",
+    "pos": 23,
+    "url": "https://audio.qurancdn.com/wbw/005_046_024.mp3"
+  },
+  {
+    "text": "ﭩ",
+    "pos": 24,
+    "url": "https://audio.qurancdn.com/wbw/005_046_025.mp3"
+  },
+  {
+    "text": "ﭪ",
+    "pos": 25,
+    "url": "https://audio.qurancdn.com/wbw/005_046_026.mp3"
+  },
+  {
+    "text": "ﭫ",
+    "pos": 26,
+    "url": "https://audio.qurancdn.com/wbw/005_046_027.mp3"
+  },
+  {
+    "text": "ﭬ",
+    "pos": 27,
+    "url": null
+  }
+]
+
+Query: "ويل لكل" -> Found in 45:7
+Ayah 45:7: [
+  {
+    "text": "ﮎ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/045_007_001.mp3"
+  },
+  {
+    "text": "ﮏ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/045_007_002.mp3"
+  },
+  {
+    "text": "ﮐ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/045_007_003.mp3"
+  },
+  {
+    "text": "ﮑ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/045_007_004.mp3"
+  },
+  {
+    "text": "ﮒ",
+    "pos": 5,
+    "url": null
+  }
+]
+
+Query: "من بعد" -> Found in 30:19
+Ayah 30:19: [
+  {
+    "text": "ﭭ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/030_019_001.mp3"
+  },
+  {
+    "text": "ﭮ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/030_019_002.mp3"
+  },
+  {
+    "text": "ﭯ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/030_019_003.mp3"
+  },
+  {
+    "text": "ﭰ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/030_019_004.mp3"
+  },
+  {
+    "text": "ﭱ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/030_019_005.mp3"
+  },
+  {
+    "text": "ﭲ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/030_019_006.mp3"
+  },
+  {
+    "text": "ﭳ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/030_019_007.mp3"
+  },
+  {
+    "text": "ﭴ",
+    "pos": 8,
+    "url": "https://audio.qurancdn.com/wbw/030_019_008.mp3"
+  },
+  {
+    "text": "ﭵ",
+    "pos": 9,
+    "url": "https://audio.qurancdn.com/wbw/030_019_009.mp3"
+  },
+  {
+    "text": "ﭶ",
+    "pos": 10,
+    "url": "https://audio.qurancdn.com/wbw/030_019_010.mp3"
+  },
+  {
+    "text": "ﭷ",
+    "pos": 11,
+    "url": "https://audio.qurancdn.com/wbw/030_019_011.mp3"
+  },
+  {
+    "text": "ﭸﭹ",
+    "pos": 12,
+    "url": "https://audio.qurancdn.com/wbw/030_019_012.mp3"
+  },
+  {
+    "text": "ﭺ",
+    "pos": 13,
+    "url": "https://audio.qurancdn.com/wbw/030_019_014.mp3"
+  },
+  {
+    "text": "ﭻ",
+    "pos": 14,
+    "url": "https://audio.qurancdn.com/wbw/030_019_015.mp3"
+  },
+  {
+    "text": "ﭼ",
+    "pos": 15,
+    "url": null
+  }
+]
+
+Query: "من بقلها" -> Found in 2:61
+Ayah 2:61: [
+  {
+    "text": "ﮛ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/002_061_001.mp3"
+  },
+  {
+    "text": "ﮜ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/002_061_002.mp3"
+  },
+  {
+    "text": "ﮝ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/002_061_003.mp3"
+  },
+  {
+    "text": "ﮞ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/002_061_004.mp3"
+  },
+  {
+    "text": "ﮟ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/002_061_005.mp3"
+  },
+  {
+    "text": "ﮠ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/002_061_006.mp3"
+  },
+  {
+    "text": "ﮡ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/002_061_007.mp3"
+  },
+  {
+    "text": "ﮢ",
+    "pos": 8,
+    "url": "https://audio.qurancdn.com/wbw/002_061_008.mp3"
+  },
+  {
+    "text": "ﮣ",
+    "pos": 9,
+    "url": "https://audio.qurancdn.com/wbw/002_061_009.mp3"
+  },
+  {
+    "text": "ﮤ",
+    "pos": 10,
+    "url": "https://audio.qurancdn.com/wbw/002_061_010.mp3"
+  },
+  {
+    "text": "ﮥ",
+    "pos": 11,
+    "url": "https://audio.qurancdn.com/wbw/002_061_011.mp3"
+  },
+  {
+    "text": "ﮦ",
+    "pos": 12,
+    "url": "https://audio.qurancdn.com/wbw/002_061_012.mp3"
+  },
+  {
+    "text": "ﮧ",
+    "pos": 13,
+    "url": "https://audio.qurancdn.com/wbw/002_061_013.mp3"
+  },
+  {
+    "text": "ﮨ",
+    "pos": 14,
+    "url": "https://audio.qurancdn.com/wbw/002_061_014.mp3"
+  },
+  {
+    "text": "ﮩ",
+    "pos": 15,
+    "url": "https://audio.qurancdn.com/wbw/002_061_015.mp3"
+  },
+  {
+    "text": "ﮪ",
+    "pos": 16,
+    "url": "https://audio.qurancdn.com/wbw/002_061_016.mp3"
+  },
+  {
+    "text": "ﮫ",
+    "pos": 17,
+    "url": "https://audio.qurancdn.com/wbw/002_061_017.mp3"
+  },
+  {
+    "text": "ﮬ",
+    "pos": 18,
+    "url": "https://audio.qurancdn.com/wbw/002_061_018.mp3"
+  },
+  {
+    "text": "ﮭ",
+    "pos": 19,
+    "url": "https://audio.qurancdn.com/wbw/002_061_019.mp3"
+  },
+  {
+    "text": "ﮮ",
+    "pos": 20,
+    "url": "https://audio.qurancdn.com/wbw/002_061_020.mp3"
+  },
+  {
+    "text": "ﮯ",
+    "pos": 21,
+    "url": "https://audio.qurancdn.com/wbw/002_061_021.mp3"
+  },
+  {
+    "text": "ﮰﮱ",
+    "pos": 22,
+    "url": "https://audio.qurancdn.com/wbw/002_061_022.mp3"
+  },
+  {
+    "text": "ﯓ",
+    "pos": 23,
+    "url": "https://audio.qurancdn.com/wbw/002_061_024.mp3"
+  },
+  {
+    "text": "ﯔ",
+    "pos": 24,
+    "url": "https://audio.qurancdn.com/wbw/002_061_025.mp3"
+  },
+  {
+    "text": "ﯕ",
+    "pos": 25,
+    "url": "https://audio.qurancdn.com/wbw/002_061_026.mp3"
+  },
+  {
+    "text": "ﯖ",
+    "pos": 26,
+    "url": "https://audio.qurancdn.com/wbw/002_061_027.mp3"
+  },
+  {
+    "text": "ﯗ",
+    "pos": 27,
+    "url": "https://audio.qurancdn.com/wbw/002_061_028.mp3"
+  },
+  {
+    "text": "ﯘ",
+    "pos": 28,
+    "url": "https://audio.qurancdn.com/wbw/002_061_029.mp3"
+  },
+  {
+    "text": "ﯙ",
+    "pos": 29,
+    "url": "https://audio.qurancdn.com/wbw/002_061_030.mp3"
+  },
+  {
+    "text": "ﯚﯛ",
+    "pos": 30,
+    "url": "https://audio.qurancdn.com/wbw/002_061_031.mp3"
+  },
+  {
+    "text": "ﯜ",
+    "pos": 31,
+    "url": "https://audio.qurancdn.com/wbw/002_061_033.mp3"
+  },
+  {
+    "text": "ﯝ",
+    "pos": 32,
+    "url": "https://audio.qurancdn.com/wbw/002_061_034.mp3"
+  },
+  {
+    "text": "ﯞ",
+    "pos": 33,
+    "url": "https://audio.qurancdn.com/wbw/002_061_035.mp3"
+  },
+  {
+    "text": "ﯟ",
+    "pos": 34,
+    "url": "https://audio.qurancdn.com/wbw/002_061_036.mp3"
+  },
+  {
+    "text": "ﯠ",
+    "pos": 35,
+    "url": "https://audio.qurancdn.com/wbw/002_061_037.mp3"
+  },
+  {
+    "text": "ﯡﯢ",
+    "pos": 36,
+    "url": "https://audio.qurancdn.com/wbw/002_061_038.mp3"
+  },
+  {
+    "text": "ﯣ",
+    "pos": 37,
+    "url": "https://audio.qurancdn.com/wbw/002_061_040.mp3"
+  },
+  {
+    "text": "ﯤ",
+    "pos": 38,
+    "url": "https://audio.qurancdn.com/wbw/002_061_041.mp3"
+  },
+  {
+    "text": "ﯥ",
+    "pos": 39,
+    "url": "https://audio.qurancdn.com/wbw/002_061_042.mp3"
+  },
+  {
+    "text": "ﯦ",
+    "pos": 40,
+    "url": "https://audio.qurancdn.com/wbw/002_061_043.mp3"
+  },
+  {
+    "text": "ﯧ",
+    "pos": 41,
+    "url": "https://audio.qurancdn.com/wbw/002_061_044.mp3"
+  },
+  {
+    "text": "ﯨ",
+    "pos": 42,
+    "url": "https://audio.qurancdn.com/wbw/002_061_045.mp3"
+  },
+  {
+    "text": "ﯩ",
+    "pos": 43,
+    "url": "https://audio.qurancdn.com/wbw/002_061_046.mp3"
+  },
+  {
+    "text": "ﯪﯫ",
+    "pos": 44,
+    "url": "https://audio.qurancdn.com/wbw/002_061_047.mp3"
+  },
+  {
+    "text": "ﯬ",
+    "pos": 45,
+    "url": "https://audio.qurancdn.com/wbw/002_061_049.mp3"
+  },
+  {
+    "text": "ﯭ",
+    "pos": 46,
+    "url": "https://audio.qurancdn.com/wbw/002_061_050.mp3"
+  },
+  {
+    "text": "ﯮ",
+    "pos": 47,
+    "url": "https://audio.qurancdn.com/wbw/002_061_051.mp3"
+  },
+  {
+    "text": "ﯯ",
+    "pos": 48,
+    "url": "https://audio.qurancdn.com/wbw/002_061_052.mp3"
+  },
+  {
+    "text": "ﯰ",
+    "pos": 49,
+    "url": "https://audio.qurancdn.com/wbw/002_061_053.mp3"
+  },
+  {
+    "text": "ﯱ",
+    "pos": 50,
+    "url": "https://audio.qurancdn.com/wbw/002_061_054.mp3"
+  },
+  {
+    "text": "ﯲ",
+    "pos": 51,
+    "url": "https://audio.qurancdn.com/wbw/002_061_055.mp3"
+  },
+  {
+    "text": "ﯳ",
+    "pos": 52,
+    "url": "https://audio.qurancdn.com/wbw/002_061_056.mp3"
+  },
+  {
+    "text": "ﯴ",
+    "pos": 53,
+    "url": "https://audio.qurancdn.com/wbw/002_061_057.mp3"
+  },
+  {
+    "text": "ﯵﯶ",
+    "pos": 54,
+    "url": "https://audio.qurancdn.com/wbw/002_061_058.mp3"
+  },
+  {
+    "text": "ﯷ",
+    "pos": 55,
+    "url": "https://audio.qurancdn.com/wbw/002_061_060.mp3"
+  },
+  {
+    "text": "ﯸ",
+    "pos": 56,
+    "url": "https://audio.qurancdn.com/wbw/002_061_061.mp3"
+  },
+  {
+    "text": "ﯹ",
+    "pos": 57,
+    "url": "https://audio.qurancdn.com/wbw/002_061_062.mp3"
+  },
+  {
+    "text": "ﯺ",
+    "pos": 58,
+    "url": "https://audio.qurancdn.com/wbw/002_061_063.mp3"
+  },
+  {
+    "text": "ﯻ",
+    "pos": 59,
+    "url": "https://audio.qurancdn.com/wbw/002_061_064.mp3"
+  },
+  {
+    "text": "ﯼ",
+    "pos": 60,
+    "url": null
+  }
+]
+
+Query: "انبئهم" -> Found in 2:33
+Ayah 2:33: [
+  {
+    "text": "ﮎ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/002_033_001.mp3"
+  },
+  {
+    "text": "ﮏ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/002_033_002.mp3"
+  },
+  {
+    "text": "ﮐ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/002_033_003.mp3"
+  },
+  {
+    "text": "ﮑﮒ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/002_033_004.mp3"
+  },
+  {
+    "text": "ﮓ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/002_033_006.mp3"
+  },
+  {
+    "text": "ﮔ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/002_033_007.mp3"
+  },
+  {
+    "text": "ﮕ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/002_033_008.mp3"
+  },
+  {
+    "text": "ﮖ",
+    "pos": 8,
+    "url": "https://audio.qurancdn.com/wbw/002_033_009.mp3"
+  },
+  {
+    "text": "ﮗ",
+    "pos": 9,
+    "url": "https://audio.qurancdn.com/wbw/002_033_010.mp3"
+  },
+  {
+    "text": "ﮘ",
+    "pos": 10,
+    "url": "https://audio.qurancdn.com/wbw/002_033_011.mp3"
+  },
+  {
+    "text": "ﮙ",
+    "pos": 11,
+    "url": "https://audio.qurancdn.com/wbw/002_033_012.mp3"
+  },
+  {
+    "text": "ﮚ",
+    "pos": 12,
+    "url": "https://audio.qurancdn.com/wbw/002_033_013.mp3"
+  },
+  {
+    "text": "ﮛ",
+    "pos": 13,
+    "url": "https://audio.qurancdn.com/wbw/002_033_014.mp3"
+  },
+  {
+    "text": "ﮜ",
+    "pos": 14,
+    "url": "https://audio.qurancdn.com/wbw/002_033_015.mp3"
+  },
+  {
+    "text": "ﮝ",
+    "pos": 15,
+    "url": "https://audio.qurancdn.com/wbw/002_033_016.mp3"
+  },
+  {
+    "text": "ﮞ",
+    "pos": 16,
+    "url": "https://audio.qurancdn.com/wbw/002_033_017.mp3"
+  },
+  {
+    "text": "ﮟ",
+    "pos": 17,
+    "url": "https://audio.qurancdn.com/wbw/002_033_018.mp3"
+  },
+  {
+    "text": "ﮠ",
+    "pos": 18,
+    "url": "https://audio.qurancdn.com/wbw/002_033_019.mp3"
+  },
+  {
+    "text": "ﮡ",
+    "pos": 19,
+    "url": "https://audio.qurancdn.com/wbw/002_033_020.mp3"
+  },
+  {
+    "text": "ﮢ",
+    "pos": 20,
+    "url": "https://audio.qurancdn.com/wbw/002_033_021.mp3"
+  },
+  {
+    "text": "ﮣ",
+    "pos": 21,
+    "url": "https://audio.qurancdn.com/wbw/002_033_022.mp3"
+  },
+  {
+    "text": "ﮤ",
+    "pos": 22,
+    "url": "https://audio.qurancdn.com/wbw/002_033_023.mp3"
+  },
+  {
+    "text": "ﮥ",
+    "pos": 23,
+    "url": null
+  }
+]
+
+Query: "لينبذن" -> Found in 104:4
+Ayah 104:4: [
+  {
+    "text": "ﭱﭲ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/104_004_001.mp3"
+  },
+  {
+    "text": "ﭳ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/104_004_003.mp3"
+  },
+  {
+    "text": "ﭴ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/104_004_004.mp3"
+  },
+  {
+    "text": "ﭵ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/104_004_005.mp3"
+  },
+  {
+    "text": "ﭶ",
+    "pos": 5,
+    "url": null
+  }
+]
+
+Query: "قولا بليغا" -> Found in 4:63
+Ayah 4:63: [
+  {
+    "text": "ﮑ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/004_063_001.mp3"
+  },
+  {
+    "text": "ﮒ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/004_063_002.mp3"
+  },
+  {
+    "text": "ﮓ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/004_063_003.mp3"
+  },
+  {
+    "text": "ﮔ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/004_063_004.mp3"
+  },
+  {
+    "text": "ﮕ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/004_063_005.mp3"
+  },
+  {
+    "text": "ﮖ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/004_063_006.mp3"
+  },
+  {
+    "text": "ﮗ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/004_063_007.mp3"
+  },
+  {
+    "text": "ﮘ",
+    "pos": 8,
+    "url": "https://audio.qurancdn.com/wbw/004_063_008.mp3"
+  },
+  {
+    "text": "ﮙ",
+    "pos": 9,
+    "url": "https://audio.qurancdn.com/wbw/004_063_009.mp3"
+  },
+  {
+    "text": "ﮚ",
+    "pos": 10,
+    "url": "https://audio.qurancdn.com/wbw/004_063_010.mp3"
+  },
+  {
+    "text": "ﮛ",
+    "pos": 11,
+    "url": "https://audio.qurancdn.com/wbw/004_063_011.mp3"
+  },
+  {
+    "text": "ﮜ",
+    "pos": 12,
+    "url": "https://audio.qurancdn.com/wbw/004_063_012.mp3"
+  },
+  {
+    "text": "ﮝ",
+    "pos": 13,
+    "url": "https://audio.qurancdn.com/wbw/004_063_013.mp3"
+  },
+  {
+    "text": "ﮞ",
+    "pos": 14,
+    "url": "https://audio.qurancdn.com/wbw/004_063_014.mp3"
+  },
+  {
+    "text": "ﮟ",
+    "pos": 15,
+    "url": "https://audio.qurancdn.com/wbw/004_063_015.mp3"
+  },
+  {
+    "text": "ﮠ",
+    "pos": 16,
+    "url": "https://audio.qurancdn.com/wbw/004_063_016.mp3"
+  },
+  {
+    "text": "ﮡ",
+    "pos": 17,
+    "url": null
+  }
+]
+
+Query: "خبير بصيرا" -> Found in 11:1
+Ayah 11:1: [
+  {
+    "text": "ﮔﮕ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/011_001_001.mp3"
+  },
+  {
+    "text": "ﮖ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/011_001_003.mp3"
+  },
+  {
+    "text": "ﮗ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/011_001_004.mp3"
+  },
+  {
+    "text": "ﮘ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/011_001_005.mp3"
+  },
+  {
+    "text": "ﮙ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/011_001_006.mp3"
+  },
+  {
+    "text": "ﮚ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/011_001_007.mp3"
+  },
+  {
+    "text": "ﮛ",
+    "pos": 7,
+    "url": "https://audio.qurancdn.com/wbw/011_001_008.mp3"
+  },
+  {
+    "text": "ﮜ",
+    "pos": 8,
+    "url": "https://audio.qurancdn.com/wbw/011_001_009.mp3"
+  },
+  {
+    "text": "ﮝ",
+    "pos": 9,
+    "url": "https://audio.qurancdn.com/wbw/011_001_010.mp3"
+  },
+  {
+    "text": "ﮞ",
+    "pos": 10,
+    "url": "https://audio.qurancdn.com/wbw/011_001_011.mp3"
+  },
+  {
+    "text": "ﮟ",
+    "pos": 11,
+    "url": null
+  }
+]
+
+Query: "جنة بربوة" -> Found in 88:10
+Ayah 88:10: [
+  {
+    "text": "ﮎ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/088_010_001.mp3"
+  },
+  {
+    "text": "ﮏ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/088_010_002.mp3"
+  },
+  {
+    "text": "ﮐ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/088_010_003.mp3"
+  },
+  {
+    "text": "ﮑ",
+    "pos": 4,
+    "url": null
+  }
+]
+
+Query: "كرام بررة" -> Found in 80:16
+Ayah 80:16: [
+  {
+    "text": "ﮍ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/080_016_001.mp3"
+  },
+  {
+    "text": "ﮎ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/080_016_002.mp3"
+  },
+  {
+    "text": "ﮏ",
+    "pos": 3,
+    "url": null
+  }
+]
+
+Query: "حل بهذا" -> Found in 90:2
+Ayah 90:2: [
+  {
+    "text": "ﭷ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/090_002_001.mp3"
+  },
+  {
+    "text": "ﭸ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/090_002_002.mp3"
+  },
+  {
+    "text": "ﭹ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/090_002_003.mp3"
+  },
+  {
+    "text": "ﭺ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/090_002_004.mp3"
+  },
+  {
+    "text": "ﭻ",
+    "pos": 5,
+    "url": null
+  }
+]
+
+Query: "صم بكم" -> Found in 2:18
+Ayah 2:18: [
+  {
+    "text": "ﭣ",
+    "pos": 1,
+    "url": "https://audio.qurancdn.com/wbw/002_018_001.mp3"
+  },
+  {
+    "text": "ﭤ",
+    "pos": 2,
+    "url": "https://audio.qurancdn.com/wbw/002_018_002.mp3"
+  },
+  {
+    "text": "ﭥ",
+    "pos": 3,
+    "url": "https://audio.qurancdn.com/wbw/002_018_003.mp3"
+  },
+  {
+    "text": "ﭦ",
+    "pos": 4,
+    "url": "https://audio.qurancdn.com/wbw/002_018_004.mp3"
+  },
+  {
+    "text": "ﭧ",
+    "pos": 5,
+    "url": "https://audio.qurancdn.com/wbw/002_018_005.mp3"
+  },
+  {
+    "text": "ﭨ",
+    "pos": 6,
+    "url": "https://audio.qurancdn.com/wbw/002_018_006.mp3"
+  },
+  {
+    "text": "ﭩ",
+    "pos": 7,
+    "url": null
+  }
+]

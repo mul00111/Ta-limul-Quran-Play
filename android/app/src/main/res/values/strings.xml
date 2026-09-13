@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Ta\'limul Quran Play</string>
+    <string name="title_activity_main">Ta\'limul Quran Play</string>
+    <string name="package_name">com.talimulquranplay.app</string>
+    <string name="custom_url_scheme">com.talimulquranplay.app</string>
+</resources>
