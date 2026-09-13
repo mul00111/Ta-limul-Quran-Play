@@ -39,15 +39,9 @@ jobs:
         with:
           gradle-version: '8.11.1'
 
-      - name: Fix Gradle Wrapper
-        run: |
-          mkdir -p android/gradle/wrapper
-          curl -sLo android/gradle/wrapper/gradle-wrapper.jar https://raw.githubusercontent.com/gradle/gradle/v8.11.1/gradle/wrapper/gradle-wrapper.jar
-          chmod +x android/gradlew
-
       - name: Build Android Bundle (.aab)
         working-directory: android
-        run: ./gradlew bundleRelease --stacktrace
+        run: gradle bundleRelease --stacktrace
 
       - name: Upload .aab Artifact
         uses: actions/upload-artifact@v4
