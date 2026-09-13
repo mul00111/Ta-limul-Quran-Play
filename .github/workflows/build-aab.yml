@@ -14,37 +14,36 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 20
-          cache: 'npm'
+          node-version: 22
 
-      - name: Install Node Dependencies
-        run: npm ci || npm install
+      - name: Install Dependencies
+        run: npm install --legacy-peer-deps
 
-      - name: Build Web Assets
+      - name: Build Web Application
         run: npm run build
 
-      - name: Sync Capacitor Android
+      - name: Sync Android Assets
         run: npx cap sync android
 
       - name: Setup Java JDK
         uses: actions/setup-java@v4
         with:
-          distribution: 'zulu'
+          distribution: 'temurin'
           java-version: '17'
-          cache: 'gradle'
 
       - name: Setup Gradle
         uses: gradle/actions/setup-gradle@v3
 
-      - name: Build Android Release Bundle (.aab)
+      - name: Build Android Bundle (.aab)
         working-directory: android
         run: |
           chmod +x gradlew
-          ./gradlew bundleRelease --stacktrace
+          ./gradlew bundleRelease --no-daemon
 
       - name: Upload .aab Artifact
         uses: actions/upload-artifact@v4
         with:
-          name: app-release-aab
+          name: app-release-bundle
           path: android/app/build/outputs/bundle/release/*.aab
           retention-days: 7
+
