@@ -41,7 +41,13 @@ jobs:
 
       - name: Build Android Bundle (.aab)
         working-directory: android
-        run: gradle bundleRelease -x lint -x test --stacktrace
+        run: |
+          gradle bundleRelease -x lint -x test --continue || {
+            echo "================== EXACT ROOT CAUSE ERROR =================="
+            gradle bundleRelease -x lint -x test 2>&1 | grep -E -A 5 -B 2 "(FAILURE:|What went wrong|Execution failed|Compilation failed|error:)"
+            echo "============================================================"
+            exit 1
+          }
 
       - name: Upload .aab Artifact
         uses: actions/upload-artifact@v4
