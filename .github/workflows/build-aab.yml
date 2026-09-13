@@ -31,16 +31,15 @@ jobs:
           distribution: 'temurin'
           java-version: '21'
 
-      - name: Setup Gradle
-        uses: gradle/actions/setup-gradle@v3
-        with:
-          gradle-version: '8.13'
+      - name: Fix Gradle Wrapper Binary
+        run: |
+          mkdir -p android/gradle/wrapper
+          curl -sLo android/gradle/wrapper/gradle-wrapper.jar https://raw.githubusercontent.com/gradle/gradle/v8.11.1/gradle/wrapper/gradle-wrapper.jar
+          chmod +x android/gradlew
 
       - name: Build Android Bundle (.aab)
         working-directory: android
-        run: |
-          gradle wrapper --gradle-version 8.13
-          ./gradlew bundleRelease --no-daemon
+        run: ./gradlew bundleRelease --stacktrace
 
       - name: Upload .aab Artifact
         uses: actions/upload-artifact@v4
